@@ -1,18 +1,21 @@
+import os
 import time
+import glob
 
 from selenium import webdriver
 from selenium.common import StaleElementReferenceException, TimeoutException
 from selenium.webdriver.firefox.options import Options
-import os
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
+DOWNLOAD_DIR = r"C:\Users\luan_\Documents\tcc\output\webscrapping"
+
 def main():
     options = Options()
     options.set_preference("browser.download.folderList", 2)
-    options.set_preference("browser.download.dir", "/home/luan/Abensoft/webscrapping-tcc/output")
+    options.set_preference("browser.download.dir", DOWNLOAD_DIR)
     options.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf")
     options.set_preference("pdfjs.disabled", True)
 
@@ -42,6 +45,19 @@ def main():
                     )
                     driver.execute_script("arguments[0].scrollIntoView(true);", Button)
                     Button.click()
+                    
+                    time.sleep(2)  # espera o download terminar
+
+                    # Pega o último arquivo PDF da pasta
+                    arquivos = glob.glob(os.path.join(DOWNLOAD_DIR, "*.pdf"))
+                    if not arquivos:
+                        print(f"Download do ID {startId} falhou.")
+                    else:
+                        arquivo_baixado = max(arquivos, key=os.path.getctime)
+                        novo_nome = os.path.join(DOWNLOAD_DIR, f"{startId}.pdf")
+                        os.rename(arquivo_baixado, novo_nome)
+                        print(f"Renomeado para: {novo_nome}")
+
                     break
                 except (StaleElementReferenceException, TimeoutException) as e:
                     if isinstance(e, StaleElementReferenceException):

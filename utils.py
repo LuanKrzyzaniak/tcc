@@ -4,13 +4,12 @@ import re
 import fitz # PyMuPDF
 
 def normalizar_nome(filename):
-    name = re.sub(r"\s*\(\d+\)", "", filename, flags=re.IGNORECASE)                              # (1) e afins
+    name = re.sub(r"\s*\(\d+\)", "", filename, flags=re.IGNORECASE)     # (1) e afins
     name = re.sub(r"\s*copy(\s*\d+)?", "", name, flags=re.IGNORECASE)   # copy e afins
     return name
 
 def carregar_pdf(folder):
     pdf_files = [folder + "/" + f for f in os.listdir(folder) if f.endswith(".pdf")]
-
     pdf_files = filtrar_duplicatas(pdf_files)
     pdf_files = filtrar_imagens(pdf_files)
 
