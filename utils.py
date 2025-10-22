@@ -1,96 +1,50 @@
-import json
-import os
 import re
-import fitz # PyMuPDF
+from datetime import datetime
 
 def normalizar_nome(filename):
     name = re.sub(r"\s*\(\d+\)", "", filename, flags=re.IGNORECASE)     # (1) e afins
     name = re.sub(r"\s*copy(\s*\d+)?", "", name, flags=re.IGNORECASE)   # copy e afins
     return name
 
-def carregar_pdf(folder):
-    pdf_files = [folder + "/" + f for f in os.listdir(folder) if f.endswith(".pdf")]
-    pdf_files = filtrar_duplicatas(pdf_files)
-    pdf_files = filtrar_imagens(pdf_files)
+def limpar_texto(texto):
+    # Remove possíveis cabeçalhos/rodapés repetidos por página (ex: "Página X de Y")
+    texto = re.sub(r'(?i)p[aá]gina\s*\d+(\s*de\s*\d+)?', '', texto)
 
-    print("Número de arquivos PDFs carregados: ", str(len(pdf_files)))
-    return pdf_files
+    # Remove links (http, https, www)
+    texto = re.sub(r'http\S+|www\.\S+', '', texto)
 
-def filtrar_duplicatas(pdf_files):
-    duplicates = []
-    filtered = []
+    # Remove caracteres especiais indesejados (mantém letras, números e pontuação básica)
+    texto = re.sub(r'[^a-zA-Z0-9À-ÿ\s.,;:!?()\-\']', '', texto)
 
-    for pdf in pdf_files:
-        normalized = normalizar_nome(pdf)
-        if normalized == pdf:
-            filtered.append(pdf)
-        else:
-            duplicates.append(pdf)
-
-    print("Número de duplicatas encontradas: ", str(len(duplicates)))
-    for dup in duplicates:
-        os.remove(dup)
-        print("Removido: ", dup)
-
-    return [f for f in filtered]
-
-def filtrar_imagens(pdf_files):
-    scans = []
-    filtered = []
-
-    for pdf in pdf_files:
-
-        if os.path.getsize(pdf) == 0:  # arquivo vazio
-            print(f"PDF vazio: {pdf}")
-            scans.append(pdf)
+    # Remove múltiplos espaços, tabs e quebras de linha
+    texto = re.sub(r'\s+', ' ', texto).strip()
+    
+    return texto
+    
+def substituir_data(match):
+    data_str = match.group()
+    for fmt in ("%d/%m/%Y", "%d-%m-%Y", "%Y/%m/%d", "%Y-%m-%d"):
+        try:
+            data = datetime.strptime(data_str, fmt)
+            return data.strftime("%Y-%d-%m")  
+        except ValueError:
             continue
+    return data_str  
 
-        doc = fitz.open(pdf)
-        only_image = True
+def normalizar_valor(match):
+    valor = match.group().strip()  # remove espaços
 
-        for page in doc:
-            text = page.get_text().strip()
-            if text:
-              only_image = False
-        if only_image == True:
-            scans.append(pdf)
-        else :
-            filtered.append(pdf)
+    # Remove prefixos R, R$, espaços extras
+    valor = re.sub(r'^[Rr]\s*\$?\s*', '', valor)
+    
+    # Virgula -> ponto
+    if "," in valor and valor.count(",") == 1 and valor.count(".") == 0:
+        valor = valor.replace(",", ".")
+    # Ponto e virgula -> nada e ponto
+    elif "," in valor and "." in valor:
+        valor = valor.replace(".", "").replace(",", ".")
+    # Ponto -> ponto
+    else:
+        valor = valor
 
-    print("Número de arquivos só com imagens: ", str(len(scans)))
-    for scan in scans:
-        os.remove(scan)
-        print("Removido: ", scan)
-
-    return [f for f in filtered]
-
-def criar_dataset(pdf_files): # Separação por
-    dataset = []
-
-    for pdf in pdf_files:
-        doc = fitz.open(pdf)
-        pages = []
-
-        for page in doc:
-            text = page.get_text("text").strip()
-            if text:
-                clean_text = " ".join(text.split())
-                pages.append(clean_text)
-
-        dataset.append({
-            "input": "\n".join(pages),
-            "target": ""  # Fazer o resultado :(
-        })
-
-        salvar_dataset(pdf, dataset)
-
-    return dataset
-
-def salvar_dataset(pdf, dataset):
-    filename_base = os.path.splitext(os.path.basename(pdf))[0]  # remove .pdf
-    path = f"output/dataset/{filename_base}.jsonl"  # extensão que desejar
-
-    with open(path, "w", encoding="utf-8") as f:
-        for item in dataset:
-            f.write(json.dumps(item, ensure_ascii=False) + "\n")
-    print(f"Dataset salvo em ", path)
+    return "R$" + valor

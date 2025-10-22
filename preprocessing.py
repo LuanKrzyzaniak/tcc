@@ -1,11 +1,12 @@
-import utils as ut
+import pipeline as pipe
 
 folder = "output/webscrapping"
 
 def main():
 
-    pdf_files = ut.carregar_pdf(folder)
-    ut.criar_dataset(pdf_files)
+    arquivos = pipe.carregar_pdf(folder)
+    arquivos_tratados = pipe.tratar_arquivos(arquivos)
+    pipe.criar_dataset(arquivos_tratados)
 
 if __name__ == "__main__":
     main()
