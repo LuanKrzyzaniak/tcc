@@ -3,4 +3,3 @@ venv/
 .idea/
 *.iml
 output/t5_finetuned/
-output/webscrapping/
