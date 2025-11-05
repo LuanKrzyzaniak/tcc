@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253700.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "680/2025",
+    "Numero_Processo": "01-P-11986/2024 (Ascendente) / 01-P-31947/2025, 01-P-31953/2025 (Descendentes)",
+    "Pregao_Eletronico": "DGA Nº 90251/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161",
+    "Endereco": "Praça das Bandeiras, n° 45- Quadra 2 - Prédio 1, Cidade Universitária \"Zeferino Vaz\" - Barão Geraldo, Campinas - SP - Brasil - CEP: 13083-869",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Representante (matrícula funcional nº 308817)",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DOMINU'S EMPREENDIMENTOS LTDA",
+    "CNPJ": "38.248.140/0001-56",
+    "Endereco": "SAAN Q. 1, LOTE C, ED. SEJUS, ZONA INDUSTRIAL, Brasília - DF, CEP: 70.632-100",
+    "Telefone": "(61) 3213-9114",
+    "Email": "ciamed@ciamedrs.com.br",
+    "Representante_Legal": "JANATHAN CARLOS ARAUJO PARADELA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "Medicamentos gerais de uso humano; acetilcisteina, 100mg; forma farmaceutica po para solucao oral/xarope; forma de apresentacao envelope com 5g/frasco com 60ml/frasco com 100ml;...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "P",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

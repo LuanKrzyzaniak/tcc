@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253324.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00471/2024",
+    "Numero_Processo": "64577.023713/2024-85"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande - MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel",
+        "Nome": "ANDRÉ ANTUNES MASCARENHAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SAFE MEDICAL PRODUTOS HOSPITALARES LTDA",
+    "CNPJ": "14.197.433/0001-93",
+    "Endereco": "Rua São Luis Gonzaga, 483-CEP 79011-280 Campo Grande - MS",
+    "Telefone": "(67) 3027-6576",
+    "Email": "qualidadesafe@gmail.com"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "106",
+      "Descricao_Especificacao": "Haste intramedular bloqueada tibial, em liga de titânio, com diâmetro de 81 1mm e comprimento de 280-380mm. Associada a parafusos de bloqueio 4,5 mm, parafusos de cobertura e fios guia. As medidas são aproximadas.",
+      "Marca_Modelo": "TDM",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 8.999,00"
+    }
+  ]
+}

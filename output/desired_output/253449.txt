@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253449.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N°27/2025",
+    "Numero_Processo": "64616.000537/2025-81"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ODONTOCLÍNICA CENTRAL DOEXÉRCITO",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "CEL EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DENTAL BH BRASIL COM DE PROD ODONTO MED HOSP LTDA",
+    "CNPJ": "31.401.798/0001-07",
+    "Endereco": "Rua Ere 34 andar 2 - Bairro Prado - Belo Horizonte/MG Cep 30.411-052",
+    "Telefone": "(31)...",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 32.850,40"
+}

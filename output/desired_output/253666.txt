@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253666.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "64675.000471/2025-24",
+    "Pregao_SRP": "90014/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "3º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.564.414/0001-18",
+    "UG": "",
+    "Endereco": "Avenida Espanha nº 64, Bairro Tarumã, Bagé-RS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Ten Cel CARLOS EURICO ALENCASTRO TEIXEIRA BRANDÃO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

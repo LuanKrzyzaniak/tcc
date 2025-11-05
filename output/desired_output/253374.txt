@@ -1,2 +1,49 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253374.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00475/2024",
+    "Numero_Processo": "64577.023713/2024-85"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "UG": "",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel",
+        "Nome": "ANDRÉ ANTUNES MASCARENHAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ENDOSURGICAL IMPORTAÇÃO E COMERCIO DE PRODUTOS MÉDICOS LTDA",
+    "CNPJ": "03.785.610/0001-36",
+    "Endereco": "Rua Alegrete, 205 - Vila Benjamin - Campo Grande-MS, CEP 79010130",
+    "Telefone": "(67) 3043-2053",
+    "Email": "vendas@endosurgical.net.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "ITEM I (GP 1)",
+      "Descricao_Especificacao": "Placa tubo deslizante 135° (DHS) em aço inoxidável antimagnético, de 02 a 16 furos, com furos de compressão dinâmica, espessura de 5.8mm. largura de 19.0mm, distância entre furos de 16.0mm, diâmetro exterior do cilindro de 12.6mm e comprimento de 45 a 270mm. Associada a pino deslizante helicoidal em aço inoxidável antimagnético, com diâmetro da rosca de 12.0 mm, omprimento da rosca de 22.0mm, diámetro da haste de 8.0 mm, comprimento de 50mm a 145mm. Incluem-se parafusos corticais 4.5 mm com comprimento de 28-70mm e, parafusos esponjosos 6,5mm com opção de rosca 32mm e/ou 16mm. com comprimento de 40-80mm. As medidas são aproximadas.",
+      "Marca_Modelo": "HEXAGON",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "10",
+      "Valor_Unitario": "R$ 1.100,00",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "ITEM 56 (GP 15)",
+      "Descricao_Especificacao": "Placa de compressão dinâmica reta de 4.5mm em aço inoxidável antimagnético larga, com espessura de 5,0mm e largura de 16mm, de 5 a 18 furos, comprimento de 88-300mm.",
+      "Marca_Modelo": "HEXAGON",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "20",
+      "Valor_Unitario": "R$ 4.600,00",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

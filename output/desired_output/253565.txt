@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253565.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "690/2.025",
+    "Numero_Processo": "19.708/2025",
+    "Pregao_Eletronico": "COMPRAS GOV n° 93424/2025",
+    "PE_SMS": "Nº 340/2025",
+    "Validade": "02 DE SETEMBRO DE 2.026"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BAURU (PREFEITURA MUNICIPAL DE BAURU)",
+    "CNPJ": "46.137.410/0001-80",
+    "UG": "",
+    "Endereco": "Praça das Cerejeiras, 1-59, Bauru/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal da Saúde",
+        "Nome": "MARCIO CIDADE GOMES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RAM COMERCIO DE RAÇÃO LTDA",
+    "CNPJ": "46.018.023/0001-24",
+    "Endereco": "Rua Clara Nunes, 161, Sala 02, Jardim do Paço, CEP: 18087-093, Sorocaba-SP",
+    "Telefone": "(15) 3238-8680",
+    "Email": "amcomerciopet@gmail.com",
+    "Representante_Legal": "Senhora ROSA APARECIDA FURLAN MANCUZO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253539.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00104/2025",
+    "Numero_Processo": "64577.012005/2025-08",
+    "Numero_Pregao": "90021/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "UG": "",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel (Ordenador de Despesas)",
+        "Nome": "PAULO CESAR DOS SANTOS FARIA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

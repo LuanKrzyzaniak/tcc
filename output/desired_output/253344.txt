@@ -1,2 +1,59 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253344.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CPI-1 - 00051/2025",
+    "Numero_Processo": "057.00273391/2025-72"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Comando de Policiamento do Interior Um - Polícia Militar do Estado de São Paulo",
+    "CNPJ": "04.198.514/0044-94",
+    "UG": "180.155",
+    "Endereco": "Av. Deputado Benedito Matarazzo, nº 9931, Jardim Osvaldo Cruz, São José dos Campos/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coronel PM",
+        "Nome": "Luiz Fernando Alves"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Afran Peças e Acessórios EIRELI - ME",
+    "CNPJ": "16.882.500/0001-34",
+    "Endereco": "Av. Pedro de Souza Lopes, 524 - Sala 3 – Vila Galvão – Guarulhos/SP – CEP 07074-000",
+    "Telefone": "(11) 2452-0768",
+    "Email": "veloscarpecas@gmail.com",
+    "Representante_Legal": "Alexandre Francisco Wanderley"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "Kit Relação/Transmissão para moto Honda XRE",
+      "Marca_Modelo": "NAKATA / TM10150",
+      "Codigo": "617038",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "60",
+      "Valor_Unitario": "R$ 160,00",
+      "Valor_Total_Item": "R$ 9.600,00"
+    },
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "Mangueira de Água do Aquecedor Automotivo – Entrada – Veículos GM",
+      "Marca_Modelo": "3R RUBBER / 3171",
+      "Codigo": "617967",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 62,60",
+      "Valor_Total_Item": "R$ 6.260,00"
+    },
+    {
+      "Item_TR": "18",
+      "Descricao_Especificacao": "Pastilha de Freio da Roda Traseira – Veículos GM",
+      "Marca_Modelo": "SYL / 2116",
+      "Codigo": "616851",
+      "Unidade_Medida": "Jogo",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 116,00",
+      "Valor_Total_Item": "R$ 34.800,00"
+    }
+  ],
+  "Valor_Total": "R$ 50.660,00"
+}

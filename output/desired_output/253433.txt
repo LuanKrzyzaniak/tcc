@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253433.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 614/2.025",
+    "Numero_Processo": "58.978/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BAURU",
+    "CNPJ": "46.137.410/0001-80",
+    "UG": "",
+    "Endereco": "Praça das Cerejeiras, 1-59, nesta cidade de Bauru/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal da Saúde",
+        "Nome": "MARCIO CIDADE GOMES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "INDÚSTRIA FENIX CORTE A LASER LTDA",
+    "CNPJ": "13.759.849/00",
+    "Endereco": "Rua Alice Garcia Vega, 172, Itaberaba, São Paulo/SP CEP: 02737050",
+    "Telefone": "(11) 99757-8195",
+    "Email": "licitacao@industriafenix.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Display Fol...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

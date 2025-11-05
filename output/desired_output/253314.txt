@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253314.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00447/2025",
+    "Numero_Processo": "67511.000622/2025-13"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Academia da Força Aérea",
+    "CNPJ": "00.394.429/0002-91",
+    "Endereco": "Estrada de Aguaí, s/nº, Campo Fontenelle, Pirassununga - SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas Delegado da Academia da Força Aérea",
+        "Nome": "Odilor da Silva Lopes Cel Int R/1"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MERCOSUL AGRONEGOCIOS EIRELI",
+    "CNPJ": "11.258.338/0001-64"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0039",
+      "Descricao_Especificacao": "39. Classe de herbicida não seletivo de ação total do g (Detalhada: 39. Classe de herbicída não seletivo de ação total do grupo químico da homoalanina substituída; Tipo de formulação concentrado solúvel (SL); Composição de Ammonium 4-[hydroxy(methyl)phosphinoyl]-DL-homoalaninate ou ammonium DL-homoalanin-4-yl(methyl) phosphinate (GLUFOSINATO SAL DE AMÔNIO, 200 g/L, 20,0% m/v) + Outros ingredientes (910 g/L, 91,0% m/v)).",
+      "Marca_Modelo": "Finale ou similar. Fabricante: NÃO SE APLICA, Modelo/Versão: NÃO SE APLICA.",
+      "Unidade_Medida": "L",
+      "Quantidade_Registrada": "300.00",
+      "Valor_Unitario": "R$ 19,0900",
+      "Valor_Total_Item": "R$ 5.727,0000"
+    },
+    {
+      "Item_TR": "0042",
+      "Descricao_Especificacao": "42. Herbicida seletivo, sistêmico e inibidor de ALS eH (Detalhada: 42. Herbicida seletivo, sistêmico e inibidor de ALS e HPPD dos grupos químicos Isoxasol (Isoxaflutol) e Triazolona (Tiencarbazona-metilica). Composição: 5-cyclopropyl-1,2-oxazol-4-yl a, a, a-trifluoro-2-mesyl-p-tolyl ketone (Isoxaflutol) 225,0 g/L (22,5% m/v), Methyl 4-[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1H-1,2,4-triazol-1-yl) carbonylsulfamoyl]-5-methylthiophene-3-carboxyl ate (Tiencarbazona-metilica) 90,0 g/L (9% m/v), Outros Ingredientes 865 g/L (86,50% m/v). Tipo de formulação: Suspensão Concentrada (SC).)",
+      "Marca_Modelo": "Adengo ou similar. Fabricante: NÃO SE APLICA, Modelo/Versão: NÃO SE APLICA.",
+      "Unidade_Medida": "L",
+      "Quantidade_Registrada": "113.00",
+      "Valor_Unitario": "R$ 679,9900",
+      "Valor_Total_Item": "R$ 76.838,8700"
+    }
+  ],
+  "Valor_Total": "R$ 82.565,87"
+}

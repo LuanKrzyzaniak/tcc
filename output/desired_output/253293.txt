@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253293.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "64036002857202415",
+    "Numero_Pregao": "90019/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "1603437 BATALHAO DE ENGENHARIA DE COMBATE",
+    "CNPJ": "",
+    "UG": "1603437",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Autoridade Competente (Homologador)",
+        "Nome": "JOHN MAYCONN VIANA MARCIANO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LICERI COMERCIO DE PRODUTOS EM GERAL LTDA",
+    "CNPJ": "26.950.671/0001-07",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

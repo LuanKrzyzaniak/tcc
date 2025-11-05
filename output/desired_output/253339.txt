@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253339.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "145/2025",
+    "Numero_Processo": "63512.002953/2024-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/nº - Centro, Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesa (Capitão de Mar e Guerra)",
+        "Nome": "ANDERSON FERNANDES PINTO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "N/A (Apenas o representante: LUCIANO FERREIRA MAIA)",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "LUCIANO FERREIRA MAIA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

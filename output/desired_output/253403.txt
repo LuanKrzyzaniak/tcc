@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253403.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 430/2024",
+    "Numero_Processo": "64578.022002/2024-83"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL GERAL DE CURITIBA",
+    "CNPJ": "09.579.964/0001-00",
+    "UG": "",
+    "Endereco": "Praça Marechal Alberto Ferreira de Abreu, s/n°, Batel, na cidade de Curitiba / PR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora/Ordenadora de Despesas",
+        "Nome": "Tenente Coronel Simone Abreu"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CM HOSPITALAR S/A",
+    "CNPJ": "09.288.583/0001-20",
+    "Endereco": "Avenida Presidente Getúlio Vargas, 243, Setor Industrial, Aparecida de Goiânia/GO, CEP: 74985-175",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "ÁCIDO ZOLEDRÔNICO, CONCENTRAÇÃO:5 MG/100 ML",
+      "Marca_Modelo": "EUROFARMA/ ACIDO ZOLEDRONICO 5MG/100ML",
+      "Codigo": "",
+      "Unidade_Medida": "FR",
+      "Quantidade_Registrada": "360",
+      "Valor_Unitario": "R$ 10,70",
+      "Valor_Total_Item": "R$ 3.852,00"
+    }
+  ],
+  "Valor_Total": "R$ 3.852,00"
+}

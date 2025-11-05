@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253697.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "12/2025",
+    "Numero_Processo": "0000614-59.2025.6.08.8000"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIÃO, por intermédio do TRIBUNAL REGIONAL ELEITORAL DO ESPÍRITO SANTO",
+    "CNPJ": "03.910.634/0001-70",
+    "UG": "",
+    "Endereco": "Avenida João Batista Parra, 575, Praia do Suá, Vitória/ES, 29052-123",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor Geral",
+        "Nome": "ALVIMAR DIAS NASCIMENTO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LABOR INDUSTRIA DE MOVEIS PARA ESCRITORIO LTDA",
+    "CNPJ": "06.983.736/0001-03",
+    "Endereco": "Rua Leonardo Murialdo, n° 2450-A, Bairro Cidade Nova, Caxias do Sul/RS",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "JANICE COMERLATO POSSENTI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "Mesa retangular em madeira de 1,80m x 0,...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

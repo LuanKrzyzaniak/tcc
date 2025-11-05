@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253520.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "486/2025-CPL/ALICC",
+    "Numero_Processo": "12500.13465/2024",
+    "Pregao_Eletronico": "104/2024-CPL/ALICC",
+    "Vigencia": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE MACEIÓ, por intermédio da AGÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS DE MACEIÓ – ALICC",
+    "CNPJ": "26.981.455/0001-29",
+    "UG": "",
+    "Endereco": "Avenida da Paz, n.º 900, Jaraguá, Maceió/AL-57.022-050",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora Presidente",
+        "Nome": "MEIRY SOARES PORCIÚNCULA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "M. B. C. DA SILVA COMERCIO DE DESCARTAVEIS EIRELI",
+    "CNPJ": "30.170.814/0001-35",
+    "Endereco": "Rua 25 de Dezembro, nº 107, Ponta da Terra, CEP: 57030-010, Maceió/AL",
+    "Telefone": "(82) 3028-1188",
+    "Email": "mbc_comercio@outlook.com",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "36",
+      "Descricao_Especificacao": "Bota em PVC Cano Longo, Tamanhos a definir na emissão da nota de empenho. Cor preta.",
+      "Marca_Modelo": "",
+      "Codigo": "20832Exclusiva",
+      "Unidade_Medida": "Par",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

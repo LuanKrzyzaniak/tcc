@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253723.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 263/2025",
+    "Numero_Processo": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP, CEP: 15.610-024",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "59.261.939 ALEJANDRO JAVIER TORRES GONZALEZ",
+    "CNPJ": "59.261.939/0001-52",
+    "Endereco": "rua Nestor Homem de Melo, n.º 407, Jardim Catanduva, em São Paulo-SP, CEP: 05758-160",
+    "Telefone": "(11) 9922-2291",
+    "Email": "alejandrojaviert6@gmail.com",
+    "Representante_Legal": "ALEJANDRO JAVIER TORRES GONZALEZ"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

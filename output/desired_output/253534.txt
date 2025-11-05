@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253534.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "52/2025",
+    "Numero_Processo": "08106.001691/2024-78",
+    "Numero_Pregao": "90040/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA, por meio da Secretaria Nacional de Segurança Pública",
+    "CNPJ": "00.394.494/0005-60",
+    "UG": "",
+    "Endereco": "Esplanada dos Ministérios, Bloco T, Ed. Sede, Sala 201, Zona Cívico Administrativa, Brasília/DF, CEP 70.064-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Fundo Nacional de Segurança Pública",
+        "Nome": "CAMILA PINTARELLI"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CITEROL - Comercio e Industria de Tecidos e Roupas S/A",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RENE WAKIL NETO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

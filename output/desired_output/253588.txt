@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253588.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "18/2025 - SEJUS",
+    "Numero_Processo": "00400-00030193/2025-12",
+    "Pregao_Eletronico_ARP": "18/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DLS COMERCIO LTDA",
+    "CNPJ": "43.431.371/0001-30",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "DOUGLAS VINICIUS DE OLIVEIRA MAGELA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 38.000,00"
+}

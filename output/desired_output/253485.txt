@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253485.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00010/2025",
+    "Numero_Processo": "64557.001450/2025-72"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "26° GRUPO DE ARTILHARIA DE CAMPANHA",
+    "CNPJ": "09.559.239/0001-70",
+    "UG": "",
+    "Endereco": "Avenida Manoel Ribas n 2286, centro, na cidade de Guarapuava /Estado Paraná",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ten Cel",
+        "Nome": "JÚLIO CÉSAR LACERDA MARTINS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "D DE O LEAO COMERCIAL IMPORTADORA E EXPORTADORA",
+    "CNPJ": "07.888.386/0001-69",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

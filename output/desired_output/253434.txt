@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253434.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00269/2025",
+    "Numero_Processo": "67272.004449/2025-84"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "BASE AÉREA DE FLORIANÓPOLIS",
+    "CNPJ": "00.394.429/0009-68",
+    "UG": "",
+    "Endereco": "AV. SANTOS DUMONT, S/N - TAPERA - (CX POSTAL 289) FLORIANÓPOLIS-SC",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Cel Av",
+        "Nome": "JOÃO PAULO GOMEZ LIMA DA SILVA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "AR-CONDIC...",
+      "Marca_Modelo": "Fabricante: NÃO SE APLICA Modelo/Versão: NÃO SE APLICA",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

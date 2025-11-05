@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253382.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "676/2025",
+    "Numero_Processo": "23080.064658/2024-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, na cidade de Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RGN INSTRUMENTOS E EQUIPAMENTOS MEDICOS LTDA",
+    "CNPJ": "22.654.814/0001-82",
+    "Endereco": "RUA PASCOAL BEVILACQUA, 3885 JARDIM ALTO RIO PRETO, CEP 15.020-280, São José do Rio Preto/SP",
+    "Telefone": "(17) 33047701",
+    "Email": "vendas2@rhoss.com.br",
+    "Representante_Legal": "RAPHAEL GONCALVES NICESIO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

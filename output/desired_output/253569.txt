@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253569.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "74/2025-TRE/RN",
+    "Numero_Processo": "SEI nº 3873/2025-TRE/RN",
+    "Pregao_Eletronico": "nº 90030/2025-TRE/RN"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "TRIBUNAL REGIONAL ELEITORAL DO RIO GRANDE DO NORTE - TRE/RN (UNIÃO)",
+    "CNPJ": "05.792.645/0001-28",
+    "UG": "",
+    "Endereco": "Avenida Rui Barbosa, nº 165, Tirol, Natal/RN (CEP: 59015-290)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora-Geral",
+        "Nome": "Ana Esmera Pimentel da Fonseca"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "31.322.418/0001-49",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "CLÓVIS C DE OLIVEIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "fornecimento de material de consumo (cama, mesa e banho)",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

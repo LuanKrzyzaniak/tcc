@@ -1,2 +1,55 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253661.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "115/2025",
+    "Numero_Processo": "23347.010685.2024-62",
+    "Modalidade_Licitacao": "PREGÃO ELETRÔNICO n° 90054/2025",
+    "Objeto": "Registro de Preços para aquisição de equipamentos de áudio e vídeo e equipamentos de comunicação"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO DO SUL",
+    "CNPJ": "10.673.078/0001-20",
+    "UG": "",
+    "Endereco": "Rua Jornalista Belizário Lima, nº 236, Bairro Vila Glória, CEP nº 79.004-270, Campo Grande/MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora-Geral",
+        "Nome": "Angela Kwiatkowski"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MICROFOTO COMERCIO E SERVICOS EIRELI",
+    "CNPJ": "04.975.241/0001-83",
+    "Endereco": "RUA SANTA RITA, Nº 1446, BAIRRO CENTRO, CAMPO GRANDE/MS, CEP 79002-390",
+    "Telefone": "(67) 3027-2400",
+    "Email": "comercial@microfoto.net.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "PROJETOR MULTIMÍDIA, TECNOLOGIA: DLP, RESOLUÇÃO NATIVA: 1280X800 WXGA, FLUXO LUMINOSO: 4000 ANSI LUMENS",
+      "Marca_Modelo": "BENQ / MS535P",
+      "Codigo": "362402",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "15",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 2.450,00",
+      "Valor_Total_Item": "R$ 36.750,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "PROJETOR MULTIMÍDIA, TECNOLOGIA: DLP, RESOLUÇÃO NATIVA: 1920X1080 FHD, FLUXO LUMINOSO: 4000 ANSI LUMENS",
+      "Marca_Modelo": "BENQ / EH600",
+      "Codigo": "362403",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "1",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 4.750,00",
+      "Valor_Total_Item": "R$ 4.750,00",
+      "Valor_Total_Global_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 41.500,00"
+}

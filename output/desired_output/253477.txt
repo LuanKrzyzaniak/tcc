@@ -1,2 +1,32 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253477.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "290/2025-SMSA",
+    "Numero_Processo": "00000.0.005234/2025 (VOLUME 2)-00000.9.379492/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA – RR",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, nesta cidade",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde - SMSA",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "OLTRAMED COMERCIO DE PRODUTOS HOSPITALARES - LTDA",
+    "CNPJ": "14.829.987.0004-09",
+    "Endereco": "Rodovia BR 101, nº 1200, Sala 01, Bairro Salseiros, Itajai/SC, CEP n° 88.",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "BRUNA KARINE STEFFENS"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 106.256,28"
+}

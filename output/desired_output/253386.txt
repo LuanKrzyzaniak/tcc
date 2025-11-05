@@ -1,2 +1,20 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253386.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "678/2025",
+    "Numero_Processo": "23080.064658/2024-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC",
+    "CNPJ": "83.899.526/0001-82",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Representante_Legal": "PAULO VITOR SOCHODOLAK"
+  }
+}

@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253448.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "07/2025 - TRF6",
+    "Numero_Processo": "0016295-28.2024.4.06.8000"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO",
+    "CNPJ": "47.784.477/0001-79",
+    "UG": "",
+    "Endereco": "Av. Álvares Cabral, 1.805, Bairro Santo Agostinho, Belo Horizonte/MG",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral do TRF6",
+        "Nome": "Jânio Mady dos Santos"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "E. F. GOMES PERSIANAS",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Evaldo Ferreira Gomes"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Aquisição (fornecimento e instalação) de persianas/cortina em tecido blackout para aplicação em sistemas tipo Rolô. O tecido deverá apresentar elevada capacidade de escurecimento, sendo composto por aproximadamente 61% poliéster e 39% algodão, com espessura aproximada de 0,73...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

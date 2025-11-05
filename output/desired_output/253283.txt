@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253283.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00436/2025",
+    "Numero_Processo": "67511.000622/2025-13"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ACADEMIA DA FORCA AEREA",
+    "CNPJ": "00.394.429/0002-91",
+    "UG": "",
+    "Endereco": "Estrada de Aguaí, s/nº, Campo Fontenelle, Pirassununga, SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Cel Int R/1 - Ordenador de Despesas Delegado da Academia da Força Aérea",
+        "Nome": "Odilor da Silva Lopes"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

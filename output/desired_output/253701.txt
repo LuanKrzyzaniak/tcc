@@ -1,2 +1,134 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253701.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "36.152.896",
+    "Numero_Processo": "161.00328324/2024-05",
+    "Codigo_Unico": "20250151521"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "FUNDAÇÃO CENTRO DE ATENDIMENTO SOCIOEDUCATIVO AO ADOLESCENTE - FUNDAÇÃO CASA",
+    "CNPJ": "44.480.283/0001-91",
+    "UG": "",
+    "Endereco": "Rua Florêncio de Abreu, n.º 848 CEP 01030-001, Bairro Luz, na cidade de São Paulo - Capital",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "Ana Claudia Carletto"
+      },
+      {
+        "Cargo": "Diretor Administrativo",
+        "Nome": "Magda de Oliveira Vieira"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ELIANA APARECIDA SPINASSI",
+    "CNPJ": "07.876.883/0001-20",
+    "Endereco": "Rua João Bentes, 103 - JD MORUMBI, Bauru/SP, CEP: 17052-160",
+    "Telefone": "14 99806-6997",
+    "Email": "elianaspinassi@yahoo.com.br",
+    "Representante_Legal": "Eliana Aparecida Spinassi (Proprietária)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Cabo flexível, 1x 2,5 mm, preto, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711311",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 1,02",
+      "Valor_Total_Item": "R$ 6.120,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "Cabo flexível, 1x 4,0 mm, preto, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711411",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 1,48",
+      "Valor_Total_Item": "R$ 8.880,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Cabo flexível, 1x 6,0 mm, preto, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711511",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 2,13",
+      "Valor_Total_Item": "R$ 12.780,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "Cabo flexível, 1x 10,0 mm, preto, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711611",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "4.000,00",
+      "Valor_Unitario": "R$ 3,74",
+      "Valor_Total_Item": "R$ 14.960,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "Cabo flexível, 1x 2,5 mm, azul, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711321",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 1,02",
+      "Valor_Total_Item": "R$ 6.120,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "Cabo flexível, 1x 4,0 mm, azul, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711421",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 1,48",
+      "Valor_Total_Item": "R$ 8.880,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "Cabo flexível, 1x 6,0 mm, azul, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711521",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 2,13",
+      "Valor_Total_Item": "R$ 12.780,00"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "Cabo flexível, 1x 10,0 mm, azul, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711621",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "4.000,00",
+      "Valor_Unitario": "R$ 3,74",
+      "Valor_Total_Item": "R$ 14.960,00"
+    },
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "Cabo flexível, 1x 2,5 mm, verde, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711331",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 1,02",
+      "Valor_Total_Item": "R$ 6.120,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "Cabo flexível, 1x 4,0 mm, verde, 750 V",
+      "Marca_Modelo": "PRYSMIAN/MERCOSUL/COBRECOM/SIL",
+      "Codigo": "04711431",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 1,48",
+      "Valor_Total_Item": "R$ 8.880,00"
+    }
+  ],
+  "Valor_Total": ""
+}

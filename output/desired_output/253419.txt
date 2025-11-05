@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253419.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "22/2025",
+    "Numero_Processo": "64616.000537/2025-81"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Odontoclínica Central do Exército",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "CEL Ordenador de Despesas",
+        "Nome": "EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BONSUCESSO PRODUTOS ODONTOLÓGICOS LTDA",
+    "CNPJ": "02.482.141/0001-13",
+    "Endereco": "ESTRADA DO GALEÃO, 1463 JARDIM GUANABARA - RIO DE JANEIRO/RJ",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "LUIZ ARMANDO PEREIRA DA SILVA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "62",
+      "Descricao_Especificacao": "PARA A REMODELAÇÃO ÓSSEA POR MEIO DE UM PROCESSO FISIOLÓGICO. PARTÍCULAS DE HIDROXIAPATITA DE 200 A 400 μm PADRÃO DE REFERÊNCIA: ENXER...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 273.575,65"
+}

@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253728.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 03/2025-SEJUS",
+    "Numero_Processo": "00400-00026047/2025-84"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SAN DECORACOES E REFORMAS LTDA",
+    "CNPJ": "01.237.977/0001-90",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "SANDOVALDO DA SILVA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

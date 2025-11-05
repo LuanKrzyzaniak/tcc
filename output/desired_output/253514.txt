@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253514.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "825/2025-SMS.G",
+    "Numero_Processo": "6018.2025/0084977-7",
+    "Pregao_Eletronico": "90826/2025/SMS.G",
+    "Vigencia": "um ano"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA DE SÃO PAULO, através da SECRETARIA MUNICIPAL DA SAÚDE",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Dr. Siqueira de Campos, 176 - 5º andar Liberdade São Paulo, Capital, CEP: 01509-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor da Divisão de Suprimentos",
+        "Nome": "APARECIDO DUARTE DE OLIVEIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "QUALITY MEDICAL COMÉRCIO E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "CNPJ": "07.118.264/0001-93",
+    "Endereco": "Avenida Alberto Ramos, 274, Jardim Independência, São Paulo/SP, Cep: 03222-000",
+    "Telefone": "2021-4004",
+    "Email": "eletronico@qualitymedicalsp.com.br",
+    "Representante_Legal": "CAIO HENRIQUE PEREIRA FABBRI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "MANITOL 200 MG/ML (20%) SOLUCAO SISTEMA FECHADO 250 ML",
+      "Marca_Modelo": "MANITOL 20%",
+      "Codigo": "11.064.005.027.0014-5",
+      "Unidade_Medida": "/FR",
+      "Quantidade_Registrada": "62.820",
+      "Valor_Unitario": "R$6,388/FR",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

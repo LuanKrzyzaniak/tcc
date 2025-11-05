@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253325.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "216/2025",
+    "Numero_Processo": "143.00011056/2025-86"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº - Rubião Júnior, CEP 18.618-687, na cidade de Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Departamento de Logística de Atendimento HCFMB",
+        "Nome": "Enf. Karen Aline Batista da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CHIRLEY MARIA BEZERRA ROSA",
+    "CNPJ": "44.007.023/0001-01",
+    "Endereco": "Rua Rio de Janeiro, 1260 - Vila Nery - SÃO CARLOS/SP - CEP: 13.568-190",
+    "Email": "chirley_rosa@hotmail.com",
+    "Representante_Legal": "Chirley Maria Bezerra Rosa"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "PAPEL FILME DE POLIETILENO; MATERIAL POLIETILENO; CARACTERISTICAS ADICIONAIS ALIMENTÍCIO; TIPO ESTICÁVEL, TENSÃO ALTA",
+      "Marca_Modelo": "POLIBRAS/FILM",
+      "Unidade_Medida": "KG",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 19,00",
+      "Valor_Total_Item": "R$ 2.850,00"
+    }
+  ],
+  "Valor_Total": "R$ 2.850,00"
+}

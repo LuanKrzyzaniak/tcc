@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253257.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "23243.006915/2025-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE RONDÔNIA - Campus Vilhena",
+    "CNPJ": "10.817.343/0003-69",
+    "UG": "",
+    "Endereco": "Rodovia BR 174 km 03, 4334, Zona Urbana, na cidade de Vilhena - RO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Rodrigo Alécio Stiz"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LIBRASIL INFORMATICA LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Thais Frosch Cayres"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

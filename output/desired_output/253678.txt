@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253678.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "089/2025",
+    "Numero_Processo": "24.29.000030208-1",
+    "Pregao_Eletronico": "Nº 90011/2025 SRP - SAÚDE"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Municipio de Goiânia / Secretaria Municipal de Saúde / Fundo Municipal de Saúde",
+    "CNPJ": "37.623.352/0001-03",
+    "UG": "",
+    "Endereco": "Avenida do Cerrado, nº 999, Bloco D, Parque Lozandes, Goiânia-GO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "Luiz Gaspar Machado Pellizzer"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Marcus Vinicius Nery de Oliveira (registrado(a) civilmente como Cleuber Acerly de Oliveira)",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Marcus Vinicius Nery de Oliveira"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "TESTE BETA HCG IMUNOCROMATOGRAFIA QUALITATIVO CONJUNTO COMPLETO Teste Beta HCG qualitativo. Teste rápido por imunocromatografia, método manual, conjunto completo, para uso em amostras humanas de urina ou soro. Número de lote, data de fabricação e validade impressos na embalagem. Sensibilidade 25 mUI/ml.",
+      "Marca_Modelo": "Invitro",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,44",
+      "Valor_Total_Item": "R$ 13.200,00"
+    }
+  ],
+  "Valor_Total": "R$ 13.200,00"
+}

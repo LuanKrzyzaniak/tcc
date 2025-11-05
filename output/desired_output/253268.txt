@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253268.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00238/2025",
+    "Numero_Processo": "67106.000928/2024-62",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica, para REGISTRO DE PREÇOS nº 90073/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CENTRO DE AQUISIÇÕES ESPECÍFICAS",
+    "CNPJ": "00.394.429/0174-29",
+    "Endereco": "ESTRADA DO GALEAO, 3300 RIO DE JANEIRO-RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Não especificado (Representante Legal)",
+        "Nome": "MARCO HAROLDO AKIO ODAM Cel Int"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NUTRICARE DISTRIBUIDORA HOSPITALAR LTDA",
+    "CNPJ": "08.995.178/0001-20",
+    "Endereco": "AVENIDA NILO PEÇANHA, Nº 50 SALA 2712 - CENTRO - RIO DE JANEIRO/RJ - CEP: 20.020-907",
+    "Representante_Legal": "THAIS REZENDE COELHO DA CUNHA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "FÓRMULA ENTERAL LÍQUIDA, HIPERCALÓRICA, NORMO OU HIPERPROTÉICA",
+      "Marca_Modelo": "MODELO: NOVASOURCE RENAL / FABRICANTE: NESTLÉ BRASIL LTDA",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.800",
+      "Valor_Unitario": "R$ 22,50",
+      "Valor_Total_Item": "R$ 40.500,00"
+    }
+  ],
+  "Valor_Total": "R$ 40.500,00"
+}

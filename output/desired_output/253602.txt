@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253602.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "142/2025",
+    "Numero_Processo": "23540.000948/2025-10",
+    "Modalidade_Licitacao": "PREGÃO ELETRÔNICO SRP № 90018/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA, filial da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126",
+    "Endereco": "Avenida Lourival Melo Mota, s/nº - Bairro Cidade Universitária, Maceió-AL, CЕР 57072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Célio Fernando de Sousa Rodrigues"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ANATOLIO PEREZ GARCIA MORENO NETO"
+  },
+  "Objeto": "Registro de preços para a eventual aquisição de SANEANTES, ANTISSÉPTICOS e outros",
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "ORTOFTALALDEIDO - SOLUÇÃO QUÍMICA DESINFETANTE ALTO NÍVEL + FITA REAGENTE PARA...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade de Fornecimento",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

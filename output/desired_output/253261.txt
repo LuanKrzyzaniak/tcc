@@ -1,2 +1,35 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253261.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00435/2025",
+    "Numero_Processo": "67511.000622/2025-13",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica, para Registro de Preços nº 90071/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ACADEMIA DA FORÇA AÉREA",
+    "CNPJ": "00.394.429/0002-91",
+    "Endereco": "Estrada de Aguaí, s/nº, Campo Fontenelle, Pirassununga/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas Delegado da Academia da Força Aérea",
+        "Nome": "Odilor da Silva Lopes Cel Int R/1"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CRISTAL FARMA COMERCIO DE PRODUTOS FARMACÊUTICOS LTDA",
+    "CNPJ": "08.878.513/0001-19",
+    "Endereco": "RUA JOÃO BATISTA DE MELO, Nº 755 - BAIRRO CENTRO - POMPÉU/MG - CEP: 35.640-000",
+    "Representante_Legal": "PAULO CESAR LOPES CORREA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "ALCOÓL SECO GEL PARA ASSEPSIA DAS MÃOS - FRASCO COM 500ML",
+      "Unidade_Medida": "FRASCO",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 10,99999",
+      "Valor_Total_Item": "R$ 10.999,99"
+    }
+  ],
+  "Valor_Total": "R$ 10.999,99"
+}

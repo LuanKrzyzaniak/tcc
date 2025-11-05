@@ -1,2 +1,100 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253713.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 06/2025-SEJUS",
+    "Numero_Processo": "00400-00027352/2025-83",
+    "Numero_Pregao": "REGISTRO DE PREÇOS nº 03/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "M D DA SILVA COMÉRCIO - ME",
+    "CNPJ": "10.637.230/0001-08",
+    "Endereco": "RUA PADRE VALERIANO, Nº 144, CENTRO, COCALZINHO DE GOIÁS/GO, CEP 72.980-000",
+    "Telefone": "(61) 98579-2782",
+    "Email": "mdsilvacomercio@gmail.com",
+    "Representante_Legal": "MYLENA REGINA DE PAULA ARAUJO, Proprietária"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "CORTINA HORIZONTAL DE PVC, EM LÂMINAS",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "m²",
+      "Quantidade_Registrada": "280",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 11.200,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "CORTINA DE ROLO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "m²",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 65,00",
+      "Valor_Total_Item": "R$ 13.000,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "CORTINA PLISSADA OU ROMANA",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "m²",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 90,00",
+      "Valor_Total_Item": "R$ 13.500,00"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "PERSIANA VERTICAL DE TECIDO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "m²",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 70,00",
+      "Valor_Total_Item": "R$ 21.000,00"
+    },
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "PERSIANA VERTICAL DE PVC",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "m²",
+      "Quantidade_Registrada": "250",
+      "Valor_Unitario": "R$ 50,00",
+      "Valor_Total_Item": "R$ 12.500,00"
+    },
+    {
+      "Item_TR": "06",
+      "Descricao_Especificacao": "PERSIANA HORIZONTAL DE ALUMÍNIO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "m²",
+      "Quantidade_Registrada": "120",
+      "Valor_Unitario": "R$ 85,00",
+      "Valor_Total_Item": "R$ 10.200,00"
+    },
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "PERSIANA HORIZONTAL DE MADEIRA SINTÉTICA",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "m²",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 110,00",
+      "Valor_Total_Item": "R$ 5.500,00"
+    }
+  ],
+  "Valor_Total": "R$ 86.900,00"
+}

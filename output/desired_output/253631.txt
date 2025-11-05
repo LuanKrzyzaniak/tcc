@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253631.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "153/2025",
+    "Numero_Processo": "143.00011576/2025-99",
+    "Pregao_Numero": "120/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "UG": "",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº Rubião Júnior, CEP 18.618-687, Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "José Carlos Souza Trindade Filho"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "SEDINEI ROBERTO STIEVENS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

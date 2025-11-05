@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253443.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "287/2025-SMSA",
+    "Numero_Processo": "00000.0.012192/2024 (VOLUME 3)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA MUNICIPAL DE SAÚDE (Município de Boa Vista - RR)",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, rua General Penha Brasil nº 1011, nesta cidade",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "F&R IMPORTAÇÃO E EXPORTAÇÃO E DISTRIBUIÇÃO - LTDA",
+    "CNPJ": "51.837.171/0001-00",
+    "Endereco": "Setor de Industria e Abastecimento, Terco 3, Bloco D, Lote 985, Zona Industrial, Guará, Brasília/DF",
+    "Telefone": "",
+    "Email": "VITORIAGWATANABE@GMAIL.COM",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Seringa descartável",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "100.000",
+      "Valor_Unitario": "R$ 0,16",
+      "Valor_Total_Item": "R$ 16.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 20.000,00"
+}

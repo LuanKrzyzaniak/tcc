@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253326.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CIAF 015/610/25",
+    "Numero_Processo": "20250797808"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Polícia Militar do Estado de São Paulo, por intermédio do Centro Integrado de Apoio Financeiro CIAF",
+    "CNPJ": "04.198.514/0134-85",
+    "Endereco": "Avenida Cruzeiro do Sul, n° 260, 4° andar, bairro Canindé, CEP: 03033-020, na cidade de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Dirigente",
+        "Nome": "Tenente Coronel Wellyngton Marcos de Ataide da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MUVI COMÉRCIO E SOLUÇÕES EMPRESARIAIS LTDA",
+    "CNPJ": "54.179.907/0001-99",
+    "Endereco": "Cristiane de Oliveira Porto, n° 109 - Res. São Francisco - São José dos Campos SP",
+    "Telefone": "(12) 99664-28"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "Papel Interfolhado",
+      "Marca_Modelo": "Grampel",
+      "Codigo": "436328",
+      "Unidade_Medida": "Pacote com 200 folhas",
+      "Quantidade_Registrada": "1.750",
+      "Valor_Unitario": "R$ 3,12",
+      "Valor_Total_Item": "R$ 5.460,00"
+    }
+  ],
+  "Valor_Total": "R$ 5.460,00"
+}

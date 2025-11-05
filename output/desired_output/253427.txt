@@ -1,2 +1,89 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253427.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "1148/2025",
+    "Numero_Processo": "04105.0000001401/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Agência de Modernização da Gestão de Processos - AMGESP",
+    "CNPJ": "07.424.905/0001-38",
+    "UG": "925998",
+    "Endereco": "Avenida Walter Ananias, n.º 35A Jaraguá, CEP: 57025-510 - Maceió/AL",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Presidente",
+        "Nome": "Sr. Amilton Barbosa Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MAGNA COMERCIO E SERVICOS DE MATERIAIS ESPORTIVOS LTDA",
+    "CNPJ": "09.062.292/0001-31",
+    "Endereco": "AV. DESEMBARGADOR JOSÉ CONRADO DE LORENA, N° 1.834, APTO 1002, ED. GOLDEN TOWER, BAIRRO: GRUTA DE LOURDES, CEP: 57.052-780, MACEIÓ-AL.",
+    "Telefone": "(82) 99318-6539",
+    "Email": "MAGNACOMERCIOESERVICOS@GMAIL.COM",
+    "Representante_Legal": "MANOEL GOMES DOS SANTOS FILHO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "ANILHA Peso: 5 KG, Material: Ferro fundido, Características Adicionais: Pintada na cor preta, uso em disco.",
+      "Marca_Modelo": "D1 FIT/Anilha em ferro fundido",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "75",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 2.850,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "ANILHA Peso: 10 KG, Material: Ferro fundido, Características Adicionais: Pintada na cor preta, uso em disco.",
+      "Marca_Modelo": "D1 FIT/Anilha em ferro fundido",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "75",
+      "Valor_Unitario": "R$ 76,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "ANILHA Peso: 15 KG, Material: Ferro fundido, Características Adicionais: Pintada na cor preta, uso em disco.",
+      "Marca_Modelo": "D1 FIT/Anilha em ferro fundido",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "55",
+      "Valor_Unitario": "R$ 114,00",
+      "Valor_Total_Item": "R$ 6.270,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "ANILHA Peso: 20 KG, Material: Ferro fundido, Características Adicionais: Pintada na cor preta, uso em disco.",
+      "Marca_Modelo": "D1 FIT/Anilha em ferro fundido",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "40",
+      "Valor_Unitario": "R$ 152,00",
+      "Valor_Total_Item": "R$ 6.080,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "BARRA MACIÇA Material: Ferro maciço, Tratamento: Cromado, Uso: Com anilha.",
+      "Marca_Modelo": "D1 FIT/Barra maciça",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "20",
+      "Valor_Unitario": "R$ 85,00",
+      "Valor_Total_Item": "R$ 1.700,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "BARRA MACIÇA Material: Ferro maciço, Tratamento: Cromado, Uso: Com anilha.",
+      "Marca_Modelo": "D1 FIT/Barra maciça",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "20",
+      "Valor_Unitario": "R$ 155,00",
+      "Valor_Total_Item": "R$ 3.100,00"
+    }
+  ],
+  "Valor_Total": ""
+}

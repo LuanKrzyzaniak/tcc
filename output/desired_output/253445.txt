@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253445.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "2759625 (SEI)",
+    "Numero_Processo": "23243.006915/2025-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia, Campus Vilhena",
+    "CNPJ": "10.817.343/0003-69",
+    "UG": "",
+    "Endereco": "Rodovia BR 174 km 03, 4334, Zona Urbana, na cidade de Vilhena - RO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Rodrigo Alécio Stiz"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RC RAMOS COMERCIO DE PAPEIS EIRELI",
+    "CNPJ": "27.970.621/0001-80",
+    "Endereco": "Rua Amazonas, 334, Sala 02, Bairro São Cristóvão, na cidade de Vilhena/RO, CEP 76.908-410",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Dalcimar Antonio Ramos"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "34",
+      "Descricao_Especificacao": "Caneta esferográfica, ponta fina 0,7mm. Caracteristicas: corpo plástico, rigido transparente, tampa antiasfixi...",
+      "Marca_Modelo": "Bic/Cristal",
+      "Codigo": "372658",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "11.200",
+      "Valor_Unitario": "R$ 1,59",
+      "Valor_Total_Item": "R$ 17.808,00"
+    }
+  ],
+  "Valor_Total": "R$ 20.218,80"
+}

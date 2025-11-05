@@ -1,2 +1,75 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253513.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "294/2025-SMSA",
+    "Numero_Processo": "00000.0.005234/2025 (VOLUME 2)-00000.9.379507/2025",
+    "Pregao_Eletronico": "90045/2025",
+    "Vigencia": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR, por meio da SECRETARIA MUNICIPAL DA SAÚDE-SMSA",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, rua General Penha Brasil nº 1011, Boa Vista/RR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "SECRETÁRIO MUNICIPAL DE SAÚDE - SMSA",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "A. D. C. COMERCIO VAREJISTA E ATACADISTA DE PRODUTOS MEDICO-HOSPITALARES E ODONTOLOGICOS EIRELI",
+    "CNPJ": "17.584.091/0001-08",
+    "Endereco": "",
+    "Telefone": "(95) 99121-1024",
+    "Email": "comercial.saude.pmbv@gmail.com",
+    "Representante_Legal": "DIOGO PEREIRA DE SOUZA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "DRENO DE TÓRAX EM SILICONE, 18 FR, DESCARTÁVEL",
+      "Marca_Modelo": "PROTEC",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "120",
+      "Valor_Unitario": "R$ 138,40",
+      "Valor_Total_Item": "R$ 16.608,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "DRENO DE TÓRAX EM SILICONE, 20 FR, DESCARTÁVEL",
+      "Marca_Modelo": "PROTEC",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "120",
+      "Valor_Unitario": "R$ 138,40",
+      "Valor_Total_Item": "R$ 16.608,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "DRENO DE TÓRAX EM SILICONE, 24 FR, DESCARTÁVEL",
+      "Marca_Modelo": "PROTEC",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "120",
+      "Valor_Unitario": "R$ 138,40",
+      "Valor_Total_Item": "R$ 16.608,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "CATETER NASAL (PRONGA), PARA PACIENTE PEDIÁTRICO",
+      "Marca_Modelo": "PROTEC",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2.400",
+      "Valor_Unitario": "R$ 4,95",
+      "Valor_Total_Item": "R$ 11.880,00"
+    }
+  ],
+  "Valor_Total": "R$ 61.704,00"
+}

@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253612.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 734/2025",
+    "Numero_Processo": "01-P-46525/2024 (ASCENDENTE), 01-P-33944/2025 (HC), 01-P-33945/2025 (CAISM) (DESCENDENTES)",
+    "Pregao_Eletronico": "DGA SAÚDE N 90286/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161 (UASG)",
+    "Endereco": "Cidade Universitária de \"Zeferino Vaz\", Distrito de Barão Geraldo, Campinas, Estado de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Portador(a) da matrícula funcional nº 308817",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA",
+    "CNPJ": "44.734.671/0001-51",
+    "Endereco": "Avenida Vereador Raymundo Hargreaves, n° 98-105-Fonte Nova, Itapira/SP, CEP 13.974-900",
+    "Telefone": "(19) 3863-9500",
+    "Email": "cristalia.com.br",
+    "Representante_Legal": "Claudia Cristina de Oliveira"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "MEDICAMENTO INJETÁVEL (ACESSO), BETAMETASONA ACETATO, BETAMETASONA FOSFATO DISSÓDICO, SUSPENSÃO INJETÁVEL, 6MG/ML",
+      "Marca_Modelo": "ACETATO BETAMETASONA, BETAMETASON...",
+      "Codigo": "114",
+      "Unidade_Medida": "AMP",
+      "Quantidade_Registrada": "8.000",
+      "Valor_Unitario": "R$ 3,7400",
+      "Valor_Total_Item": "R$ 29.920,00"
+    }
+  ],
+  "Valor_Total": "R$ 29.920,00"
+}

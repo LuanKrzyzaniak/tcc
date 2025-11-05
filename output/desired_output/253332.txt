@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253332.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N/A (Documento SEI Nº 2759630)",
+    "Numero_Processo": "23243.006915/2025-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO), Campus Vilhena",
+    "CNPJ": "10.817.343/0003-69",
+    "UG": "",
+    "Endereco": "Rodovia BR 174 km 03, 4334, Zona Urbana, Vilhena - RO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Rodrigo Alécio Stiz"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MIKROSHOP COMERCIO SOLUCOES E TECNOLOGIA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ELLEN CRYSTINE FIGUEIREDO BARBOSA DUTRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Aquisição de Materiais de Expediente",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

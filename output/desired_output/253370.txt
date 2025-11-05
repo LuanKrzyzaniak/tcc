@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253370.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "673/2025",
+    "Numero_Processo": "23080.064658/2024-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, na cidade de Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "15.768.640/0001-38",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "KETTUHLYN SABRINA BRAGA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

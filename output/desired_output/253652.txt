@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253652.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "030/2025",
+    "Numero_Processo": "2025/0000048",
+    "Pregao_Eletronico_SRP": "90032/2025",
+    "Validade": "01 (um) ano",
+    "UASG": "",
+    "Objeto_Resumo": "ATA DE REGISTRO DE PREÇOS PARA AQUISIÇÃO DE CADEIRAS GIRATÓRIAS - LOTE 1"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO",
+    "CNPJ": "08.036.157/0001-89",
+    "UG": "",
+    "Endereco": "Rua Boa Vista, nº 200, СЕР 01014-000, Centro da Capital Paulista",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coordenador Geral de Administração",
+        "Nome": "Luiz Antônio Silva Bressane"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "FK GRUPO S.A.",
+    "CNPJ": "55.088.157/0010-01",
+    "Endereco": "Rodovia Braz Fortunato, S/N, KM 1 e 2, Jardim Garotinho, Bariri/SP, CEP 17.255-755",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Paulo Cristiano Bonatelli"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Cadeira giratória, Modelo: Diretor, com apoio para cabeça. Tipo: Concha dupla contínua, forma retangular, com curvatura lombar. Espaldar: Médio (mínimo). Encosto: Estruturado em quadro injetado de resina de engenharia. Revestido em tela flexível...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

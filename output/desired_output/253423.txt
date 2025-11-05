@@ -1,2 +1,69 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253423.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "23243.006915/2025-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia, Campus Vilhena",
+    "CNPJ": "10.817.343/0003-69",
+    "UG": "",
+    "Endereco": "Rodovia BR 174 km 03, 4334, Zona Urbana, na cidade de Vilhena - RO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Rodrigo Alécio Stiz"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "R. B. MONTEIRO LTDA",
+    "CNPJ": "09.303.497/0001-40",
+    "Endereco": "AV BRASIL, N° 3815, BAIRRO JARDIM BRASIL, CEP: 76.888-000, JARU-RO.",
+    "Telefone": "(69) 3521-1188",
+    "Email": "roniecompras@hotmail.com",
+    "Representante_Legal": "Ronie Braga Monteiro"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "28",
+      "Descricao_Especificacao": "Caixa arquivo morto polionda em Polipropileno, espessura 3mm, tamanho 350x130x250mm, cor azul.",
+      "Marca_Modelo": "PLASTCOR / AZUL",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE DE FORNECIMENTO",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 12,50",
+      "Valor_Total_Item": "R$ 1.875,00"
+    },
+    {
+      "Item_TR": "29",
+      "Descricao_Especificacao": "Caixa arquivo morto polionda em Polipropileno, espessura 3mm, tamanho 350x130x250mm, cor bege.",
+      "Marca_Modelo": "PLASTCOR / BEGE",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE DE FORNECIMENTO",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 12,50",
+      "Valor_Total_Item": "R$ 1.250,00"
+    },
+    {
+      "Item_TR": "30",
+      "Descricao_Especificacao": "Caixa arquivo morto polionda em Polipropileno, espessura 3mm, tamanho 350x130x250mm, cor preta.",
+      "Marca_Modelo": "PLASTCOR / PRETO",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE DE FORNECIMENTO",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 12,50",
+      "Valor_Total_Item": "R$ 625,00"
+    },
+    {
+      "Item_TR": "31",
+      "Descricao_Especificacao": "Caixa arquivo morto polionda em Polipropileno, espessura 3mm, tamanho 350x130x250mm, cor verde.",
+      "Marca_Modelo": "PLASTCOR / VERDE",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE DE FORNECIMENTO",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 12,50",
+      "Valor_Total_Item": "R$ 625,00"
+    }
+  ],
+  "Valor_Total": "R$ 4.375,00"
+}

@@ -1,2 +1,49 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253248.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00434/2025",
+    "Numero_Processo": "67511.000622/2025-13"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ACADEMIA DA FORCA AEREA",
+    "CNPJ": "00.394.429/0002-91",
+    "UG": "",
+    "Endereco": "Estrada de Aguaí, s/nº, Campo Fontenelle, Pirassununga",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas Delegado da Academia da Força Aérea",
+        "Nome": "Odilor da Silva Lopes Cel Int R/1"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MARES SERVICOS E COMERCIO DE EQUIPAMENTOS EIRELI",
+    "CNPJ": "19.061.289/0001-87",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0018",
+      "Descricao_Especificacao": "18. Fertilizante 10-20-20 (NPK), se a fonte de N for ureia essa deve ser protegida para minimizar as perdas de N + FTEBR-12 com enxofre, boro, cobre (se possível), manganês e zinco conforme legislação. O fertilizante deve apresentar sua bula de composição completa, informando a quantidade e relação de macro e micronutrientes, e a forma de proteção da uréia. Sacos bag de 1000 kg (ou 1 tonelada). Referência: Heringer ou similar. COTA RESERVADA DO ITEM 17.",
+      "Marca_Modelo": "NÃO SE APLICA/NÃO SE APLICA",
+      "Codigo": "",
+      "Unidade_Medida": "TN",
+      "Quantidade_Registrada": "15.00",
+      "Valor_Unitario": "4.899,9900",
+      "Valor_Total_Item": "73.499,8500"
+    },
+    {
+      "Item_TR": "0014",
+      "Descricao_Especificacao": "14. Fertilizante 04-14-08 (NPK), se a fonte de N for ureia essa deve ser protegida para minimizar as perdas de N + FTEBR-12 com enxofre, boro, cobre (se possivel), manganês e zinco conforme legislação. O fertilizante deve apresentar sua bula de composição completa, informando a quantidade e relação de macro e micronutrientes, e a forma de proteção da uréia. Sacos bag de 1000 kg (ou 1 tonelada). Referência: Heringer ou similar. COTA RESERVADA DO ITEM 13",
+      "Marca_Modelo": "NÃO SE APLICA/NÃO SE APLICA",
+      "Codigo": "",
+      "Unidade_Medida": "TN",
+      "Quantidade_Registrada": "12.00",
+      "Valor_Unitario": "3.142,9900",
+      "Valor_Total_Item": "37.715,8800"
+    }
+  ],
+  "Valor_Total": "111.215,7300"
+}

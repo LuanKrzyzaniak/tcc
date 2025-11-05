@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253238.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00432/2025",
+    "Numero_Processo": "67511.000622/2025-13"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ACADEMIA DA FORCA AEREA",
+    "CNPJ": "00.394.429/0002-91",
+    "UG": "",
+    "Endereco": "Estrada de Aguaí, s/nº, Campo Fontenelle, Pirassununga SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas Delegado da Academia da Força Aérea",
+        "Nome": "Sr. Odilor da Silva Lopes Cel Int R/1"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LAPEMA AGROPECUARIA LTDA",
+    "CNPJ": "18.721.106/0001-40",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0009",
+      "Descricao_Especificacao": "9. Gesso agricola utilizado como condicionador dos solo",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "TN",
+      "Quantidade_Registrada": "375.00",
+      "Valor_Unitario": "344,49",
+      "Valor_Total_Item": "129.183,75"
+    }
+  ],
+  "Valor_Total": "129.183,75"
+}

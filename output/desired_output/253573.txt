@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253573.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00591/2025",
+    "Numero_Processo": "236/2025",
+    "Pregao_Eletronico": "n° 236/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE UBERLÂNDIA / Secretaria Municipal de Saúde",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Representante da Secretaria Municipal de Saúde",
+        "Nome": "Adenilson Lima e Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MASIF ARTIGOS MEDICOS E HOSPITALARES LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "KATTY GESSELE, JANAINA GESSELE"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

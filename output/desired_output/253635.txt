@@ -1,2 +1,44 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253635.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "157/2025",
+    "Numero_Processo": "23540.000948/2025-10",
+    "Pregao_Eletronico_SRP": "90018/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA, filial da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126",
+    "Endereco": "Avenida Lourival Melo Mota - S/N - Cidade Universitária - Maceió - Alagoas, CEP 57.072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Célio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SISPACK MEDICAL LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "HUMBERTO LASSALA FILHO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

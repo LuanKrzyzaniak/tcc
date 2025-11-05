@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253484.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "30/2025",
+    "Numero_Processo": "158/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Odontoclínica Central do Exército",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "CEL",
+        "Nome": "EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "A2XR COMERCIAL LTDA",
+    "CNPJ": "50.591.089/0001-86",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

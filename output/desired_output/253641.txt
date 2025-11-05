@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253641.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "30.5/2025",
+    "Numero_Processo": "23769.011765/2025-55"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO (HUAC-UFCG)",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Carlos Chagas, s/nº Bairro São José, Campina Grande-PB, CEP 58400-398",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "HOMERO GUSTAVO CORREIA RODRIGUES"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "VICEMÁRIO SIMÕES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CONQUISTA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA.",
+    "CNPJ": "12.418.191/0001-95",
+    "Endereco": "Rodovia BR 101 Km 131, 131, CEP: 88.349-175 CAMBORIU - SC",
+    "Telefone": "4733667867",
+    "Email": "Conquistamedicamentos@gmail.com",
+    "Representante_Legal": "Sr. Adriano Rodrigues da Silva"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "21",
+      "Descricao_Especificacao": "Sulfametoxazol + trimetoprima; 400 mg + 80 mg; comprimido. Registrado na Anvisa como Medicamento.",
+      "Marca_Modelo": "GENÉRICO/VITAMEDIC",
+      "Codigo": "308882",
+      "Unidade_Medida": "COMPRIMIDO",
+      "Quantidade_Registrada": "7.000",
+      "Valor_Unitario": "0,17",
+      "Valor_Total_Item": "1.190,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.190,00"
+}

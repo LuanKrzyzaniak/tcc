@@ -1,2 +1,129 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253708.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "173/2025",
+    "Numero_Processo": "81/2025 (Pregão Eletrônico SRP) / 10.611/2025 (Processo Administrativo)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Município de Pato Branco",
+    "CNPJ": "76.995.448/0001-54",
+    "UG": "",
+    "Endereco": "Rua Caramuru, n° 271, Centro, em Pato Branco-PR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "Geri Natalino Dutra"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "F7 Arbitragem e Treinamentos Ltda",
+    "CNPJ": "27.319.042/0001-46",
+    "Endereco": "Rua Iguaçu, n° 1668, Sala n°02, Bairro Parzianello, CEP 85.504-460, em Pato Branco - PR",
+    "Telefone": "(46) 9 9919-3339",
+    "Email": "f7sports.pb@gmail.com",
+    "Representante_Legal": "Endrigo Vicente Feron"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de futebol, na categoria adulto, masculino e feminino com tempo de jogo de 70 min (01 árbitro, 02 auxiliares, 01 anotador e 02 gandulas).",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 608,00",
+      "Valor_Total_Item": "R$ 30.400,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "Arbitragem de jogos pré definidos na modalidade de futebol 7 adulto e master, masculino e feminino. (02 árbitros e 01 anotador).",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 301,00",
+      "Valor_Total_Item": "R$ 45.150,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de futebol 7 master (40+), masculino e feminino (02 árbitros e 01 anotador).",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 304,00",
+      "Valor_Total_Item": "R$ 30.400,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de basquetebol, na categoria adulta masculino (02 árbitros, 01 cronometrista e 01 anotador).",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 440,00",
+      "Valor_Total_Item": "R$ 22.000,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de voleibol, na categoria adulta feminino (02 árbitros e 01 anotador).",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 350,00",
+      "Valor_Total_Item": "R$ 17.500,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de voleibol, na categoria adulta masculino (02 árbitros e 01 anotador).",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 340,00",
+      "Valor_Total_Item": "R$ 17.000,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "Diárias para arbitragem de competições predefinidas em festivais em todas as categorias e modalidades, masculino e feminino (diárias por arbitro)",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 330,00",
+      "Valor_Total_Item": "R$ 49.500,00"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de futsal categoria máster (40+) masculino (02 árbitros e 01 anotador).",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 320,00",
+      "Valor_Total_Item": "R$ 32.000,00"
+    },
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de futsal categoria até sub 16/17 infanto juvenil masculino e feminino. (02 árbitros e 01 anotador)",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "70",
+      "Valor_Unitario": "R$ 260,00",
+      "Valor_Total_Item": "R$ 18.200,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "Arbitragem de jogos predefinidos na modalidade de futsal categoria até sub 14/15 infantil masculino e feminino. (02 árbitros e 01 anotador)",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Jg",
+      "Quantidade_Registrada": "70",
+      "Valor_Unitario": "R$ 288,00",
+      "Valor_Total_Item": "R$ 20.160,00"
+    }
+  ],
+  "Valor_Total": ""
+}

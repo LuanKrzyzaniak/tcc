@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253459.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "19",
+    "Numero_Processo": "64549.000998/2025-02"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "14º GRUPO DE ARTILHARIA DE CAMPANHA - 14 GAC",
+    "CNPJ": "09.602.705/0001-53",
+    "UG": "",
+    "Endereco": "Avenida Marechal Castelo Branco, 635, Pouso Alegre-MG, CEP 37.550-225",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel Ordenador de Despesas",
+        "Nome": "Carlos Eduardo Tavares de Lima"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "J & K COMERCIAL LTDA",
+    "CNPJ": "04.338.231/0001-60",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

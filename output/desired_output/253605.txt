@@ -1,2 +1,214 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253605.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "143/2025",
+    "Numero_Processo": "23540.000948/2025-10",
+    "Pregao_Eletronico": "SRP № 90018/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA, filial da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126 (UASG)",
+    "Endereco": "Avenida Lourival Melo Mota - S/N - Cidade Universitária - Maceió - Alagoas, CEP 57.072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Sr. Célio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Sr. Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "COTACAO COM REPRESENTACAO IMPORTACAO E EXPORTACAO LTDA",
+    "CNPJ": "11.238.455/0001-40",
+    "Endereco": "Rua Engenheiro Edgar Dantas, nº 626, Candelária, Natal/RN, CEP 59.065-510",
+    "Telefone": "(84) 3217-2342",
+    "Email": "cotacaocompras@hotmail.com",
+    "Representante_Legal": "DORIAN COTTA (Representante Legal)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA VERMELHA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA AZUL",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA AMARELA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA BRANCA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA PRETA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "06",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA LILÁS",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA VERDE",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "08",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA LARANJA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "09",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA ROSA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA MARROM",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA CINZA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA ROXA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "13",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA TURQUESA",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "14",
+      "Descricao_Especificacao": "FITA PARA MARCAÇÃO E IDENTIFICAÇÃO DE INSTRUMENTOS CIRÚRGICOS NA COR SÓLIDA BORDO",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 34,00",
+      "Valor_Total_Item": "R$ 136,00"
+    },
+    {
+      "Item_TR": "15",
+      "Descricao_Especificacao": "ENVELOPE AUTOSSELANTE GRAU CIRÚRGICO, 10 CM X 250 M",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "100",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 205,00",
+      "Valor_Total_Item": "R$ 20.500,00"
+    },
+    {
+      "Item_TR": "16",
+      "Descricao_Especificacao": "ENVELOPE AUTOSSELANTE GRAU CIRÚRGICO, 15 CM X 250 M",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "150",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 265,00",
+      "Valor_Total_Item": "R$ 53.000,00"
+    },
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "ENVELOPE AUTOSSELANTE GRAU CIRÚRGICO, 20 CM X 250 M",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "200",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 360,00",
+      "Valor_Total_Item": "R$ 108.000,00"
+    },
+    {
+      "Item_TR": "18",
+      "Descricao_Especificacao": "ENVELOPE AUTOSSELANTE GRAU CIRÚRGICO, 30 CM X 250 M",
+      "Marca_Modelo": "CRIE / AUTHENTICA",
+      "Codigo": "300",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 540,00",
+      "Valor_Total_Item": "R$ 108.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 291.804,00"
+}

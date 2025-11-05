@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253677.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "10/2025",
+    "Numero_Processo": "71000.001609/2025-19",
+    "Pregao_Eletronico": "SRP N.º 90004/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS",
+    "CNPJ": "05.756.246/0004-54",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Subsecretária de Assuntos Administrativos do MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME",
+        "Nome": "Ariane Sidia Benigno Silva Felipe"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Cestas de Alimentos, voltada para atendimento da Ação de Distribuição de Alimentos - ADA (GRUPO 27)",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

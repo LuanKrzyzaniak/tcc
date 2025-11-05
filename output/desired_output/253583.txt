@@ -1,2 +1,61 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253583.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "199/2025",
+    "Numero_Processo": "63512.002953/2024-38",
+    "Pregao_Eletronico_ARP": "90028/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MARINHA DO BRASIL (Centro de Intendência da Marinha em Niterói)",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/nº Centro, Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra / Ordenador de Despesas",
+        "Nome": "Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "HS DE MORAIS - COMERCIO",
+    "Nome_Fantasia": "H S DE MORAIS - COMERCIO",
+    "CNPJ": "53.251.412/0001-60",
+    "Endereco": "RUA CORONEL VIVIDA, 198 - ALTO BOQUEIRÃO",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "HELOISA SENA DE MORAIS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "Armário escritório, material: aglomerado de 18 mm, cor: tabaco, dimensão: 1,60 X 0,80 X 0,40 m. Armário fechado com chave.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "3",
+      "Valor_Unitario": "R$ 680,00",
+      "Valor_Total_Item": "R$ 2.040,00"
+    },
+    {
+      "Item_TR": "14",
+      "Descricao_Especificacao": "Armário escritório, material: aglomerado de 18 mm, cor: tabaco, dimensão: 1,60 X 0,80 X 0,40 m. Armário fechado com chave.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "3",
+      "Valor_Unitario": "R$ 680,00",
+      "Valor_Total_Item": "R$ 2.040,00"
+    },
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "Armário arquivo, material: aglomerado de 18 mm, cor: tabaco, dimensão: 1,60 X 0,80 X 0,40 m. Armário fechado com chave.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "3",
+      "Valor_Unitario": "R$ 750,00",
+      "Valor_Total_Item": "R$ 2.250,00"
+    }
+  ],
+  "Valor_Total": ""
+}

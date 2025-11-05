@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253377.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "173/2025",
+    "Numero_Processo": "64680.010556/2024-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11° Regimento de Cavalaria Mecanizado (MEX-11.REGIMENTO DE CAVALARIA MECANIZADO/MS)",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, na cidade de Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SOUL DISTRIBUIDORA DE PRODUTOS E EQUIPAMENTOS INDUSTRIAIS LTDA",
+    "CNPJ": "51.659.136/0001-49",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "VIVIANE LOPES FRAGA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "135",
+      "Descricao_Especificacao": "esgoto cor branco.",
+      "Marca_Modelo": "",
+      "Codigo": "389653",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 1,...",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 75.279,0..."
+}

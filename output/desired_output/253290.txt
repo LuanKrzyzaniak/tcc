@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253290.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "79/2025",
+    "Numero_Processo": "23076.075296/2023-89"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Universidade Federal de Pernambuco",
+    "CNPJ": "24.134.488/0001-08",
+    "UG": "",
+    "Endereco": "Avenida Professor Moraes Rego, nº 1235, Cidade Universitária, Recife, PE, CEP 50670-901",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Magnífico Reitor",
+        "Nome": "Prof. Alfredo Macedo Gomes"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,60 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253543.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00103/2025",
+    "Numero_Processo": "64577.012005/2025-08",
+    "Pregao_Eletronico": "Nº 90021/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "UG": "",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel (Ordenador de Despesas)",
+        "Nome": "PAULO CESAR DOS SANTOS FARIA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Medical Life Comércio e Serviços Hospitalares LTDA.",
+    "CNPJ": "31.019.309/0001-57",
+    "Endereco": "Spipe Calarge, N° 1411-Salas 05/06/07 - Bairro: Vila Carlota - Campo Grande MS CEP: 79,051-560",
+    "Telefone": "(21) 2516-1177",
+    "Email": "licitacao@medicallifems.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "GP 1 ITEM 5",
+      "Descricao_Especificacao": "Prótese de silicone para correção mamária e reconstrutivas pós mastectomia com tecnologia de barreira de baixa difusão ou de baixa impermeabilização na membrana, superfice lisa, ergonômica formato redondo com microtransponder, de projeções e perfis variados, de 105 CC a 1050 CC.",
+      "Marca_Modelo": "ESTABLISHMENT LABS S. A",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "40",
+      "Valor_Unitario": "R$ 2.690,00",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "GP 1 ITEM 6",
+      "Descricao_Especificacao": "Prótese de silicone para correção mamária e reconstrutivas pós mastectomia com tecnologia de barreira de baixa difusão ou de baixa impermeabilização na membrana, superfice lisa, ergonômica formato anatómico com microtransponder, de projeções baixa, moderada, alta e super alta, tamanhos variados de 280 CC a 600 CC.",
+      "Marca_Modelo": "ESTABLISHMENT LABS S. A",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "40",
+      "Valor_Unitario": "R$ 2.410,00",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "GP 1 ITEM 7",
+      "Descricao_Especificacao": "Expansor de tecido mamário anatômico com válvula integrada, compatível com ressonância magnética, tamanhos e alturas variados de",
+      "Marca_Modelo": "ESTABLISHMENT LABS S. A",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "40",
+      "Valor_Unitario": "R$ ",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

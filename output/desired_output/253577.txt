@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253577.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "707/2025",
+    "Numero_Processo": "01-P-8339/2025",
+    "Pregao_Eletronico": "90301/2025",
+    "Processo_Descendente": "01-P-32843/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161",
+    "Endereco": "Praça das Bandeiras, n° 45- Quadra 2 - Prédio 1 Cidade Universitária \"Zeferino Vaz\" - Barão Geraldo Campinas - SP - Brasil - CEP: 13083-869",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Representante (Matrícula funcional nº 308817)",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "GM DOS REIS INDÚSTRIA E COMÉRCIO LTDA",
+    "CNPJ": "60.040.599/0001-19",
+    "Endereco": "AVENIDA PIERRE SIMON DE LAPLACE NÚM. 600- LOTE 3 QUADRA F QUARTEIRÃO 967",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "PLACA ESPECIAL P/.EPIFISIODESE ...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

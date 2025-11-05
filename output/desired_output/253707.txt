@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253707.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "08/2025-SEJUS",
+    "Numero_Processo": "00400-00028278/2025-22",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DOMINU'S EMPREENDIMENTOS LTDA",
+    "CNPJ": "38.248.140/0001-56",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "JANATHAN CARLOS ARAUJO PARADELA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "15",
+      "Descricao_Especificacao": "Televisão LED, Smart Tv equipada com conexão Wifi, Bluetooth, 4k (Resolução 3840x2160), Frequencia 60 Hz, Ultra HD, 60 Polegadas, Conversor Dig. Integrado, bivolt.",
+      "Marca_Modelo": "HQ Hqstv60nk",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "7",
+      "Valor_Unitario": "R$ 2.857,00",
+      "Valor_Total_Item": "R$ 19.999,00"
+    }
+  ],
+  "Valor_Total": "R$ 19.999,00"
+}

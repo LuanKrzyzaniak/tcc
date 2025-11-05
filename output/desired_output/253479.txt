@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253479.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "714/2025",
+    "Numero_Processo": "SMS-PRO-2023/06322"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DO RIO DE JANEIRO, por meio da Secretaria Municipal de Saúde",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": ""
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SCITECH PRODUTOS MEDICOS SA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "MEIRY TATIANE SILVA BORGES"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "Alça de polipectomia 2,2mm, simétrica, hexagonal, rotatória, 230cm, para canal 2,8mm, estéril, descartável",
+      "Marca_Modelo": "SCITECH",
+      "Codigo": "6515.68.216-00",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "665",
+      "Valor_Unitario": "95,00",
+      "Valor_Total_Item": "63.175,00"
+    }
+  ],
+  "Valor_Total": "R$ 63.175,00"
+}

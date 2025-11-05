@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253469.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "SEI/IFRO-2760088",
+    "Numero_Processo": "23243.006915/2025-38",
+    "Pregao_Eletronico": "Nº 90025/2025",
+    "Validade": "12 (doze) meses"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia, Campus Vilhena",
+    "CNPJ": "10.817.343/0003-69",
+    "UG": "",
+    "Endereco": "Rodovia BR 174 km 03, 4334, Zona Urbana, na cidade de Vilhena - RO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Rodrigo Alécio Stiz"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "STAR MIX COMERCIO DE PAPELARIA E VARIEDADES LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "Bloco auto adesivo 38x5...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "fornecimento",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

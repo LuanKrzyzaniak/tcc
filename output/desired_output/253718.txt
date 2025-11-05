@@ -1,2 +1,80 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253718.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 261/2025",
+    "Numero_Processo": "",
+    "Numero_Pregao": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BIOSIGMA COMERCIO DE PRODUTOS HOSPITALARES E LABORATORIAIS LTDA",
+    "CNPJ": "12.051.059/0001-98",
+    "Endereco": "rua Olavo Jaguaribe Eckman, n.º 170, Vale Encantado, em Campos do Jordão-SP, CEP: 12472-332",
+    "Telefone": "(16) 4042-2210",
+    "Email": "licitacao@biosigma.com.br",
+    "Representante_Legal": "BEATRIZ BERTOLOSSI, Sócia/Diretora"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE COLESTEROL TOTAL, TIPO ENZIMÁTICO, CONCENTRAÇÃO DE COLESTEROL DE 20 MG/DL A 800 MG/DL",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.14",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 7.600,00"
+    },
+    {
+      "Item_TR": "28",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PROTEINA C REATIVA, TIPO LATEX, CONCENTRAÇÃO DE 0 A 120 MG/L",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.09",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 10,00",
+      "Valor_Total_Item": "R$ 300,00"
+    },
+    {
+      "Item_TR": "33",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE TRANSAMINASE OXALACÉTICA (TGO), TIPO CINÉTICO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.16",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 8.000,00"
+    },
+    {
+      "Item_TR": "35",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE TRANSAMINASE PIRÚVICA (TGP), TIPO CINÉTICO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.17",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 8.000,00"
+    },
+    {
+      "Item_TR": "59",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE VITAMINA D, TIPO IMUNOCROMATOGRAFIA",
+      "Marca_Modelo": "",
+      "Codigo": "1.05.002.04.22",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "R$ 75,00",
+      "Valor_Total_Item": "R$ 900,00"
+    }
+  ],
+  "Valor_Total": "R$ 24.800,00"
+}

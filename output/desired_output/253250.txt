@@ -1,2 +1,85 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253250.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "SEI Nº 290/2025",
+    "Numero_Processo": "23070.020980/2024-14",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica, para REGISTRO DE PREÇOS nº 90.086/2024-UFG"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Universidade Federal de Goiás - UFG",
+    "CNPJ": "01.567.601/0001-43",
+    "Endereco": "Campus Samambaia, prédio da Reitoria, na cidade de Goiânia - Goiás",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Reitora",
+        "Nome": "Prof Dr ANGELITA PEREIRA DE LIMA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SENTINELA DO VALE COMERCIAL EIRELI",
+    "CNPJ": "29.843.035/0001-74",
+    "Endereco": "Rua Fritz Spernau, 1000, Galpão 1, Fortaleza, Blumenau/SC",
+    "Telefone": "(47) 3232 1221",
+    "Email": "sentinela@sentinelavale.com.br",
+    "Representante_Legal": "JEAN CARLOS SESTREM"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "ADAPTADOR, PVC, SOLDÁVEL, CURTO, BOLSA E ROSCA PARA REGISTRO - 25MM X 3/4\", COR MARROM; PRESSÃO DE SERVIÇO 7,5KGF/CM²; FABRICADO DE ACORDO COM NBR 5648 E CERTIFICADA PELO INMETRO E PBPQ-H",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 0,57",
+      "Valor_Total_Item": "R$17,10"
+    },
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "ADESIVO, PLÁSTICO, PVC, FLUÍDO LIQUIDO, A BASE DE SOLVENTES FORMALDEÍDOS, CETONAS E RESINAS DE PVC, TEOR VOLÁTIL 86% - FRASCO 850G FABRICADAS DE ACORDO COM NBR 5648 E CERTIFICADA PELO INMETRO E PBPQ-H",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "60",
+      "Valor_Unitario": "R$36,90",
+      "Valor_Total_Item": "R$2.214,00"
+    },
+    {
+      "Item_TR": "14",
+      "Descricao_Especificacao": "BUCHA, REDUÇÃO, CURTA, SOLDÁVEL PVC - 32 X 25 MM COR MARROM; PRESSÃO DE SERVIÇO 7,5KGF/CM²; FABRICADO DE ACORDO COM NBR 5648 E CERTIFICADA PELO INMETRO E PBPQ-H",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 198,00"
+    },
+    {
+      "Item_TR": "36",
+      "Descricao_Especificacao": "CONEXÃO, HIDRÁULICA, TIPO CAP, ESGOTO, DIAMETRO NOMINAL 75MM, SÉRIE NORMAL, PVC, COR BRANCA, FABRICADAS DE ACORDO COM ABNT NBR 5688, CERTIFICAÇÃO PELO INMETRO E PBPQ-H",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 5,62",
+      "Valor_Total_Item": "R$ 168,60"
+    },
+    {
+      "Item_TR": "39",
+      "Descricao_Especificacao": "CONEXÃO, HIDRÁULICA, TIPO JOELHO, 45º ESGOTO, DIAMETRO NOMINAL 50MM, SÉRIE NORMAL, PVC, COR BRANCA, FABRICADAS DE ACORDO COM ABNT NBR 5688, CERTIFICAÇÃO PELO INMETRO E PBPQ-H",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "60",
+      "Valor_Unitario": "R$2,66",
+      "Valor_Total_Item": "R$159,60"
+    },
+    {
+      "Item_TR": "43",
+      "Descricao_Especificacao": "CONEXÃO, HIDRÁULICA, TIPO JOELHO, 90º ESGOTO DIAMETRO NOMINAL 100MM, SÉRIE NORMAL, PVC, COR BRANCA, FABRICADAS DE ACORDO COM ABNT NBR 5688, CERTIFICAÇÃO PELO INMETRO E PBPQ-H",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "40",
+      "Valor_Unitario": "R$4,45",
+      "Valor_Total_Item": "R$178,00"
+    },
+    {
+      "Item_TR": "106",
+      "Descricao_Especificacao": "REGISTRO, HIDRÁULICO, TIPO ESFERA, SOLDÁVEL, DIAMETRO NOMINAL 60MM MATERIAL PVC COR MARROM, DIMENSIONADO PARA PRESSÃO DE ATÉ 10 KGF/CM²; 1/4 DE VOLTA, FABRICADO DE ACORDO COM NBR 5626 E 5648, CERTIFICADO PELO INMETRO E PROGRAMA SETORIAL DA QUALIDADE DOS TUBOS E CONEXÕES DE PVC PARA SISTEMAS HIDRÁULICOS PREDIAIS",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$32,87",
+      "Valor_Total_Item": "R$986,10"
+    }
+  ],
+  "Valor_Total": "R$ 4.921,40"
+}

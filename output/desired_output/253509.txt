@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253509.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "06006/2025",
+    "Numero_Processo": "64062.003819/2025-43"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "23º Batalhão de Infantaria (Batalhão Jacintho Machado de Bitencourt)",
+    "CNPJ": "09.634.813/0001-08",
+    "UG": "",
+    "Endereco": "Rua Amazonas, nº 3.312, na cidade de Blumenau-SC",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coronel",
+        "Nome": "ANTONIO FERNANDO ADORNO COSSA"
+      },
+      {
+        "Cargo": "Ordenador de Despesas Substituto",
+        "Nome": "RICARDO FABIANO LUCION – Major"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "FRANCISMAR PAGNONCELLI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "28",
+      "Descricao_Especificacao": "SELETA DE LEGUMES (EM CONSERVA) 2 KG, PESO DRENADO",
+      "Marca_Modelo": "Predilecta / Fugini...",
+      "Codigo": "",
+      "Unidade_Medida": "Un",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

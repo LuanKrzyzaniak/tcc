@@ -1,2 +1,23 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253280.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "47015/2025",
+    "Numero_Processo": "2025/000047-FJF"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INDÚSTRIA DE MATERIAL BÉLICO DO BRASIL - IMBEL",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": []
+  },
+  "Fornecedor": {
+    "Razao_Social": "ANTONIO CARLOS POLY LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

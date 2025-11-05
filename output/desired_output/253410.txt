@@ -1,2 +1,93 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253410.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 285/2025-SMSA",
+    "Numero_Processo": "012192/2024 (VOLUME 3)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, nesta cidade (Boa Vista/RR)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Excelentíssimo Senhor Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde - SMSA",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "M MED COMERCIAL DE MEDICAMENTOS E PRODUTOS HOSPITALARES EIRELI",
+    "CNPJ": "27.691.071/0001-08",
+    "Endereco": "Rua Barão do Rio Branco n° 370, Centro, Cuiabá - MT, CEP: 78.005-470",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RUBENS BATISTA MENDANHA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Seringa de 1 ml, com agulha 13x0,30 mm, descartável, estéril.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "15.000",
+      "Valor_Unitario": "R$ 0,72",
+      "Valor_Total_Item": "R$ 10.800,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "Seringa de 1 ml, com agulha 8 x 0,30 mm, descartável, estéril.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "6.000",
+      "Valor_Unitario": "R$ 0,72",
+      "Valor_Total_Item": "R$ 4.320,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "Seringa de 3 ml, com agulha 25 x 0,70mm, descartável, estéril.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,22",
+      "Valor_Total_Item": "R$ 6.600,00"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "Seringa de 5 ml, com agulha 25 x 0,80mm, descartável, estéril.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "10.000",
+      "Valor_Unitario": "R$ 0,24",
+      "Valor_Total_Item": "R$ 2.400,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "Seringa de 10 ml, com agulha 25 x 0,80mm, descartável, estéril.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "5.000",
+      "Valor_Unitario": "R$ 0,25",
+      "Valor_Total_Item": "R$ 1.250,00"
+    },
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "Seringa de 20 ml, com agulha 40 x 1,20mm, descartável, estéril.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "1.500",
+      "Valor_Unitario": "R$ 0,55",
+      "Valor_Total_Item": "R$ 825,00"
+    }
+  ],
+  "Valor_Total": "R$ 26.195,00"
+}

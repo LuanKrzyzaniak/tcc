@@ -2,8 +2,10 @@ import os
 from datasets import load_dataset, concatenate_datasets
 from transformers import T5Tokenizer, T5ForConditionalGeneration, Trainer, TrainingArguments, DataCollatorForSeq2Seq
 import torch
+import json
 
-folder = "output/finetuning"
+# Constantes
+folder = "output/dataset"
 max_input_length = 1024
 max_target_length = 512
 
@@ -17,13 +19,23 @@ def preprocess(batch, tokenizer):
 
 def main():
     # Concatenando datasets
+    print("Carregando dataset...\n")
     data_files = {"train": [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith(".jsonl")]}
     dataset = load_dataset("json", data_files=data_files)["train"]
+    dataset = dataset.filter(lambda x: x["target"].strip() != "")
+
+
+    print(f"Dataset carregado com {len(dataset)} arquivos.\n")
+    print(f"Primeiro arquivo do dataset: {dataset[0]}\n")
+
 
     # Split treino/validação (80/20)
+    print("Separando dataset...\n")
     split = dataset.train_test_split(test_size=0.2)
     train_dataset = split["train"]
     val_dataset = split["test"]
+    print(f"Dataset de treino com {len(train_dataset)} arquivos.\n")
+    print(f"Dataset de validação com {len(val_dataset)} arquivos.\n")
 
     # Modelo e tokenizer
     model_name = "t5-base"
@@ -61,6 +73,7 @@ def main():
         data_collator=data_collator
     )
 
+    print("Iniciando treinamento...\n")
     # Treinar
     trainer.train()
 

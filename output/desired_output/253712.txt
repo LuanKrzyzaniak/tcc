@@ -1,2 +1,94 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253712.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "20250151521",
+    "Numero_Processo": "161.00328324/2024-05",
+    "Numero_Pregao": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "FUNDAÇÃO CENTRO DE ATENDIMENTO SOCIOEDUCATIVO AO ADOLESCENTE - FUNDAÇÃO CASA",
+    "CNPJ": "44.480.283/0001-91",
+    "UG": "",
+    "Endereco": "Rua Florêncio de Abreu, n.º 848 CEP 01030-001, Bairro Luz, na cidade de São Paulo - Capital",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "Ana Claudia Carletto"
+      },
+      {
+        "Cargo": "Diretor Administrativo",
+        "Nome": "Magda de Oliveira Vieira"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "A2G COMERCIAL LTDA",
+    "CNPJ": "28.324.786/0001-80",
+    "Endereco": "Av. João Baptista de Oliveira, nº 425 - Vila Boa Esperança - Barueri/SP - CEP: 06411-200",
+    "Telefone": "(11) 4208-1662",
+    "Email": "licitacao@a2gcomercial.com.br",
+    "Representante_Legal": "ALESSANDRO GALANTE"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Lâmpada LED tubular, 18W, bivolt, luz branca (6.000k - 6.500k), 1.200mm, 1.800 Lumens",
+      "Marca_Modelo": "Lumnium",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2.760",
+      "Valor_Unitario": "R$ 13,00",
+      "Valor_Total_Item": "R$ 35.880,00"
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Lâmpada LED bulbo A60, 9W, bivolt, luz branca (6.000k - 6.500k), base E27, 810 Lumens",
+      "Marca_Modelo": "Ourolux",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4.800",
+      "Valor_Unitario": "R$ 5,00",
+      "Valor_Total_Item": "R$ 24.000,00"
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Fita isolante, rolo com 10 metros, anti-chamas, classe B, cor preta",
+      "Marca_Modelo": "Ourolux",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "600",
+      "Valor_Unitario": "R$ 3,00",
+      "Valor_Total_Item": "R$ 1.800,00"
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Fio rígido, flexível, 4mm², isolado 750V, cores variadas (preto, azul, vermelho, branco)",
+      "Marca_Modelo": "M&F Fios e Cabos",
+      "Codigo": "",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "15",
+      "Valor_Unitario": "R$ 180,00",
+      "Valor_Total_Item": "R$ 2.700,00"
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Fio rígido, flexível, 6mm², isolado 750V, cores variadas (preto, azul, vermelho, branco)",
+      "Marca_Modelo": "M&F Fios e Cabos",
+      "Codigo": "",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "10",
+      "Valor_Unitario": "R$ 270,00",
+      "Valor_Total_Item": "R$ 2.700,00"
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Tomada 10A, pino redondo, dois pinos mais terra, na cor branca",
+      "Marca_Modelo": "Pial",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "600",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 4.800,00"
+    }
+  ],
+  "Valor_Total": "R$ 71.880,00"
+}

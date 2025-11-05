@@ -1,2 +1,21 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253392.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "282/2025-SMSA",
+    "Numero_Processo": "00000.0.012192/2024 (VOLUME 3)00000.9.376396/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA – RR / SECRETARIA MUNICIPAL DE SAÚDE-SMSA",
+    "CNPJ": "05.943.030/0001-55",
+    "Endereco": "Palácio 9 de Julho, rua General Penha Brasil nº 1011, Boa Vista",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "PROSSERV - COMERCIO E SERVIÇOS...",
+    "Representante_Legal": "CLAUDIO CÉSAR RODRIGUES SOUSA"
+  }
+}

@@ -1,2 +1,32 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253412.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "298/2025",
+    "Numero_Processo": "23768.012970/2024-67"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Complexo Hospitalar Universitário da UFPA/EBSERH",
+    "CNPJ": "15.126.437/0037-54",
+    "UG": "155909",
+    "Endereco": "Rua dos Mundurucus, 4487, Bairro do Guamá, Belém-Pa, CEP 66073-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Regina Fátima Feio Barroso"
+      },
+      {
+        "Cargo": "Gerente",
+        "Nome": "Daniel Paulo Serique Júnior"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "VILMA SILVA COSTA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

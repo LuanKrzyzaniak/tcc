@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253660.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "9702/2025",
+    "Numero_Processo": "01-185513/2025",
+    "Modalidade_Licitacao": "Pregão Eletrônico n.º 97/2025- Feas.",
+    "Objeto": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Fundação Estatal De Atenção À Saúde (Feas)",
+    "CNPJ": "14.814.139/0001-83",
+    "UG": "",
+    "Endereco": "R. Cap. Argemiro Monteiro Wanderley, 161, 3º andar, Capão Raso - Curitiba/PR, CEP 81.130-160",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-geral",
+        "Nome": "Sezifredo Paulo Alves Paz"
+      },
+      {
+        "Cargo": "Diretora Administrativa-Financeira",
+        "Nome": "Janaina Barreto Fonseca"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CONATO COMERCIO E DISTRIBUIDORA DE PRODUTOS HOSPITALARES EIRELI",
+    "CNPJ": "07.258.980/0001-57",
+    "Endereco": "AVENIDA PREFEITO SINCLER SAMBOGI, 874, SALA 113, CENTRO, JUIZ DE FORA/MG, CEP 36015-430",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ISRAEL RIBEIRO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

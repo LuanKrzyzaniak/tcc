@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253353.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00474/2024",
+    "Numero_Processo": "64577.023713/2024-85"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "UG": "Não encontrado",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande - MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel",
+        "Nome": "ANDRÉ ANTUNES MASCARENHAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CRISTALIA PRODUTOS QUIMICOS FARMACEUTICOS LTDA",
+    "CNPJ": "44.734.671/0001-51",
+    "Endereco": "Rodovia Itapira-Lindoia, km 14 - Itapira - SP - CEP 13.970-00",
+    "Telefone": "(19) 3863-9000",
+    "Email": "LICITACAO@CRISTALIA.COM.BR",
+    "Representante_Legal": "MARIA DO CARMO DA SILVA DE OLIVEIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "131",
+      "Descricao_Especificacao": "COMPRESSA DE GAZE NÃO ESTÉRIL. FIO: 13 FIOS POR CM²",
+      "Marca_Modelo": "CRISTALIA",
+      "Codigo": "Não encontrado",
+      "Unidade_Medida": "CAIXA",
+      "Quantidade_Registrada": "250",
+      "Valor_Unitario": "R$ 4,14",
+      "Valor_Total_Item": "R$ 1.035,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.035,00"
+}

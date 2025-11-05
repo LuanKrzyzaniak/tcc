@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253363.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "186/2025",
+    "Numero_Processo": "143.00002773/2025-17"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "UG": "",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº Rubião Júnior, CEP 18.618-687, na cidade de Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Departamento de Logística de Atendimento HCFMB",
+        "Nome": "Enf. Karen Aline Batista da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "L.D.M. EQUIPAMENTOS LTDA",
+    "CNPJ": "00.538.079/0001-09",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "PRISCILA CRISTINA BRAJOWITCH MONTENEGRO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253355.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "46/2025",
+    "Numero_Processo": "47/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Fundação Uberlandense do Turismo, Esporte e Lazer FUTEL",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua José Roberto Migliorini, 850-Bairro Santa Mônica - Uberlândia /MG-CEP: 38.408-251",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "Edson Cesar Zanatta"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,45 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253342.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00473/2024",
+    "Numero_Processo": "64577.023713/2024-85"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande - MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel",
+        "Nome": "ANDRÉ ANTUNES MASCARENHAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MEDICAL LIFE COMERCIO E SERVICOS HOSPITALARES LTDA",
+    "CNPJ": "31.019.309/0001-57",
+    "Endereco": "Rua Spipe Calarge, N° 1411 - Salas 05/06/07- Bairro: Vila Carlota - Campo Grande MS",
+    "Telefone": "(21) 2516-1177",
+    "Email": "licitacao@medicallifems.com.br"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "132",
+      "Descricao_Especificacao": "Composto híbrido para prevenção e ou tratamento de Fibros e ou Bridas constritivas de base celulose, sem compostos animais, e de formulação hibridade polissacarídeo hidrofílico e carboximetilcelulose. O composto deve promover a formação de barreira anti fibróticae simultaneamente hemostasia além de ser bio compatível e bio absorvível. O produto deve ter a apresentação em pó, com conjunto de aplicador em fole e Cânula flexível de 40 cm e descartável para aspersão no campo cirúrgico.",
+      "Marca_Modelo": "DMC",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 11.500,00",
+      "Valor_Total_Item": "R$ 345.000,00"
+    },
+    {
+      "Item_TR": "133",
+      "Descricao_Especificacao": "O produto deve ser estéril em embalagem grau cirúrgico, contendo 1 g por unidade, e todas as informações regulatórias. Por ser material de uso interno e de longo prazo, o registro deve ter classe de Risco 4 na Anvisa, Composto híbrido para prevenção e ou tratamento de Fibros e ou Bridas constritivas de base celulose, sem compostos animais, e de formulação hibridade polissacarídeo hidrofílico e carboximetilcelulose. O composto deve promover a formação de barreira anti fibrótica e simultaneamente hemostasia além de ser bio compatível e bio absorvível. O produto deve ter a apresentação em pó, com conjunto de aplicador em fole e Cânula flexível de 40 cm e descartável para aspersão no campo cirúrgico.",
+      "Marca_Modelo": "DMC",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 13.500,00",
+      "Valor_Total_Item": "R$ 675.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.020.000,00"
+}

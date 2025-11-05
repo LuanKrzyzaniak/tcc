@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253529.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "835/2025-SMS.G",
+    "Numero_Processo": "6018.2025/0086094-0",
+    "Pregao_Eletronico": "90832/2025/SMS.G",
+    "Objeto": "REGISTRO DE PREÇOS PARA O FORNECIMENTO DE FRALDA DESCARTÁVEL, INFANTIL, TAMANHO G (MARCA: PAMPERS CONFORT SEC) PARA CUMPRIMENTO DE DETERMINAÇÕES JUDICIAIS – AÇÃO JUDICIAL"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA DE SÃO PAULO, através da SECRETARIA MUNICIPAL DA SAÚDE (SMS)",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Dr. Siqueira de Campos, 5º andar Liberdade - São Paulo, Capital, CEP: 01509-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor da Divisão de Suprimentos",
+        "Nome": "APARECIDO DUARTE DE OLIVEIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "FORCE MEDICAL INDÚSTRIA E DISTRIBUIDORA LTDA",
+    "CNPJ": "24.067.457/0001-81",
+    "Endereco": "Rua Francisco Lamacchia nº 753, Chácaras Caiçara, Birigui/SP",
+    "Telefone": "(18) 3644-4218/3644-4219",
+    "Email": "forcemedical@forcemedical.com.br",
+    "Representante_Legal": "Helenita Aparecida Ferrari Quirino"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Tabela de itens não disponível no trecho fornecido.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,17 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253316.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "90035/2025",
+    "Numero_Processo": "65475.000846/2025-75"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Base Administrativa do Complexo de Saúde do Rio de Janeiro",
+    "CNPJ": "37.088.373/0001-76",
+    "Endereco": "Praça Duque de Caxias, n° 25, Centro, na cidade do Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas da Base Adm Cmpl Sau RJ",
+        "Nome": "Coronel Alan Martins"
+      }
+    ]
+  }
+}

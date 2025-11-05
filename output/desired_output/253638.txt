@@ -1,2 +1,44 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253638.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "158/2025",
+    "Numero_Processo": "23540.000948/2025-10",
+    "Pregao_Eletronico_SRP": "90018/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES DA UNIVERSIDADE FEDERAL DE ALAGOAS (HUPAA), filial da EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126",
+    "Endereco": "Avenida Lourival Melo Mota, s/nº - Bairro Cidade Universitária, Maceió-AL, CEP 57072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Celio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Júlio Cesar Borini"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

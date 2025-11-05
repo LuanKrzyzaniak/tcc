@@ -1,2 +1,80 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253699.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "02/2025",
+    "Numero_Processo": "24.19.000002543-0",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CONSELHO REGIONAL DE MEDICINA DO ESTADO DO RIO DE JANEIRO",
+    "CNPJ": "31.027.527/0001-33",
+    "UG": "",
+    "Endereco": "Praia de Botafogo, número 228, Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente em exercício",
+        "Nome": "Alexandre de Menezes Rodrigues"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "TITANIUM COMERCIO SERVICOS E NEGOCIOS LTDA",
+    "CNPJ": "47.331.953/0001-04",
+    "Endereco": "Av. Ernani do Amaral Peixoto, 467, sala 903, Centro, Niterói/RJ, CEP: 24.030-111",
+    "Telefone": "21 96725-8071",
+    "Email": "contatotitanium.rj@gmail.com",
+    "Representante_Legal": "ANA MORETT ZAMBROTTI SILVA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "Bloco de Rascunho Personalizado",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "20.000",
+      "Valor_Unitario": "R$ 0,66",
+      "Valor_Total_Item": "R$13.200,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "Capa para Processo com Bolso Interno",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "6.600",
+      "Valor_Unitario": "R$ 3,99",
+      "Valor_Total_Item": "R$26.334,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "Bloco Cartão de Protocolo",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "60",
+      "Valor_Unitario": "R$ 6,39",
+      "Valor_Total_Item": "R$383,40"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "Envelope Kraft Branco",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4.000",
+      "Valor_Unitario": "R$ 0,55",
+      "Valor_Total_Item": "R$2.200,00"
+    },
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "Envelope Kraft Natural Med.: 31 x 41 1/0 80 g",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2.000",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

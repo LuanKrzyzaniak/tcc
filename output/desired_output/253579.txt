@@ -1,2 +1,55 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253579.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "333/2025-SMSA",
+    "Numero_Processo": "007546/2025-SMSA",
+    "Pregao_Eletronico": "90049/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA MUNICIPAL DE SAÚDE",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Rua General Penha Brasil nº 1011, Palácio 9 de Julho, Boa Vista/RR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "F&R HOSPITALAR IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO LTDA",
+    "CNPJ": "51.837.171/0001-00",
+    "Endereco": "Trecho Sia, Trecho 3 Bloco D, Lote n° 985, Bairro Zona Industrial (GUARA), SALA 210, Brasilia/DF, CEP n° 71.200-030",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "VITÓRIA GUIMARÃES WATANABE"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "14, 16, 17, 22",
+      "Descricao_Especificacao": "Dispositivo de acesso ao sistema venoso periférico (scalp) nº 19, contendo conector proximal luer lock fême...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "33",
+      "Descricao_Especificacao": "Lâmina de bisturi n.º 15, esterilizado pelo processo Raio Gama 2,5 RADS, produto médico de uso único. Caixa com 100 unidades.",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "",
+      "Unidade_Medida": "CAIXA",
+      "Quantidade_Registrada": "2.136",
+      "Valor_Unitario": "R$ 25,74",
+      "Valor_Total_Item": "R$ 54.980,64"
+    }
+  ],
+  "Itens_Registrados_Lista_Completa": "14, 16, 17, 22, 23, 24, 26, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39",
+  "Valor_Total": "R$ 961.348,91"
+}

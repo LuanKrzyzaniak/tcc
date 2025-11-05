@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253277.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00469/2024",
+    "Numero_Processo": "64577.023713/2024-85"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "UG": "",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel",
+        "Nome": "ANDRÉ ANTUNES MASCARENHAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NEUROSPINE COMERCIO E REPRESENTAÇÃO DE MATERIAIS MÉDICOS HOSPITALARES LTDA",
+    "CNPJ": "39.983.732/0001-84",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "68",
+      "Descricao_Especificacao": "GP 17-Micro placa reta de 1,5-2.4 mm, bloqueada, com perfil pré-moldado, com furos combinados ou alternados de 4 a 12 furos (dinâmico + bloqueio) em liga de titânio, associada a micro parafusos de bloqueio 2,4...",
+      "Marca_Modelo": "TRAUMATEC C",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "20",
+      "Valor_Unitario": "R$ 1.820,00",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253351.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "670/2025",
+    "Numero_Processo": "23080.064658/2024-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "Não encontrado",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DOUGLAS CORDEIRO LTDA",
+    "CNPJ": "27.176.482/0001-91",
+    "Endereco": "RUA SERGIO MURILO MARTINS, 405 SALA 02 - JARDIM JANAINA, CEP 88.162-045, Biguaçu/SC",
+    "Telefone": "(48) 32851802",
+    "Email": "cordeiro.atacadista@gmail.com",
+    "Representante_Legal": "DOUGLAS CORDEIRO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0012",
+      "Descricao_Especificacao": "LAVA-OLHOS EMERGÊNCIA - Especificação: LAVA-OLHOS EMERG...",
+      "Marca_Modelo": "Não encontrado",
+      "Codigo": "Não encontrado",
+      "Unidade_Medida": "Não encontrado",
+      "Quantidade_Registrada": "Não encontrado",
+      "Valor_Unitario": "Não encontrado",
+      "Valor_Total_Item": "Não encontrado"
+    }
+  ],
+  "Valor_Total": "Não encontrado"
+}

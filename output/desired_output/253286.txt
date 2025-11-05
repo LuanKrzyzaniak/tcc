@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253286.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "137/2025",
+    "Numero_Processo": "64482.002338/2025-70"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MILITAR DE BRASILIA-MEX/DF",
+    "CNPJ": "09.577.927/0001-63",
+    "UG": "160082",
+    "Endereco": "Complexo Militar do Planalto, Quartel General do CMP/11ª RM, Avenida do Exército S/Nº, Setor Militar Urbano, na cidade de Brasília-DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coronel / Ordenador de Despesas da PMB",
+        "Nome": "SÉRGIO RÓGER ARRAIS TORRES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "101",
+      "Descricao_Especificacao": "JOELHO EM PVC RÍGIDO IN...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

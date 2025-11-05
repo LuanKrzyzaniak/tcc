@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253557.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "573/2025",
+    "Numero_Pregao_Eletronico": "91.107/2025 - INCA",
+    "Numero_Processo": "25410.006416/2024-16"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO NACIONAL DE CÂNCER (INCA), vinculado ao Ministério da Saúde",
+    "CNPJ": "00.394.544/0171-50",
+    "UG": "",
+    "Endereco": "Praça Cruz Vermelha, nº 23, 4º andar, CEP: 20231-130",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor Geral",
+        "Nome": "Dr. ROBERTO DE ALMEIDA GIL"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SIGMA-ALDRICH BRASIL LTDA",
+    "CNPJ": "68.337.658/0001-27",
+    "Endereco": "VIA DE ACESSO SUL KM 30 ROD ANHANGUERA KM29,5 ARMZ MOD B4 GALPAO02 - EMPRES MIRANTE DE CAJAMAR Cajamar - SP CEP: 07790-330",
+    "Telefone": "(11) 2170 8484",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "Reagente em pó composto tampão fosfato de sódio - 3 A17240 usado p/",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

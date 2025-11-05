@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253354.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CIAF 019/610/25",
+    "Numero_Processo": "20250797808"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Polícia Militar do Estado de São Paulo, por intermédio do Centro Integrado de Apoio Financeiro CIAF",
+    "CNPJ": "04.198.514/0134-85",
+    "UG": "Não encontrado",
+    "Endereco": "Avenida Cruzeiro do Sul, n° 260, 4° andar, bairro Canindé, CEP: 03033-020, na cidade de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel Dirigente",
+        "Nome": "Wellyngton Marcos de Ataide da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DISTRIBUIDORA DE PRODUTOS MEDICO HOSPITALAR G V GONÇALVES LTDA",
+    "CNPJ": "03.585.553/0001-92",
+    "Endereco": "RUA BARÃO DE TEFÉ, N° 1083 - CAMBUÍ, CAMPINAS/SP",
+    "Telefone": "(19) 3232-4740",
+    "Email": "LICITACAO@G V GONCALVES.COM.BR",
+    "Representante_Legal": "GERALDO VITOR GONÇALVES JÚNIOR"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "PANO DE LIMPEZA (RESTRITO ME/EPP)",
+      "Marca_Modelo": "Não encontrado",
+      "Codigo": "Não encontrado",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "1.250",
+      "Valor_Unitario": "R$ 14,99",
+      "Valor_Total_Item": "R$ 18.737,50"
+    }
+  ],
+  "Valor_Total": "R$ 18.737,50"
+}

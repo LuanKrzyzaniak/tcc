@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253614.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "145/2025",
+    "Numero_Processo": "23540.000948/2025-10"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126",
+    "Endereco": "Avenida Lourival Melo Mota - S/N - Cidade Universitária - Maceió - Alagoas, CEP 57.072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Célio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Ivam Cavalcante Pereira Junior"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "ESCOVA LIMPEZA DE JARROS E AFINS DIAMETRO 6,5CM, 30CM. ESCOVA PARA LIMPEZA DE JARROS, PAPAGAIOS/PAT...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

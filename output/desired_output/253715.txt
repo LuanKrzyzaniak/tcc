@@ -1,2 +1,90 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253715.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 259/2025",
+    "Numero_Processo": "",
+    "Numero_Pregao": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "GC LAB DIAGNOSTICOS LTDA",
+    "CNPJ": "20.352.354/0001-02",
+    "Endereco": "rua Conselheiro Rocha Garcia, n.º 371, Galpão 01, Floresta, em Belo Horizonte-MG, CEP: 30150-210",
+    "Telefone": "(31) 3504-0660",
+    "Email": "sup.licitacao@gclab.com.br",
+    "Representante_Legal": "GILDÁSIO ANTÔNIO FAGUNDES CANELA, Sócio Administrador"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "61",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE SANGUE OCULTO NAS FEZES, TIPO IMUNOCROMATOGRÁFICO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.55",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 1.900,00"
+    },
+    {
+      "Item_TR": "62",
+      "Descricao_Especificacao": "REAGENTE PARA TESTE DE GRAVIDEZ, TIPO IMUNOCROMATOGRÁFICO, COM SENSIBILIDADE DE 25 MUI/ML",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.56",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 10.500,00"
+    },
+    {
+      "Item_TR": "63",
+      "Descricao_Especificacao": "TIRAS PARA TESTE DE URINA, COM 10 PARÂMETROS",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.57",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "64",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PROTEÍNA C REATIVA (PCR)",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.58",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    },
+    {
+      "Item_TR": "65",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE MICROALBUMINÚRIA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.59",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    },
+    {
+      "Item_TR": "66",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PROLACTINA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.60",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    }
+  ],
+  "Valor_Total": "R$ 23.350,00"
+}

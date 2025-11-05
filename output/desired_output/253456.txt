@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253456.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "485/2025- CPL/ALICC",
+    "Numero_Processo": "12500.71504/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "AGÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS DE MACEIÓ – ALICC",
+    "CNPJ": "26.981.455/0001-29",
+    "UG": "",
+    "Endereco": "Avenida da Paz, n.º 900, Jaraguá, Maceió/AL - 57.022-050",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora Presidente",
+        "Nome": "MEIRY SOARES PORCIÚNCULA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NORD PRODUTOS EM SAUDE LTDA",
+    "CNPJ": "35.753.111/0001-53",
+    "Endereco": "Rua Subipiruna, nº 205 - Modulo 11, Bairro: Prazeres, Jaboatão dos Guararapes/PE - CEP: 54.335-100",
+    "Telefone": "(81) 4141-2416",
+    "Email": "licitacao@nordpharma.com.br",
+    "Representante_Legal": "Marcelo Philipe Souza de Albuquerque Bastos"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 125.999,80"
+}

@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253465.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "9014/2025",
+    "Numero_Processo": "25385.000205/2025-13",
+    "Pregao_Eletronico": "nº 90004/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Nacional de Controle de Qualidade em Saúde",
+    "CNPJ": "33.781.055/0020-06",
+    "UG": "",
+    "Endereco": "Av. Brasil, 4365 - Manguinhos, na cidade de Rio de Janeiro /RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Autoridade competente",
+        "Nome": "MYCHELLE ALVES MONTEIRO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "VAN-MEX COMÉRCIO E SERVIÇOS EIRELI-EPP",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "AMAURY LUZ NETTO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

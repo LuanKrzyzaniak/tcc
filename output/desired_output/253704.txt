@@ -1,2 +1,99 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253704.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00005/2025",
+    "Numero_Processo": "SEI-057.00154473/2025-19"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Grupamento de Bombeiros Marítimo - GBMAR",
+    "CNPJ": "04.378.330/0011-48",
+    "UG": "180201",
+    "Endereco": "Rua Sargento Vagner Lemela, 145 - Vila Carla - Guarujá - São Paulo - Cep 11432-070",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ten Cel PM Dirigente UGE 180201",
+        "Nome": "VALDIZAR NASCIMENTO DE SOUZA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MAXIMUS DISTRIBUIDORA DE PRODUTOS EIRELI",
+    "CNPJ": "24.318.527/0001-81",
+    "Endereco": "RUA MARIO BRESSANINI, 260, VILA AUGUSTA, Guarulhos - SP, CEP: 07020-090",
+    "Telefone": "11 2087-4389",
+    "Email": "licitacao@maximusdistribuidora.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "RACK DESLIZANTE COM GUIAS LATERAIS, EM AÇO INOX 304",
+      "Marca_Modelo": "PRÓ-ATIVA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1,00",
+      "Valor_Unitario": "R$ 1.300,00",
+      "Valor_Total_Item": "R$ 1.300,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "RACK DESLIZANTE COM GUIAS LATERAIS, EM AÇO INOX 304",
+      "Marca_Modelo": "PRÓ-ATIVA",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1,00",
+      "Valor_Unitario": "R$ 1.300,00",
+      "Valor_Total_Item": "R$ 1.300,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "LOTE DE FERRAMENTAS PARA EMBARCAÇÃO - 01 (UM) KIT",
+      "Marca_Modelo": "SÃO ROMÃO/SATA/GEDORE",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1,00",
+      "Valor_Unitario": "R$ 825,00",
+      "Valor_Total_Item": "R$ 825,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "LOTE DE FERRAMENTAS PARA EMBARCAÇÃO - 01 (UM) KIT",
+      "Marca_Modelo": "SÃO ROMÃO/SATA/GEDORE",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1,00",
+      "Valor_Unitario": "R$ 825,00",
+      "Valor_Total_Item": "R$ 825,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "LOTE DE FERRAMENTAS PARA EMBARCAÇÃO - 01 (UM) KIT",
+      "Marca_Modelo": "SÃO ROMÃO/SATA/GEDORE",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1,00",
+      "Valor_Unitario": "R$ 825,00",
+      "Valor_Total_Item": "R$ 825,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "LOTE DE FERRAMENTAS PARA EMBARCAÇÃO - 01 (UM) KIT",
+      "Marca_Modelo": "SÃO ROMÃO/SATA/GEDORE",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1,00",
+      "Valor_Unitario": "R$ 825,00",
+      "Valor_Total_Item": "R$ 825,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "LOTE DE FERRAMENTAS PARA EMBARCAÇÃO - 01 (UM) KIT",
+      "Marca_Modelo": "SÃO ROMÃO/SATA/GEDORE",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1,00",
+      "Valor_Unitario": "R$ 825,00",
+      "Valor_Total_Item": "R$ 825,00"
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253639.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "566/2025",
+    "Numero_Processo": "25410.010855/2024-23"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO NACIONAL DE CÂNCER (INCA)",
+    "CNPJ": "00.394.544/0171-50",
+    "UG": "",
+    "Endereco": "Praça Cruz Vermelha, nº 23, 4º andar, nesta cidade, CEP: 20231-130",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor Geral",
+        "Nome": "Dr. ROBERTO DE ALMEIDA GIL"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "INOVAMED HOSPITALAR LTDA",
+    "CNPJ": "12.889.035/0002-93",
+    "Endereco": "RUA PARTICULAR 110 GALPAO 01 - IPIRANGA - SETOR INDUSTRIAL POUSO ALEGRE - MG, CEP: 37556-348",
+    "Telefone": "(54) 2106 7930",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "BICARBONATO SÓDIO 8,4% 10ML-SIDEC: BR0268222/0006",
+      "Marca_Modelo": "Samtec Biotecnologia Registro M.S.: 1.5592.0003.005-9",
+      "Codigo": "",
+      "Unidade_Medida": "AM",
+      "Quantidade_Registrada": "50.250",
+      "Valor_Unitario": "R$ 0,77",
+      "Valor_Total_Item": "R$ 38.692,50",
+      "Quantidade_INCA": "29.250",
+      "Quantidade_HFSE": "21.000"
+    }
+  ],
+  "Valor_Total": "R$ 38.692,50"
+}

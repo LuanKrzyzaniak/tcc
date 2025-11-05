@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253637.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "58/2025",
+    "Numero_Processo": "CIA 0059237-11.2025.8.11.0000",
+    "Pregao_Eletronico_Numero": "23/2025 n.º CIA 0004147-18.2025.8.11.0000"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PODER JUDICIÁRIO/TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO",
+    "CNPJ": "03.535.606/0001-10",
+    "CNPJ_FUNAJURIS": "01.872837/0001-93",
+    "UG": "",
+    "Endereco": "Palácio da Justiça, Centro Político Administrativo, em Cuiabá/MТ, СЕР 78.049-926",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "Excelentíssimo Senhor Desembargador JOSÉ ZUQUIM NOGUEIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "FRANCINEIDE GOMES SANTOS PAMPONET",
+    "CNPJ": "56.150.801/0001-98",
+    "Endereco": "RUA LANDULFO ALVES, N° 198, CENTRO, CEP: 44600 000 - IPIRÁ-BA",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "FRANCINEIDE GOMES SANTOS PAMPONET"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "1",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 564,00"
+}

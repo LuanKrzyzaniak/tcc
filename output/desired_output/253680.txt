@@ -1,2 +1,50 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253680.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "18/2025",
+    "Numero_Processo": "23328.251534.2025-71",
+    "Pregao_Eletronico": "nº 90013/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA BAIANO CAMPUS BOM JESUS DA LAPA",
+    "CNPJ": "10.724.903/0006-83",
+    "UG": "",
+    "Endereco": "Rodovia BR 349, KM 14, Bom Jesus da Lapa-Ba",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Geângelo de Matos Rosa"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "TFP COMERCIO E SERVICOS LTDA",
+    "CNPJ": "55.580.004/0001-88",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "Feijão carioca. Primeira qualidade. Isento de cascas, pedras, terrosidades",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "KG",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Macarrão espaguete. Características técnicas: tipo longo, contendo farinha de trigo especial, com ovos, sêmola de trigo e glúten. Não... Pacote...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 57.615,00"
+}

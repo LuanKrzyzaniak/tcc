@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253525.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "829/2025-SMS.G",
+    "Numero_Processo": "6018.2024/0095545-1",
+    "Pregao_Eletronico": "90094/2025/SMS.G",
+    "Objeto": "REGISTRO DE PREÇOS PARA O FORNECIMENTO DE COBERTURA DE ÓBITO, USO ÚNICO, TAM. ADULTO E INFANTIL"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA DE SÃO PAULO, através da SECRETARIA MUNICIPAL DA SAÚDE (SMS)",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Dr. Siqueira de Campos, 172 5º andar Liberdade São Paulo, Capital, CEP: 01509-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor da Divisão de Suprimentos",
+        "Nome": "APARECIDO DUARTE DE OLIVEIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MAXIPAPA COMERCIAL LTDA",
+    "CNPJ": "43.095.097/0001-76",
+    "Endereco": "Rua Manuel Garcia nº 253, Vila Baruel, São Paulo/SP, CEP 02523-040",
+    "Telefone": "2358-3522",
+    "Email": "comercial@maxipapa.com.br",
+    "Representante_Legal": "Claudia dos Santos Fonseca de Andrade"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Tabela de itens não disponível no trecho fornecido.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

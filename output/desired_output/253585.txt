@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253585.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "335/2025-SMSA",
+    "Numero_Processo": "00000.0.007546/2025 (VOLUME 2)-00000.9.426957/2025",
+    "Pregao_Eletronico_ARP": "90049/2025",
+    "Objeto": "EVENTUAL AQUISIÇÃO DE MATERIAL MÉDICO HOSPITALAR PERFURO CORTANTE"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR (SECRETARIA MUNICIPAL DE SAÚDE - SMSA)",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, rua General Penha Brasil nº 1011, Boa Vista, RR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "VIA NORTE COMÉRCIO E SERVIÇOS LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "GENESIO SOARES DE SOUZA JUNIOR"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

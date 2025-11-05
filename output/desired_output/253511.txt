@@ -1,2 +1,44 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253511.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "823/2025-SMS.G",
+    "Numero_Processo": "6018.2025/0084977-7",
+    "Pregão_Eletronico_No": "90826/2025/SMS.G"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA DE SÃO PAULO, através da SECRETARIA MUNICIPAL DA SAÚDE (SMS)",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Dr. Siqueira de Campos, 176 - 5º andar Liberdade São Paulo, Capital, CEP: 01509-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor da Divisão de Suprimentos",
+        "Nome": "APARECIDO DUARTE DE OLIVEIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "FARMACE INDÚSTRIA QUÍMICO FARMACÊUTICA CEARENSE LTDA",
+    "CNPJ": "06.628.333/0001-46",
+    "Endereco": "Avenida Doutor Antônio Lyrio Callou, S/nº, Km 02, Bairro Tupinambá, Barbalha CE, CEP: 63091-215",
+    "Telefone": "(11) 5660-3520",
+    "Email": "licitacoes@montjuic.com.br",
+    "Representante_Legal": "Rubens de Figueiredo"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "CLORETO DE POTASSIO 191 MG/ML (19,1% 2,56 MEQ/ML K+) SOLUCAO INJETAVEL AMP DE 10 ML",
+      "Marca_Modelo": "CLORETO DE POTÁSSIO A 19,1%",
+      "Codigo": "CÓDIGO SUPRI: 11.064.008.041.0009-4",
+      "Unidade_Medida": "AMP",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "R$ 0,3999/AMP",
+      "Valor_Total_Item": "",
+      "Registro_MS": "1.1085.0015.009-2",
+      "Procedencia": "NACIONAL",
+      "Fabricante": "FARMACE INDÚSTRIA QUÍMICO FARMACÊUTICA CEARENSE LTDA",
+      "Embalagem_Apresentacao": "CX C/ 200 AMP C/ 10ML"
+    }
+  ],
+  "Valor_Total": ""
+}

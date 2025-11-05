@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253676.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "17/2025",
+    "Numero_Processo": "23328.251534.2025-71",
+    "Pregao_SRP": "90013/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA BAIANO CAMPUS BOM JESUS DA LAPA",
+    "CNPJ": "10.724.903/0006-83",
+    "UG": "",
+    "Endereco": "Rodovia BR 349, KM 14, Bom Jesus da Lapa-Ba",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Geângelo de Matos Rosa"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BAHIA CESTAS",
+    "CNPJ": "05.788.360/0001-13",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "FERNANDO SANTOS OLIVEIRA:06362990587"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

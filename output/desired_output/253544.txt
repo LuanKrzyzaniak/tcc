@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253544.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "195/2025",
+    "Numero_Processo": "64680.010556/2024-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, na cidade de Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas - Tenente Coronel",
+        "Nome": "Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "PONTALTI ENERGY LTDA",
+    "CNPJ": "42.894.921/0001-95",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "LUCAS PONTALTI LIMA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "69",
+      "Descricao_Especificacao": "Cabo elétrico flexível de Cobre 10 mm condutor de Cobre Nu tempera mole e encordoamento classe 4 ou 5 de acordo com ABNT NBR NM 280, revestimento PVC com tecnologia ant ichama com característica de autoextinção e não propagação da chama, com diâmetro nominal mínimo do condutor (mm) 3,95mm. Embalagem contendo 100 metros.",
+      "Marca_Modelo": "",
+      "Codigo": "394254",
+      "Unidade_Medida": "Rolo de 100 m",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 870,00",
+      "Valor_Total_Item": "R$ 43.500,00"
+    }
+  ],
+  "Valor_Total": "R$ 43.500,00"
+}

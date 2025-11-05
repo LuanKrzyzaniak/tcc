@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253335.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CIAF 016/610/25",
+    "Numero_Processo": "20250797808"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro Integrado de Apoio Financeiro - CIAF / Polícia Militar do Estado de São Paulo",
+    "CNPJ": "04.198.514/0134-85",
+    "UG": "",
+    "Endereco": "Avenida Cruzeiro do Sul, n° 260, 4° andar, bairro Canindé, São Paulo, CEP: 03033-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Dirigente Tenente Coronel",
+        "Nome": "Wellyngton Marcos de Ataide da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "N/A",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "N/A (Apenas CPF na assinatura)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

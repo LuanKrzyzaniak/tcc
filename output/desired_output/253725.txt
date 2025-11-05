@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253725.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 265/2025",
+    "Numero_Processo": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP, CEP: 15.610-024",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "EBD BIOTECH IMPORTACAO E COMERCIO DE PRODUTOS MEDICOS HOSPITALARES LTDA",
+    "CNPJ": "13.977.106/0001-91",
+    "Endereco": "rua Juruá, n.º 46, Loja 04, Graça, em Belo Horizonte-MG, CEP: 31140-020",
+    "Telefone": "(31) 3564-7423 e (31) 98350-4321",
+    "Email": "licitacao@ebdbiotech.com.br",
+    "Representante_Legal": "RAFAEL AUGUSTO NICOLAU DOS REIS MONTENEGRO VILARINHOS"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 1.080,00"
+}

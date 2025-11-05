@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253516.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "828/2025-SMS.G",
+    "Numero_Processo": "6018.2025/0087690-1",
+    "Pregao_Eletronico": "90821/2025/SMS.G",
+    "Vigencia": "um ano"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA DE SÃO PAULO, através da SECRETARIA MUNICIPAL DA SAÚDE",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Dr. Siqueira de Campos, 172 5º andar Liberdade São Paulo, Capital, CEP: 01509-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor da Divisão de Suprimentos",
+        "Nome": "APARECIDO DUARTE DE OLIVEIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BIOLAB SANUS FARMACÊUTICA LTDA",
+    "CNPJ": "49.475.833/0017-65",
+    "Endereco": "Rodovia Fernão Dias, s/n, BR 381, KM 860, área Rural, Bairro Limeira, CEP 37561-899, no Município de Pouso Alegre/MG",
+    "Telefone": "(11) 3573-6000, 3573.6175, 3573.6199",
+    "Email": "pedido@biolabfarma.com.br; swatanabe@biolabfarma.com.br",
+    "Representante_Legal": "Cleiton de Castro Marques (procurador)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "LEVONORGESTREL 0,15 MG + ETILNILESTRADIOL 0,03 MG COMPRIMIDO-CARTELA",
+      "Marca_Modelo": "NICO-35",
+      "Codigo": "10.019.006.002.0003-8",
+      "Unidade_Medida": "/CP",
+      "Quantidade_Registrada": "11.238.000",
+      "Valor_Unitario": "R$ 2,19/CP",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

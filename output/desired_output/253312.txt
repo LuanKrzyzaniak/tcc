@@ -1,2 +1,22 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253312.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 23/2025",
+    "Numero_Processo": "64446.001844/2025-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "DEPARTAMENTO-GERAL DO PESSOAL",
+    "CNPJ": "00.394.452/0271-33",
+    "Endereco": "Quartel-General do Exército, Bloco E, Térreo, Setor Militar Urbano, CEP: 70.630-901, na cidade de Brasília-DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Major TIAGO DE LIMA FERREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MAX SAÚDE COMÉRCIO E SERVIÇOS EIRELI",
+    "CNPJ": "28.718.784/0001-71",
+    "Endereco": "SIA SUL TRECHO 05 LOTE 05/35 LOJA 08 EDIFÍCIO"
+  }
+}

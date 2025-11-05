@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253545.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00101/2025",
+    "Numero_Processo": "64577.009573/2025-13",
+    "Pregao_Eletronico": "Nº 90014/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE CAMPO GRANDE/MS",
+    "CNPJ": "09.539.711/0002-94",
+    "UG": "",
+    "Endereco": "AV. Duque de Caxias, 474, Vila Alba, na cidade de Campo Grande MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel (Ordenador de Despesas)",
+        "Nome": "PAULO CESAR DOS SANTOS FARIA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Medical Life Comércio e Serviços Hospitalares LTDA.",
+    "CNPJ": "31.019.309/0001-57",
+    "Endereco": "Spipe Calarge, N° 1411-Salas 05/06/07 - Bairro: Vila Carlota - Campo Grande MS CEP: 79,051-560",
+    "Telefone": "(21) 2516-1177",
+    "Email": "licitacao@medicallifems.com.br",
+    "Representante_Legal": "FLAVIA GERBASSI DA PAIXAO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "93",
+      "Descricao_Especificacao": "Conjunto de fibra óptica para transmissão e aplicação de radiação não ionizante emitida por diodo em cirurgias da região do pescoço e cabeça, composto de conector descartável sma para fibras ópticas, fibra óptica descartável e recoberta com polímero de segurança com comprimento mínimo de 1.5 metros e espessuras de 600 mm (nanômetros), cânula e peça de mão para condução da fibra e posicionamento de aplicação da radiação no sítio cirúrgico, em conformidade com as normas técnicas, ser de uso único, e ser compatível com o equipamento emissor de radiação não ionizante que deverá ser fornecido em comodato. este conjunto de fibra ótica deve ser compatível com equipamento de lase de diodo, de contato com comprimento de onda de 2825 nanômetros.",
+      "Marca_Modelo": "DMC",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "70",
+      "Valor_Unitario": "R$ 23.900,00",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

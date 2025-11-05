@@ -1,2 +1,79 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253408.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "ATA nº 195/2025",
+    "Numero_Processo": "63512.002953/2024-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói (MARINHA DO BRASIL)",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/n° - Centro, na cidade de Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Capitão de Mar e Guerra Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "A. J. S. P. DE OLIVEIRA COMERCIO E SERVIÇOS LTDA",
+    "CNPJ": "43.102.162/0001-57",
+    "Endereco": "Rodovia BR-316, km 01, n° 229, Bairro Guanabara, na cidade de Ananindeua-PA, CEP: 67.110-900",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ROGER EDUARDO DOS SANTOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Aquisição de Toners e Cartuchos para Impressoras",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "86",
+      "Valor_Unitario": "R$ 47,20",
+      "Valor_Total_Item": "R$ 4.059,20"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "Aquisição de Toners e Cartuchos para Impressoras",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "28",
+      "Valor_Unitario": "R$ 49,00",
+      "Valor_Total_Item": "R$ 1.372,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Aquisição de Toners e Cartuchos para Impressoras",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 138,50",
+      "Valor_Total_Item": "R$ 4.155,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "Aquisição de Toners e Cartuchos para Impressoras",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "Aquisição de Toners e Cartuchos para Impressoras",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "38",
+      "Valor_Unitario": "R$ 123,00",
+      "Valor_Total_Item": "R$ 4.674,00"
+    }
+  ],
+  "Valor_Total": "R$ 16.260,20"
+}

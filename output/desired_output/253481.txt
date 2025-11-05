@@ -1,2 +1,32 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253481.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "555/2025",
+    "Numero_Processo": "23537.028941/2025-11"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares - Ebserh, Hospital das Clínicas da Universidade Federal de Minas Gerais",
+    "CNPJ": "15.126.437/0015-49",
+    "UG": "155021",
+    "Endereco": "Avenida Professor Alfredo Balena, nº 110 Belo Horizonte/MG - CEP 30.130-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Professor Alexandre Rodrigues Ferreira"
+      },
+      {
+        "Cargo": "Gerente Administrativa",
+        "Nome": "Elizete Maria da Silva Neme"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SM GUIMARAES EIRELI",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Silvan Machado Guimarães"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 364.000,00"
+}

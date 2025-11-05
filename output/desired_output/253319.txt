@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253319.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "216/2025",
+    "Numero_Processo": "143.00011056/2025-86"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº - Rubião Júnior, CEP 18.618-687, na cidade de Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Departamento de Logística de Atendimento HCFMB",
+        "Nome": "Enf. Karen Aline Batista da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "GAM COMERCIAL LTDA",
+    "CNPJ": "78.933.322/0001-80",
+    "Endereco": "RUA SEVERINO VILANOVA, 31 - PQ. BELA VISTA - Jundiaí/SP - CEP: 13.211-120",
+    "Email": "compras@gamcomercial.com.br",
+    "Representante_Legal": "Gabriel Augusto Menegazzo"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "SACO PLASTICO PARA EMBALAGEM; DE DE...",
+      "Marca_Modelo": "POLIFILM/SACO",
+      "Unidade_Medida": "KG",
+      "Quantidade_Registrada": "1.800",
+      "Valor_Unitario": "R$ 12,00",
+      "Valor_Total_Item": "R$ 21.600,00"
+    }
+  ],
+  "Valor_Total": "R$ 21.600,00"
+}

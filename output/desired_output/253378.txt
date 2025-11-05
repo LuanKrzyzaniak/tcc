@@ -1,2 +1,54 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253378.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "002.2025",
+    "Numero_Processo": "2025-20000113"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SAAE - Serviço Autônomo de Captação de Água e Tratamento de Esgoto",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Praça Guarda Marinha Greenhalg, n° 59 B. Centro, Angra dos Reis-R/J-CEP 23900.240",
+    "Representantes_Legais": []
+  },
+  "Fornecedor": {
+    "Razao_Social": "DEUTEC Serviços de Manutenção LTDA",
+    "CNPJ": "01.048.146/0001-70",
+    "Endereco": "Rua Saara quadra 22 Lote 10 Campos Elísius - Duque de Caxias RJ",
+    "Telefone": "(21) 98815-4795",
+    "Email": "sede@deutec.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "BOMBA SUBMERSIVEL DE ESGOTO SCAVENGER EJ20B 2.0CV 220V TRIFÁSICO",
+      "Marca_Modelo": "FAMAC/SULZER",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "8",
+      "Valor_Unitario": "R$ 6.460,00",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "BOMBA SUBMERSIVEL DE ESGOTO SCAVENGER EJ50B - 5.0CV 220V TRIFÁSICO",
+      "Marca_Modelo": "FAMAC/SULZER",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 10.099,00",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "BOMBA SUBMERSIVEL DE ESGOTO SCAVENGER EJ75B-7.5CV 220V TRIFÁSICO",
+      "Marca_Modelo": "FAMAC/SULZER",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "R$ 6.990,00",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

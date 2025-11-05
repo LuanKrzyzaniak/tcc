@@ -1,2 +1,250 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253714.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 258/2025",
+    "Numero_Processo": "",
+    "Numero_Pregao": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MA SANDOVAL LTDA",
+    "CNPJ": "34.357.265/0001-63",
+    "Endereco": "rua Cândida Ferraz Garcia, n.º 76, Nova Gameleira, em Belo Horizonte-MG, CEP: 30510-370",
+    "Telefone": "(31) 3568-2886",
+    "Email": "comercial@mastermedbr.com.br",
+    "Representante_Legal": "MARCOS ANTONIO SANDOVAL JUNIOR, Diretor"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE HORMONIO TIREO ESTIMULANTE (TSH)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.29",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 3,00",
+      "Valor_Total_Item": "R$ 600,00"
+    },
+    {
+      "Item_TR": "25",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE HORMÔNIO TIROXINA LIVRE (T4L)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.30",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 3,00",
+      "Valor_Total_Item": "R$ 600,00"
+    },
+    {
+      "Item_TR": "26",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE HORMONIO TIROXINA TOTAL (T4)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.31",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 3,00",
+      "Valor_Total_Item": "R$ 600,00"
+    },
+    {
+      "Item_TR": "27",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE HORMÔNIO TRIODOTIRONINA LIVRE (T3L)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.32",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 3,00",
+      "Valor_Total_Item": "R$ 300,00"
+    },
+    {
+      "Item_TR": "29",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ANTI-HBS",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.33",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 6,00",
+      "Valor_Total_Item": "R$ 300,00"
+    },
+    {
+      "Item_TR": "30",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ANTI-HAV IGM",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.34",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 6,00",
+      "Valor_Total_Item": "R$ 300,00"
+    },
+    {
+      "Item_TR": "31",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ANTI-HBC IGM",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.35",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 6,00",
+      "Valor_Total_Item": "R$ 300,00"
+    },
+    {
+      "Item_TR": "32",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE HBSAG",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.36",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 6,00",
+      "Valor_Total_Item": "R$ 600,00"
+    },
+    {
+      "Item_TR": "34",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE FERRITINA",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.37",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "46",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ESTRADIOL",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.38",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "47",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PROGESTERONA",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.39",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "48",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PROLACTINA",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.40",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "49",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE TESTOSTERONA",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.41",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "50",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE HORMONIO FOLICULO ESTIMULANTE (FSH)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.42",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "51",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE HORMONIO LUTEINIZANTE (LH)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.43",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "52",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE GLICEMIA (SANGUE TOTAL)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.44",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 800,00"
+    },
+    {
+      "Item_TR": "53",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PSA TOTAL",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.45",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 800,00"
+    },
+    {
+      "Item_TR": "54",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PSA LIVRE",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.46",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "55",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ALFA FETOPROTEINA (AFP)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.47",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "56",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ANTÍGENO CARCINOEMBRIÔNICO (CEA)",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.48",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "57",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE CA 125",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.49",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "58",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE CA 15-3",
+      "Marca_Modelo": "WAMA",
+      "Codigo": "1.05.002.04.50",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    }
+  ],
+  "Valor_Total": "R$ 9.100,00"
+}

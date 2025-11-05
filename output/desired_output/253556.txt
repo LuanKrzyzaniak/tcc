@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253556.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "57/2025",
+    "Numero_Pregao_Eletronico": "90014/2025",
+    "Numero_Processo": "63105.002678/2025-35"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "BASE NAVAL DO RIO DE JANEIRO (COMANDO DA MARINHA)",
+    "CNPJ": "00.394.502/0105-30",
+    "UG": "",
+    "Endereco": "ILHA MOCANGUÊ GRANDE, s/nº PONTA D'AREIA - NITERÓI - RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra / Ordenador de Despesas",
+        "Nome": "JORGE DE OLIVEIRA ANTUNES JUNIOR"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RENATA NUNES FERREIRA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

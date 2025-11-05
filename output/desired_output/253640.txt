@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253640.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "492/2025",
+    "Numero_Processo": "23522.026098/2025-06"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Hospital Universitário de Brasília (HUB), filial da Empresa Brasileira de Serviços Hospitalares (Ebserh)",
+    "CNPJ": "15.126.437/0003-05",
+    "UG": "155.009",
+    "Endereco": "SGAN, Quadra 605, L2 Norte Bairro Asa Norte, Brasília-DF, CEP 70830-200",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "MARIA FÁTIMA DE SOUSA"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "CARLOS EDUARDO DOS SANTOS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ALKO DO BRASIL INDÚSTRIA E COMÉRCIO LTDA",
+    "CNPJ": "04.918.498/0001-34",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Augusto Luiz Komel de Oliveira"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "27",
+      "Descricao_Especificacao": "TRANSFER-SET 1 via perfurador com cânara de gotejamento. Conector para Ressonância Magnética e Tomografia Computadorizada, em PVC...",
+      "Marca_Modelo": "ALKO/DC009DW",
+      "Codigo": "",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "10.000",
+      "Valor_Unitario": "2,241",
+      "Valor_Total_Item": "22.410,00"
+    }
+  ],
+  "Valor_Total": "R$ 22.410,00"
+}

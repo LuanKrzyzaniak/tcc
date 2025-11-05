@@ -1,2 +1,169 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253549.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "182/2025",
+    "Numero_Processo": "64680.010556/2024-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, na cidade de Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas / Tenente Coronel",
+        "Nome": "Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BIASIBETTI COMERCIO E SERVICOS LTDA",
+    "CNPJ": "35.574.423/0001-08",
+    "Endereco": "Rua dos Andradas, n° 2185, Centro, na cidade de Uruguaiana - RS, CEP: 97.502-760",
+    "Telefone": "(55) 99187-7613",
+    "Email": "biasibetticomercioeservicos@gmail.com",
+    "Representante_Legal": "VITOR SALES BIASIBETTI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "AR CONDICIONADO DE JANELA",
+      "Marca_Modelo": "",
+      "Codigo": "411000007",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 2.500,00",
+      "Valor_Total_Item": "R$ 25.000,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "AR CONDICIONADO SPLIT",
+      "Marca_Modelo": "",
+      "Codigo": "411000008",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 3.000,00",
+      "Valor_Total_Item": "R$ 30.000,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "FRIGOBAR",
+      "Marca_Modelo": "",
+      "Codigo": "411000009",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 800,00",
+      "Valor_Total_Item": "R$ 4.000,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "MICRO-ONDAS",
+      "Marca_Modelo": "",
+      "Codigo": "411000010",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 600,00",
+      "Valor_Total_Item": "R$ 3.000,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "BEBEDOURO INDUSTRIAL",
+      "Marca_Modelo": "",
+      "Codigo": "411000011",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 1.500,00",
+      "Valor_Total_Item": "R$ 7.500,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "FILTRO DE ÁGUA",
+      "Marca_Modelo": "",
+      "Codigo": "411000012",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 300,00",
+      "Valor_Total_Item": "R$ 1.500,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "ARMÁRIO DE AÇO",
+      "Marca_Modelo": "",
+      "Codigo": "711000011",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 700,00",
+      "Valor_Total_Item": "R$ 7.000,00"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "ARQUIVO DE AÇO",
+      "Marca_Modelo": "",
+      "Codigo": "711000012",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 800,00",
+      "Valor_Total_Item": "R$ 4.000,00"
+    },
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "CADEIRA ESCRITÓRIO",
+      "Marca_Modelo": "",
+      "Codigo": "711000013",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "20 UNIDADES",
+      "Valor_Unitario": "R$ 200,00",
+      "Valor_Total_Item": "R$ 4.000,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "IMPRESSORA MULTIFUNCIONAL",
+      "Marca_Modelo": "",
+      "Codigo": "741000016",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 1.500,00",
+      "Valor_Total_Item": "R$ 7.500,00"
+    },
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "TELEVISOR",
+      "Marca_Modelo": "",
+      "Codigo": "741000017",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 1.500,00",
+      "Valor_Total_Item": "R$ 7.500,00"
+    },
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "CÂMERA DE VÍDEO",
+      "Marca_Modelo": "",
+      "Codigo": "741000018",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 1.000,00",
+      "Valor_Total_Item": "R$ 5.000,00"
+    },
+    {
+      "Item_TR": "13",
+      "Descricao_Especificacao": "CÂMERA FOTOGRÁFICA",
+      "Marca_Modelo": "",
+      "Codigo": "741000019",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 800,00",
+      "Valor_Total_Item": "R$ 4.000,00"
+    },
+    {
+      "Item_TR": "14",
+      "Descricao_Especificacao": "ALTO-FALANTE",
+      "Marca_Modelo": "",
+      "Codigo": "597000002",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 400,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 102.000,00"
+}

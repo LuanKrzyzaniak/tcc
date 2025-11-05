@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253684.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "091/2025",
+    "Numero_Processo": "24.29.000030208-1",
+    "Pregao_Eletronico": "Nº 90011/2025 SRP - SAÚDE"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Municipio de Goiânia / Secretaria Municipal de Saúde / Fundo Municipal de Saúde",
+    "CNPJ": "37.623.352/0001-03",
+    "UG": "",
+    "Endereco": "Avenida do Cerrado, nº 999, Bloco D, Parque Lozandes, Goiânia-GO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "Luiz Gaspar Machado Pellizzer"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "VERÔNICA VIANNA VILLAÇA SZUSTER",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "VERÔNICA VIANNA VILLAÇA SZUSTER"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "TIRA TROPONINA TESTE QUALITATIVO. Teste rápido por imunocromatografia, método manual, conjunto completo para uso em amostras humanas de soro, plasma ou sangue total. Teste para detecção qualitativa de Tropomina T/I/C, para o diagnóstico da lesão do miocárdio. Embalagem contendo 25 dispositivos de teste. Sensibilidade 2ng/ml.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,89 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253244.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "199/2025",
+    "Numero_Processo": "64578.024265/2024-27"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL GERAL DE CURITIBA",
+    "CNPJ": "09.579.964/0001-00",
+    "UG": "160223",
+    "Endereco": "Praça Marechal Alberto Ferreira de Abreu, s/nº, na cidade de Batel, Curitiba/PR, CEP: 80.420-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora / Ordenadora de Despesas do Hospital Geral de Curitiba",
+        "Nome": "Simone Abreu"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DENTAL IPO LTDA",
+    "CNPJ": "50.567.060/0001-69",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ELCI TRICHES BERTI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "18",
+      "Descricao_Especificacao": "Alginato: hidrocolóide irreversível tipo I de presa rápida: uso odontológico: indicado para moldagens totais ou parciais de arcos dentados e desdentados. Caracteristicas adicionais: inteligência virtual que proporciona a visualização da fase de presa (um minuto de presa em boca), sabor de frutas vermelhas, alta resistência para impressões (molda com precisão detalhes de até 25 microns), estável dimensionalmente por até 5 dias, resistência ao rasgamento de 1.15n/mm, permite duplo vazamento das impressões e possui resistência compressiva de 1,10mpa livre de poeira; pacote com 453g, Padrão de Referência: similar, igual ou superior a Hydrogum 5-Zhermack",
+      "Marca_Modelo": "Dentsply/Hydrogum 5 453g",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "327",
+      "Valor_Unitario": "R$ 72,00",
+      "Valor_Total_Item": "23.544,00"
+    },
+    {
+      "Item_TR": "102",
+      "Descricao_Especificacao": "Cimento de lonômero de vidro para restauração com tripla presa: fotopolimerizável, autopolimerizável (reação ácido/base) e presa com ausência de luz. Kit contendo: Kit com 5g de pó + 2,5ml de líquido + 1 primer de 2ml + 1 Glazer de 2ml + 1 colher dosadora + 1 bloco de espatulação. Pó: Contém vidro de fluoralumino silicato, persulfato de potássio e ácido ascórbico microencapsulados e pigmentos; Liquido: Contém solução aquosa com copolimeros do ácido policarboxílico HEMA e fotoiniciadores; Padrão de Referência: Similar, igual ou superior ao Vitremer 3M.",
+      "Marca_Modelo": "DFL/Vitro Fill LC Kit A3",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "65",
+      "Valor_Unitario": "R$ 144,00",
+      "Valor_Total_Item": "9.360,00"
+    },
+    {
+      "Item_TR": "105",
+      "Descricao_Especificacao": "Cimento endodontico obturador à base de hidróxido de cálcio. Cimento. endodontico obturador para sistema de canais radiculares à base de Hidróxido de Cálcio e óxido de Bismuto aglutinados por resina Epóxica. Com ótima biocompatibilidade, ótima estabilidade dimensional, e ótima radiopacidade, além de facilidade de trabalho, capacidade de vedamento e retenção e longo tempo de trabalho. (características cientificamente comprovadas). Possuir selo \"CE\". Pó deve conter: Trióxido de Bismuto, Hidróxido de Cálcio, Urotropina Pura e Dióxido de Titâneo. Bisnaga de resina deve conter: Resina Epóxi. Mínimo 3 anos de validade. Apresentação: 01 frasco de pó com 8,0g e 01 bisnaga de resina contendo 9,0g. Padrão de referência: Similar, igual ou superior a Sealer 26.",
+      "Marca_Modelo": "Dentsply/Sealer 26",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "177",
+      "Valor_Unitario": "R$ 95,48",
+      "Valor_Total_Item": "16.899,96"
+    },
+    {
+      "Item_TR": "106",
+      "Descricao_Especificacao": "Cimento endodontico obturador de polimero. Cimento obturador pasta-pasta para sistema de canais radiculares à base de resina epóxica. Possuir ótimas propriedades de selamento de longa duração e grande estabilidade dimensional, propriedades autoadesivas, estabilidade de cor; biocompatilidade, baixa solubilidade, bom escoamento e alta radiopacidade quando comparada a outras marcas (caract. científicamente comprovadas). Possuir selo \"CE\". Possuir uma pasta com Resina Epóxi de Bisfenol-A, Resina Epóxi de Bisfenol-F, Tungstato de cálcio, Óxido de Zircônio, Sílica e Óxido de Ferro. E outra pasta com: Amina Adamantada, N, N\" - Dibenzil-5-oxanonane-diamina-1,9, TCD - Diamina, Tungstato de cálcio, Óxido de Zircônio, Sílica e Óleo de silicone. Apresentação: 01(um) tubo de pasta A com 4ml; 01 (um) tubo de pasta B com 4ml e 01 (um) bloco de mistura. Características: Padrão de referência: Similar, igual ou superior a AH Plus.",
+      "Marca_Modelo": "Dentsply/AH Plus Jet 15g",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "66",
+      "Valor_Unitario": "R$ 328,75",
+      "Valor_Total_Item": "21.697,50"
+    },
+    {
+      "Item_TR": "145",
+      "Descricao_Especificacao": "Dessensibilizante com 2% de fluoreto de sódio, em gel - de baixa viscosidade à base de nitrato de potássio, um despolarizador, associado à fluoreto de sódio, um dessensibilizante oclusivo. Indicado no tratamento de dentes com hipersensibilidade à variação de temperatura e a processo de clareamento dental, composição glicerina, água di, espessante, nitrato de potássio e fluoreto de sódio. Apresentação: 1 seringa especial (com bicoaplicador) contendo 2,5g do produto. Padrão de Referência: Similar, igual ou superior a Dessensibilize KF 2%.",
+      "Marca_Modelo": "FGM/ Dentscare/Desensibilize KF 2% 2,5g",
+      "Codigo": "",
+      "Unidade_Medida": "Seringa com 2,5g",
+      "Quantidade_Registrada": "297",
+      "Valor_Unitario": "R$ 14,00",
+      "Valor_Total_Item": "4.158,00"
+    },
+    {
+      "Item_TR": "219",
+      "Descricao_Especificacao": "Hidróxido de cálcio. Desempenho superior no combate à infecção do canal radicular devido ao seu pH elevado de 12,5, o que proporciona um potente efeito antibacteriano e estimula a formação de dentina terciária, promovendo a saúde e a recuperação do tecido dental. Aplicação realizada com Navi Tip 29ga. Radioapaco e autopolimerizável. Embalagem com uma unidade com 1,2ml + pontas. Padrão de referência: UltraCal XS 35% Ultradent.",
+      "Marca_Modelo": "Ultradent/UltraCal XS 1,2ml cód.1027",
+      "Codigo": "",
+      "Unidade_Medida": "Seringa de 1,2ml",
+      "Quantidade_Registrada": "22",
+      "Valor_Unitario": "R$ 78,45",
+      "Valor_Total_Item": "1.725,90"
+    },
+    {
+      "Item_TR": "235",
+      "Descricao_Especificacao": "Lima de NITI Hibrida - Lima rotatória e reciprocante (híbrida) Lima ProDesign Logic Easy (2). Tipo de uso: Indice de quebra/fratura baixo, instrumentação de canais radiculares Composição: NiTi com tratamento térmico Caracteristicas: acoplar em qualquer motorendodontico, híbrida (utilização reciprocante e rot

@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253376.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00288/2025",
+    "Numero_Processo": "23523.015549/2025-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares - Ebserh, filial Hospital Universitário da Universidade Federal do Maranhão - HU-UFMA",
+    "CNPJ": "15.126.437/0004-96",
+    "UG": "155010",
+    "Endereco": "Rua Barão de Itapary, 227 Centro São Luís (MA) - CEP 65.020-070",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Joyce Santos Lages"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "INOPAT IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "licitacao@inopat.com.br./elaine@inopat...",
+    "Representante_Legal": "Elaine Marsano da Costa Nunes"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

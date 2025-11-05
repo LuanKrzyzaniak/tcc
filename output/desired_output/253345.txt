@@ -1,2 +1,30 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253345.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CIAF 018/610/25",
+    "Numero_Processo": "20250797808"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro Integrado de Apoio Financeiro – Polícia Militar do Estado de São Paulo",
+    "CNPJ": "04.198.514/0134-85",
+    "UG": "",
+    "Endereco": "Av. Cruzeiro do Sul, nº 260, 4º andar, Canindé, São Paulo/SP – CEP 03033-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel",
+        "Nome": "Wellyngton Marcos de Ataide da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Casa Clean Distribuidora de Produtos Ltda",
+    "CNPJ": "60.003.438/0001-55",
+    "Endereco": "Rua Santa Davina, nº 351 – Lote 08 – Quadra 10 – Parque Paulistano – São Paulo/SP",
+    "Telefone": "(13) 99711-1988",
+    "Email": "",
+    "Representante_Legal": "Erivoneide Pereira da Silva Cordeiro"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "Guardanapo Folha Dupla Softpaper",
+      "Marca_Mod_

@@ -1,2 +1,20 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253389.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "152/2025",
+    "Numero_Processo": "63512.002953/2024-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "Endereco": "Ilha de Mocanguê s/nº - Centro, Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra (IM) / Ordenador de Despesas",
+        "Nome": "Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Representante_Legal": "PALOMA CRISTINA PEREIRA GONÇALVES DE JESUS"
+  }
+}

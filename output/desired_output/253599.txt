@@ -1,2 +1,30 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253599.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "51/2025",
+    "Numero_Processo": "08106.001107/2025-65",
+    "Modalidade_Licitacao": "Pregão Eletrônico para REGISTRO DE PREÇOS nº 12/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Ministério da Justiça e Segurança Pública, por meio da Secretaria Nacional de Segurança Pública",
+    "CNPJ": "00.394.494/0005-60",
+    "UG": "",
+    "Endereco": "Esplanada dos Ministérios, Bloco T, Ed. Sede, Sala 201, Zona Cívico Administrativa, Brasília/DF, CEP 70.064-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Fundo Nacional de Segurança Pública",
+        "Nome": "CAMILA PINTARELLI"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "AL NOGUEIRA COMERCIO E SERVICOS EPP",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ALICE LOPES NOGUEIRA"
+  },
+  "Objeto": "",
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,61 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253522.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "488/2025- CPL/ALICC",
+    "Numero_Processo": "12500.13465/2024",
+    "Pregao_Eletronico": "104/2024-CPL/ALICC",
+    "Objeto": "Registro de Preços para futura e eventual contratação de empresa especializada no FORNECIMENTO DE EPI (I)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE MACEIÓ, por intermédio da AGÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS DE MACEIÓ – ALICC",
+    "CNPJ": "26.981.455/0001-29",
+    "UG": "",
+    "Endereco": "Avenida da Paz, n.º 900, Jaraguá, Maceió/AL-57.022-050",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora Presidente",
+        "Nome": "MEIRY SOARES PORCIÚNCULA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SAFE SUPPLY IT & SUPRIMENTOS LTDA - EPP",
+    "CNPJ": "26.549.336/0001-60",
+    "Endereco": "RUA MARECHAL DEODORO DA FONSECA, N° 148, CENTRO, JAGUARUANA/CE, CEP: 62820-000",
+    "Telefone": "(85) 99849-2917",
+    "Email": "licitacao.safesupply@gmail.com",
+    "Representante_Legal": "ANDRÉ MARTINS CAMARGO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "AVENTAL DESCARTE. TNT, GRAM. 30G/M2, COR AZUL, TAM. ÚNICO",
+      "Marca_Modelo": "SAFESUPPLY",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "4.300",
+      "Valor_Unitario": "R$ 3,99",
+      "Valor_Total_Item": "R$ 17.157,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "AVENTAL DESCARTE. TNT, GRAM. 30G/M2, COR AZUL, TAM. ÚNICO",
+      "Marca_Modelo": "SAFESUPPLY",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "24.000",
+      "Valor_Unitario": "R$ 3,99",
+      "Valor_Total_Item": "R$ 95.760,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "MÁSCARA DESCARTÁVEL TRIPLA C/ ELÁSTICO E CLIP NASAL, FABR. TNT",
+      "Marca_Modelo": "SAFESUPPLY",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "260.000",
+      "Valor_Unitario": "R$ 0,79",
+      "Valor_Total_Item": "R$ 205.400,00"
+    }
+  ],
+  "Valor_Total": "R$ 318.317,00"
+}

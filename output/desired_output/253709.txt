@@ -1,2 +1,70 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253709.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 07/2025-SEJUS",
+    "Numero_Processo": "00400-00027362/2025-29",
+    "Numero_Pregao": "REGISTRO DE PREÇOS nº 04/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "AGROPET AGROPECUÁRIA LTDA",
+    "CNPJ": "26.477.892/0001-19",
+    "Endereco": "SHIS QI 25 BLOCO F, LOJAS 04/05, LAGO SUL, BRASÍLIA/DF, CEP: 71.660-315",
+    "Telefone": "(61) 3248-2665",
+    "Email": "licitacao@agropetbrasilia.com.br",
+    "Representante_Legal": "FILIPE PORTAL, Representante Legal"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "RAÇÃO PARA CÃES, ADULTOS, RAÇAS MÉDIAS E GRANDES, TIPO PREMIUM",
+      "Marca_Modelo": "MAGNUS ORIGINAL",
+      "Codigo": "",
+      "Unidade_Medida": "Kg",
+      "Quantidade_Registrada": "12.000",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 96.000,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "RAÇÃO PARA CÃES, ADULTOS, RAÇAS MÉDIAS E GRANDES, TIPO SUPER PREMIUM",
+      "Marca_Modelo": "PREMIER PET",
+      "Codigo": "",
+      "Unidade_Medida": "Kg",
+      "Quantidade_Registrada": "6.000",
+      "Valor_Unitario": "R$ 17,90",
+      "Valor_Total_Item": "R$ 107.400,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "RAÇÃO PARA CÃES, FILHOTES, RAÇAS MÉDIAS E GRANDES, TIPO PREMIUM",
+      "Marca_Modelo": "MAGNUS ORIGINAL",
+      "Codigo": "",
+      "Unidade_Medida": "Kg",
+      "Quantidade_Registrada": "2.000",
+      "Valor_Unitario": "R$ 10,00",
+      "Valor_Total_Item": "R$ 20.000,00"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "RAÇÃO PARA CÃES, FILHOTES, RAÇAS MÉDIAS E GRANDES, TIPO SUPER PREMIUM",
+      "Marca_Modelo": "PREMIER PET",
+      "Codigo": "",
+      "Unidade_Medida": "Kg",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 20,50",
+      "Valor_Total_Item": "R$ 20.500,00"
+    }
+  ],
+  "Valor_Total": "R$ 243.900,00"
+}

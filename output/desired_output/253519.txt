@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253519.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "707/2025",
+    "Numero_Processo": "23080.064412/2024-14",
+    "Pregao_Eletronico": "90068/2025-SRP",
+    "Vigencia": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BRAVING COMERCIO & SERVICOS LTDA",
+    "CNPJ": "48.431.529/0001-96",
+    "Endereco": "RUA SAMUEL HEUSI, 463 SALA 402 BOX 495 CENTRO, CEP 88.301-320, Itajaí/SC",
+    "Telefone": "(47) 8856",
+    "Email": "",
+    "Representante_Legal": "LEONARDO LUCAS SANTOS MAGALHAES"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0024",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "80",
+      "Valor_Unitario": "R$ 4,8000",
+      "Valor_Total_Item": "R$ 384,0"
+    }
+  ],
+  "Valor_Total": ""
+}

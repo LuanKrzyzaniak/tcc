@@ -1,2 +1,49 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253372.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "149/2025",
+    "Numero_Processo": "63512.002953/2024-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/nº - Centro, na cidade de Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra, Ordenador de Despesas",
+        "Nome": "Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "ARMÁRIO COZINHA (260037). armário de cozinha aéreo, estrutura: aço, resistente a corrosão, puxador: metálico cromado, portas: 02, prateleiras: 02, montagem: parafusos, cor: branco, medidas:[ a ] = 55,2 cm [ l ] = 80 cm [ p ] = 30 cm",
+      "Marca_Modelo": "ITATIAIA/ITATIAIA, 2 PT",
+      "Codigo": "260037",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "212",
+      "Valor_Unitario": "R$ 215,00",
+      "Valor_Total_Item": "R$ 45.580,00"
+    },
+    {
+      "Item_TR": "25",
+      "Descricao_Especificacao": "REAGENTE PARA DIAGNÓSTICO CLÍNICO (238727)",
+      "Marca_Modelo": "",
+      "Codigo": "238727",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

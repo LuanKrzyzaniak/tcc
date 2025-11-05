@@ -1,2 +1,80 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253604.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N. 03/2025-FMVZ",
+    "Numero_Processo": "740/2025-FMVZ",
+    "Pregao_Eletronico": "nº 11/2025-FMVZ"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Universidade Estadual Paulista \"Júlio de Mesquita Filho\", por intermédio da Faculdade de Medicina Veterinária e Zootecnia - Campus de Botucatu",
+    "CNPJ": "48.031.918/0020-97",
+    "UG": "",
+    "Endereco": "Rua Prof. Dr. Walter Maurício Correa, s/n°, Bairro: UNESP Campus de Botucatu, CEP 18.618-681, na cidade de Botucatu",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Vice-Diretor de Unidade em exercício Professor Titular",
+        "Nome": "Alexandre Secorun Borges"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MILTON ANDRE DE BARROS - ME",
+    "CNPJ": "09.585.500/0001-44",
+    "Endereco": "Rua José Antônio, nº 510, Centro, Botucatu/SP, CEP 18.602-150",
+    "Telefone": "(14) 3814-1647",
+    "Email": "milton_barros10@yahoo.com.br",
+    "Representante_Legal": "Milton Andre de Barros (Sócio Proprietário)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "LEITE UHT INTEGRAL",
+      "Marca_Modelo": "",
+      "Codigo": "03799",
+      "Unidade_Medida": "LITRO",
+      "Quantidade_Registrada": "3.600",
+      "Valor_Unitario": "R$ 4,5900",
+      "Valor_Total_Item": "R$ 16.524,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "CARNE DE FRANGO",
+      "Marca_Modelo": "",
+      "Codigo": "03780",
+      "Unidade_Medida": "QUILO",
+      "Quantidade_Registrada": "3.000",
+      "Valor_Unitario": "R$ 7,5000",
+      "Valor_Total_Item": "R$ 22.500,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "OSSO BOVINO",
+      "Marca_Modelo": "",
+      "Codigo": "03778",
+      "Unidade_Medida": "QUILO",
+      "Quantidade_Registrada": "3.000",
+      "Valor_Unitario": "R$ 1,5000",
+      "Valor_Total_Item": "R$ 4.500,00"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "RAÇÃO PARA CÃES",
+      "Marca_Modelo": "",
+      "Codigo": "03798",
+      "Unidade_Medida": "QUILO",
+      "Quantidade_Registrada": "3.000",
+      "Valor_Unitario": "R$ 4,8000",
+      "Valor_Total_Item": "R$ 14.400,00"
+    },
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "CARBONATO DE CÁLCIO",
+      "Marca_Modelo": "",
+      "Codigo": "03800",
+      "Unidade_Medida": "QUILO",
+      "Quantidade_Registrada": "600",
+      "Valor_Unitario": "R$ 2,5000",
+      "Valor_Total_Item": "R$ 1.500,00"
+    }
+  ],
+  "Valor_Total": "R$ 59.424,00"
+}

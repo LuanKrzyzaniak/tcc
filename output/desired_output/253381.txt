@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253381.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "088/2024",
+    "Numero_Processo": "2024025560"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE ANGRA DOS REIS",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Praça Nilo Peçanha, nº 186, Centro, nesta cidade (Angra dos Reis)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretária de Administração",
+        "Nome": "Regina Pereira Paiva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "POSTO DOS SANTOS REIS LTDA",
+    "CNPJ": "29.051.570/0001-92",
+    "Endereco": "Avenida Júlio Maria, nº 235, Bairro: Centro CEP: 23.900-504, Cidade: Angra dos Reis - Estado: RJ",
+    "Telefone": "(24) 3365-1161",
+    "Email": "postosreis@gmail.com",
+    "Representante_Legal": "Sr. José Mauro Pinto de Araújo"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

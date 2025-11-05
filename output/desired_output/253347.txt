@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253347.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "355/2025",
+    "Numero_Processo": "23765.013874/2025-47"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH - HOSPITAL UNIVERSITÁRIO DA UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+    "CNPJ": "15.126.437/0025-10",
+    "UG": "155903",
+    "Endereco": "Avenida Eugênio do Nascimento, S/N, Aeroporto, Juiz de Fora/MG, CEP: 36.038-330",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "José Otávio do Amaral Correa"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Bruno Azevedo Gomes Freitas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LABORATORIOS B BRAUN SA",
+    "CNPJ": "31.673.254/0010-95",
+    "Endereco": "Estrada Guaxindiba, nº 1990, Lote 39E, Bairro Guaxindiba, São Gonçalo/RJ, CEP: 24.72",
+    "Telefone": "Não encontrado",
+    "Email": "Não encontrado",
+    "Representante_Legal": "REGINA SANTOS AMMIRATTI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "ÁGUA PARA INJETÁVEIS. MARCA: B.BRAUN. MODELO/CÓDIGO: B.BRAUN 200105 - ECOFLAC PLUS. SOLUÇÃO",
+      "Marca_Modelo": "B.BRAUN",
+      "Codigo": "B.BRAUN 200105 - ECOFLAC PLUS",
+      "Unidade_Medida": "FRASCO",
+      "Quantidade_Registrada": "12.000",
+      "Valor_Unitario": "R$ 1,98",
+      "Valor_Total_Item": "R$ 23.760,00"
+    }
+  ],
+  "Valor_Total": "Não encontrado"
+}

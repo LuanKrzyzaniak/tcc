@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253578.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "197/2025",
+    "Numero_Processo": "63512.002953/2024-38",
+    "Pregao_Eletronico": "90028/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/nº Centro, Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra (Ordenador de Despesas)",
+        "Nome": "Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SUL MINAS FABRICA DE MOVEIS LTDA",
+    "Nome_Fantasia": "SUL MINAS MOVEIS",
+    "CNPJ": "12.515.512/0001-70",
+    "Endereco": "RUA DO FREZADOR, 146 - CENTRO EMPRESARIAL DE LAVRAS, Lavras / Minas Gerais, CEP: 37.205-836",
+    "Telefone": "(35) 3821-1905",
+    "Email": "licitacoes@sulminasmoveis.com.br",
+    "Representante_Legal": "GILMAR ANTONIO DA FONSECA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Armário escritório, material:madeira mdf, quantidade portas: 2 un, revestimento:laminado melamínico, largura: 90 cm, altura: 198 cm, profundidade: 50 cm, tipo: alto",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "376",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

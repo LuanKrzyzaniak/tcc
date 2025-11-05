@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253340.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "668/2025",
+    "Numero_Processo": "23080.064658/2024-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA (UFSC)",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CAMPOS SOLUCOES ATACADISTAS LTDA",
+    "CNPJ": "60.915.736/0001-11",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "N/A (Apenas nome da empresa e CNPJ na assinatura)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

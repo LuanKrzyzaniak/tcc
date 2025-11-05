@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253733.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 00683/2025",
+    "Numero_Processo": "01-P-11986/2024",
+    "Codigo_Unico": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161",
+    "Endereco": "Praça das Bandeiras, n° 45- Quadra 2 - Prédio 1 Cidade Universitária \"Zeferino Vaz\" - Barão Geraldo Campinas - SP - Brasil - CEP: 13083-869",
+    "Telefone": "(19) 3521-2648",
+    "Email": "atasaude@unicamp.br",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "09",
+      "Descricao_Especificacao": "Medicamentos gerais de uso humano; cianocobalamina 500 mcg/ml; forma farmaceutica solucao injetavel; forma de apresentacao frasco...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "Quantidade máxima a ser cotada",
+      "Valor_Unitario": "Valor Un",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

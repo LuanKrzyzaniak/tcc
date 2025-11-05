@@ -1,2 +1,25 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253317.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 90030/2025A - SES/DF",
+    "Numero_Processo": "00060-00440046/2024-20"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE SAÚDE",
+    "CNPJ": "00.394.700/0001-08",
+    "Endereco": "SRTVN Quadra 701 Lote D, 1º e 2º andares, Ed. PO700 Bairro Asa Norte CEP 70719-040-DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário de Estado, da Secretaria de Estado de Saúde do Distrito Federal",
+        "Nome": "JURACY CAVALCANTE LACERDA JÚNIOR"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BELBI COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO COMERCIAL LTDA",
+    "CNPJ": "27.901.764/0001-04",
+    "Endereco": "SIA TRECHO 03, S/N, LOTE 820, ZONA INDUSTRIAL - GUARÁ - DF CEP:71.200-032",
+    "Telefone": "(61) 3052-2520",
+    "Email": "licitacoes@belbidistribuidora.com.br/empenhos@belbidistribuidora.com.br",
+    "Representante_Legal": "MARIANA MARTINS MUNDIM TZEMOS"
+  }
+}

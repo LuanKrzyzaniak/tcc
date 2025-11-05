@@ -1,2 +1,50 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253687.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00018/2025",
+    "Numero_Processo": "23072.259982/2024-81",
+    "Pregao_Eletronico": "SRP n° 90002/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Universidade Federal de Minas Gerais / Departamento de Logística de Suprimentos e de Serviços Operacionais - DLO/UFMG",
+    "CNPJ": "17.217.985/0058-40",
+    "UG": "",
+    "Endereco": "Av. Antônio Carlos, nº 6627 Campus Pampulha, Belo Horizonte MG",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Pró-Reitor de Administração da Universidade Federal de Minas Gerais",
+        "Nome": "Prof. Ivan José da Silva Lopes"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CCM PRINT ETIQUETAS",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "82",
+      "Descricao_Especificacao": "Etiqueta auto-adesiva, branca, dimensões: 25,4...",
+      "Marca_Modelo": "",
+      "Codigo": "203508",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "87",
+      "Descricao_Especificacao": "Etiqueta auto-adesiva, aplicação: Impressão Código Barras; Padrão: UFMG",
+      "Marca_Modelo": "",
+      "Codigo": "315365",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

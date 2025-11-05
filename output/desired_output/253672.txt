@@ -1,2 +1,85 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253672.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "0870/2025",
+    "Numero_Processo": "2024-GJPSZ",
+    "Pregao": "381/2025",
+    "COMPRASGOV_N": "90381/2025",
+    "UASG": "925120",
+    "ID_CidadES": "2025.500E0500019.01.0275"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DA SAÚDE (Gestora do FUNDO ESTADUAL DE SAÚDE - FES)",
+    "CNPJ": "27.080.605/0001-96",
+    "UG": "925120",
+    "Endereco": "Rua Eng. Guilherme José Monjardim Varejão, nº 225, Enseada do Suá, Vitória ES, СЕР 29050-260",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Subsecretária de Estado de Atenção à Saúde",
+        "Nome": "CAROLINA MARCONDES REZENDE SANCHES"
+      },
+      {
+        "Cargo": "Representante Legal do HEMOES",
+        "Nome": "MARCELA GONÇALVES MURAD"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "WERFEN MEDICAL LTDA",
+    "CNPJ": "02.004.662/0003-27",
+    "Endereco": "Rodovia Antonio Heil, nº 4605 Módulo K Frente Itaipava Itajaí SC, CEP: 88316-003",
+    "Telefone": "(11) 4622-7878/ (11) 98728-9725",
+    "Email": "licitacaobr@werfen.com",
+    "Representante_Legal": "RAFAEL PATRICIO ABDEL HAK"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "TROMBOPLASTINA CÁLCICA; TIPO: TROMBOPLASTINA CÁLCICA DE ORIGEM HUMANA OU DE CÉREBRO DE COELHO LIOFILIZADA, COM ÍNDICE DE SENSIBILIZAÇÃO (ISI) MENOR OU IGUAL A 1,3; FINALIDADE: DETERMINAÇÃO DO TEMPO DE PROTROMBINA EM PROVAS DE COAGULAÇÃO.",
+      "Marca_Modelo": "IL - INSTRUMENT ATION LABORATORY CO.",
+      "Codigo": "",
+      "Codigo_SIADES": "377424",
+      "Codigo_CAT_MAT": "377424",
+      "Unidade_Medida": "TESTE",
+      "Quantidade_Registrada": "6.120",
+      "Valor_Unitario": "R$ 1,75",
+      "Valor_Total_Item": "R$ 10.710,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "REAGENTE PARA DETERMINACAO DE TEMPO TTPA DE CONTENDO FOSFOLIPIDEOS SINTETICOS E SILICA COMO ATIVADOR; FINALIDADE: DETERMINACAO DE TEMPO DE TROMBOPLASTINA PARCIAL ATIVADA ( ) EM PROVAS DE COAGULACAO.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Codigo_SIADES": "332712",
+      "Codigo_CAT_MAT": "332712",
+      "Unidade_Medida": "TESTE",
+      "Quantidade_Registrada": "17.400",
+      "Valor_Unitario": "R$ 1,71",
+      "Valor_Total_Item": "R$ 29.754,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "TESTE DE TROMBINA; TIPO: TROMBINA CÁLCICA TITULADA DE ORIGEM HUMANA OU BOVINA; FINALIDADE: DETERMINAÇÃO DO TEMPO DE TROMBINA PARA TEMPO DE COAGULAÇÃO NORMAL EM TORNO DE 15 SEGUNDOS.",
+      "Marca_Modelo": "IL - INSTRUMENT ATION LABORATORY CO.",
+      "Codigo": "",
+      "Codigo_SIADES": "332713",
+      "Codigo_CAT_MAT": "332713",
+      "Unidade_Medida": "TESTE",
+      "Quantidade_Registrada": "2.500",
+      "Valor_Unitario": "R$ 1,59",
+      "Valor_Total_Item": "R$ 3.975,00"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "FIBRINOGÊNIO DE CLAUSS; TIPO: KIT PARA DETERMINAÇÃO QUANTITATIVADO FIBRINOGÊNIO PELO MÉTODO DE CLAUSS.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Codigo_SIADES": "442070",
+      "Codigo_CAT_MAT": "442070",
+      "Unidade_Medida": "TESTE",
+      "Quantidade_Registrada": "5.120",
+      "Valor_Unitario": "R$ 3,39",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

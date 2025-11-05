@@ -1,2 +1,49 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253246.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00050/2025",
+    "Numero_Processo": "64004.000921/2025-81"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ARSENAL DE GUERRA DO RIO",
+    "CNPJ": "09.944.413/0001-07",
+    "UG": "160285",
+    "Endereco": "Rua Monsenhor Manuel Gomes n° 563, Caju, na cidade do Rio de Janeiro",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Arsenal de Guerra do Rio",
+        "Nome": "CARLOS FREDERICO MATOS DE CHAGAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SPEED FORM INDÚSTRIA E COMÉRCIO LTDA",
+    "CNPJ": "27.497.726/0001-38",
+    "Endereco": "Rua Alcaméia, 150, Olaria, Rio de Janeiro, RJ. CEP: 21031-520",
+    "Telefone": "(21) 98814-0296",
+    "Email": "rupper@speedform.com.br",
+    "Representante_Legal": "RUPPER JOSÉ NICODEMOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Bloco da Culatra - Conforme desenho técnico A1-0003.",
+      "Marca_Modelo": "SPEEDFORM",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "44.950,00",
+      "Valor_Total_Item": "539.400,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "Luva da Culatra - Conforme desenho técnico A3-0015",
+      "Marca_Modelo": "SPEEDFORM",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "15.290,00",
+      "Valor_Total_Item": "183.480,00"
+    }
+  ],
+  "Valor_Total": "722.880,00"
+}

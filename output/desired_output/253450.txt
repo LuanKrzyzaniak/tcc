@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253450.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "1151/2025",
+    "Numero_Processo": "04105.0000001401/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Agência de Modernização da Gestão de Processos - AMGESP",
+    "CNPJ": "07.424.905/0001-38",
+    "UG": "925998",
+    "Endereco": "Avenida Walter Ananias, n.º 35A Jaraguá, CEP: 57025-510 - Maceió/AL",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Presidente",
+        "Nome": "Amilton Barbosa Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "JULIO CESAR GASPARINI JUNIOR - LTDA",
+    "CNPJ": "22.948.146/0001-04",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "JULIO CESAR GASPARINI JUNIOR"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

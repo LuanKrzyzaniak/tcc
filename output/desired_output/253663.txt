@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253663.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "031/2025",
+    "Numero_Processo": "2025/0000048",
+    "Modalidade_Licitacao": "PREGÃO ELETRÔNICO Nº 90032/2025",
+    "Objeto": "ATA DE REGISTRO DE PREÇOS PARA AQUISIÇÃO DE CADEIRAS GIRATÓRIAS - LOTE 2"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO",
+    "CNPJ": "08.036.157/0001-89",
+    "UG": "",
+    "Endereco": "Rua Boa Vista, nº 200, СЕР 01014-000, Centro da Capital Paulista",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coordenador Geral de Administração",
+        "Nome": "Luiz Antônio Silva Bressane"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "FORTH COMERCIO E SERVICOS DE BENS DE INFORMATICA LTDA",
+    "CNPJ": "02.264.441/0001-57",
+    "Endereco": "RUA MARANHAO, 1269, APTO 21, CENTRO, SAO CAETANO DO SUL - SP, CEP: 09541-001",
+    "Telefone": "(11) 4221-5000",
+    "Email": "licitacao@forthcomercio.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Cadeira giratória, Modelo: Diretor, com apoio para cabeça. Tipo de encosto: em tela de poliéster, preto ou cinza. Tipo de assento: estofado e revestido em tecido de poliéster, na cor preta. Tipo de Base: piramidal injetada em nylon, com fibra de vidro, na cor preta, com 5 patas. Mecanismo: relax, com trava e regulagem de altura. Braço: injetado em polipropileno na cor preta, com regulagem de altura e apoio em PU. Rodízios: injetado em nylon. Densidade da espuma do assento: D-45",
+      "Marca_Modelo": "BRIZZA TELA DIRETOR",
+      "Codigo": "370120",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "1500",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 515,00",
+      "Valor_Total_Item": "R$ 772.500,00",
+      "Valor_Total_Global_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 772.500,00"
+}

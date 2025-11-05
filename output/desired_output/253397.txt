@@ -1,2 +1,53 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253397.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 286/2024",
+    "Numero_Processo": "N° 50.371/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Prefeitura do Município de Foz do Iguaçu / Secretaria Municipal da Educação",
+    "CNPJ": "76.206.606/0001-40",
+    "UG": "",
+    "Endereco": "Praça Getulio Vargas, 260 centro",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Responsável pela Secretaria Municipal da Educação",
+        "Nome": "Maria Justina da Silva"
+      },
+      {
+        "Cargo": "Diretora de Licitações e Contratos",
+        "Nome": "Tatiana Almeida Zdanski"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "EDITORA PROGRESSIVA LTDA",
+    "CNPJ": "04.772.585/0001-19",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Marcos Cezar Felippe"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "APOSTILA ANUAL INFANTIL IV, 100 páginas coloridas, sendo 75 páginas coloridas medindo 34x24cm, papel 120g e 25 páginas coloridas, medindo 34x24cm, no papel 180g, com faca de corte (páginas finais). Capa colorida papel Supremo ou cartão triplex. 300g. Encadernação espiral azul, capa plástica (frente e fundo), sendo frente transparente e fundo azul.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unid.",
+      "Quantidade_Registrada": "4.000",
+      "Valor_Unitario": "R$ 9,53",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "APOSTILA ANUAL INFANTIL V, 100 páginas coloridas, sendo 62 páginas coloridas medindo 34x24cm, papel 120g e 38 páginas coloridas, medindo 34x24cm, no papel 180g, com faca de corte (páginas finais). Capa colorida papel Supremo ou cartão triplex. 300g. Encadernação espiral vermelho, capa plástica (frente e fundo), sendo frente transparente e fundo vermelho.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unid.",
+      "Quantidade_Registrada": "4.000",
+      "Valor_Unitario": "R$ 9,96",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253440.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N°26/2025",
+    "Numero_Processo": "64616.000537/2025-81"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Odontoclínica Central do Exército",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "CEL Ordenador de Despesas",
+        "Nome": "EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DENTAL IPO LTDA",
+    "CNPJ": "",
+    "Endereco": "Rua Rudi Horst, 34 Sala 12 CEP 89.899-000 Centro Ipora do Oeste - SC",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ELCI TRICHES BERTI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 36.665,80"
+}

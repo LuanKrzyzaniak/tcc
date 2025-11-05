@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253242.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00433/2025",
+    "Numero_Processo": "67511.000622/2025-13"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ACADEMIA DA FORCA AEREA",
+    "CNPJ": "00.394.429/0002-91",
+    "UG": "",
+    "Endereco": "Estrada de Aguaí, s/nº, Campo Fontenelle, Pirassununga SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas Delegado da Academia da Força Aérea",
+        "Nome": "Sr. Odilor da Silva Lopes Cel Int R/1"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ANHANGUERA AGRONEGOCIOS LTDA",
+    "CNPJ": "50.678.369/0001-26",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0013",
+      "Descricao_Especificacao": "13. Fertilizante 04-14-08 (NPK), se a fonte de N for ur...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "TN",
+      "Quantidade_Registrada": "38.00",
+      "Valor_Unitario": "2.400,00",
+      "Valor_Total_Item": "91.200,00"
+    }
+  ],
+  "Valor_Total": "91.200,00"
+}

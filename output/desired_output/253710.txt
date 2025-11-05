@@ -1,2 +1,114 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253710.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 90028/2025-HU",
+    "Numero_Processo": "154.00000219/2025-30",
+    "Numero_Pregao": "PREGÃO ELETRÔNICO № 90028/2025 - HU USP"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE DE SÃO PAULO, por intermédio da(o) HOSPITAL UNIVERSITÁRIO DA USP",
+    "CNPJ": "63.025.530/0085-12",
+    "UG": "",
+    "Endereco": "Av. Prof. Lineu Prestes, n. 2565 - Butantã - São Paulo CEP 05508-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "SUPERINTENDENTE",
+        "Nome": "PROF. DR. JOSÉ PINHATA OTOCH"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "[Múltiplos Fornecedores Registrados]",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Fornecedor_Razao_Social": "PONTUAL COMERCIAL LTDA",
+      "Fornecedor_CNPJ": "01.854.654/0001-45",
+      "Item_TR": "01",
+      "Descricao_Especificacao": "Eletrodo para eletrocirurgia para ressecção (histeroscopia), tipo alça 24CH, monopolar, descartável.",
+      "Marca_Modelo": "Medtec Turp Loop",
+      "Codigo": "463006 (CATMAT)",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "20",
+      "Valor_Unitario": "R$ 300,00",
+      "Valor_Total_Item": "R$ 6.000,00"
+    },
+    {
+      "Fornecedor_Razao_Social": "MEDLIFE DISPOSITIVOS MEDICOS LTDA",
+      "Fornecedor_CNPJ": "51.190.230/0001-00",
+      "Item_TR": "02",
+      "Descricao_Especificacao": "Pinça bipolar tipo Baioneta, com cabo, articulada, ponta romba de 1.5 mm, autoclavável a 134 graus por 5 minutos, medindo 18 a 20 cm.",
+      "Marca_Modelo": "SC",
+      "Codigo": "433386 (CATMAT)",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "20",
+      "Valor_Unitario": "R$ 600,00",
+      "Valor_Total_Item": "R$ 12.000,00"
+    },
+    {
+      "Fornecedor_Razao_Social": "BHIO SUPPLY IND. COM. EQUIP. MEDICOS S/A",
+      "Fornecedor_CNPJ": "73.297.509/0001-11",
+      "Item_TR": "03",
+      "Descricao_Especificacao": "Trocater em aço inox, desmontável e autolavável... Na medida 10-11 mm diâmetro e 100-110 mm de comprimento.",
+      "Marca_Modelo": "Bhiosupply",
+      "Codigo": "469313 (CATMAT)",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "R$ 1.320,35",
+      "Valor_Total_Item": "R$ 15.844,20"
+    },
+    {
+      "Fornecedor_Razao_Social": "MEDLIFE DISPOSITIVOS MEDICOS LTDA",
+      "Fornecedor_CNPJ": "51.190.230/0001-00",
+      "Item_TR": "04",
+      "Descricao_Especificacao": "Trocater descartável. Comprimento de 100mm a 110mm, diâmetro de 5 a 6 mm.",
+      "Marca_Modelo": "Storz",
+      "Codigo": "469314 (CATMAT)",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "25",
+      "Valor_Unitario": "R$ 390,00",
+      "Valor_Total_Item": "R$ 9.750,00"
+    },
+    {
+      "Fornecedor_Razao_Social": "RECO PRODUTOS MÉDICOS LTDA",
+      "Fornecedor_CNPJ": "07.828.611/0001-49",
+      "Item_TR": "05",
+      "Descricao_Especificacao": "Cateter para irrigação e aspiração (laparoscopia). Descartável. Medindo 33 cm.",
+      "Marca_Modelo": "RECO",
+      "Codigo": "469315 (CATMAT)",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 360,00",
+      "Valor_Total_Item": "R$ 18.000,00"
+    },
+    {
+      "Fornecedor_Razao_Social": "RECO PRODUTOS MÉDICOS LTDA",
+      "Fornecedor_CNPJ": "07.828.611/0001-49",
+      "Item_TR": "06",
+      "Descricao_Especificacao": "Cabo de fibra óptica para laparoscopia, autoclavável.",
+      "Marca_Modelo": "RECO",
+      "Codigo": "463004 (CATMAT)",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "10",
+      "Valor_Unitario": "R$ 450,00",
+      "Valor_Total_Item": "R$ 4.500,00"
+    },
+    {
+      "Fornecedor_Razao_Social": "RECO PRODUTOS MÉDICOS LTDA",
+      "Fornecedor_CNPJ": "07.828.611/0001-49",
+      "Item_TR": "07",
+      "Descricao_Especificacao": "Câmera digital autoclavável, com tecnologia HD ou superior, para uso em videolaparoscopia e videocirurgia.",
+      "Marca_Modelo": "RECO",
+      "Codigo": "469299 (CATMAT)",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "01",
+      "Valor_Unitario": "R$ 47.970,00",
+      "Valor_Total_Item": "R$ 47.970,00"
+    }
+  ],
+  "Valor_Total": "R$ 110.064,20"
+}

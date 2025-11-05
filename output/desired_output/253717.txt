@@ -1,2 +1,130 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253717.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00682/2025",
+    "Numero_Processo": "ASCENDENTE N° 01-P-11986/2024, DESCENDENTE N° 01-P-31963/2025 (HC), 01-P-31965/2025 (CAISM)",
+    "Numero_Pregao": "PREGÃO ELETRÔNICO DGA Nº 90251/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "UASG 450161",
+    "Endereco": "Cidade Universitária de \"Zeferino Vaz\", Distrito de Barão Geraldo, Campinas, Estado de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "HOSPINOVA DISTRIBUIDORA DE MEDICAMENTOS E MATERIAIS HOSPITALARES LTDA",
+    "CNPJ": "30.635.808/0001-80",
+    "Endereco": "RUA ABELARDO SEDANO, 480, BAIRRO: RESIDENCIAL RECANTO DAS FLORES, RIBEIRAO PRETO/SP, CEP: 14098-170",
+    "Telefone": "(16) 3624-9494",
+    "Email": "luciana@hospinova.com.br",
+    "Representante_Legal": "Luciana Alves da Silva"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "ALÇA DE RESSECÇÃO ENDOSCÓPICA MONOPOLAR, DESCARTÁVEL",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231580",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 51,50",
+      "Valor_Total_Item": "R$ 5.150,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "AGULHA DESCARTÁVEL PARA ASPIRAÇÃO DE CORPO ESTRANHO OU FRAGMENTO DE TECIDO.",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231579",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 20,40",
+      "Valor_Total_Item": "R$ 2.040,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "AGULHA DE INJEÇÃO, DESCARTÁVEL, LARGURA DE 23 A 25 GAUGE, COMPRIMENTO DE 5 A 8 MM.",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231578",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 102,00",
+      "Valor_Total_Item": "R$ 3.060,00"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "PINÇA DE BIOPSIA DESCARTÁVEL, TIPO CROCODILO, SEM OU COM ESPÍCULA, COM CANAL DE 2,0MM.",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231577",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 102,00",
+      "Valor_Total_Item": "R$ 10.200,00"
+    },
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "CATETER BALÃO DE DILATAÇÃO ENDOSCÓPICA, TRÊS VIAS, DIÂMETRO 12-13.5MM.",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231576",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 2.448,00",
+      "Valor_Total_Item": "R$ 122.400,00"
+    },
+    {
+      "Item_TR": "06",
+      "Descricao_Especificacao": "CATETER BALÃO DE DILATAÇÃO ENDOSCÓPICA, TRÊS VIAS, DIÂMETRO 15-18MM.",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231575",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 2.448,00",
+      "Valor_Total_Item": "R$ 122.400,00"
+    },
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "CLIPE HEMOSTÁTICO DESCARTÁVEL, GIRATÓRIO, ABERTURA MÁXIMA DE 11MM, COMPRIMENTO DE 1650MM",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231574",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 163,20",
+      "Valor_Total_Item": "R$ 48.960,00"
+    },
+    {
+      "Item_TR": "08",
+      "Descricao_Especificacao": "CÂNULA DE LAVAGEM ENDOSCÓPICA COM DUAS VIAS, COMPRIMENTO DE 1650MM",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231573",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 102,00",
+      "Valor_Total_Item": "R$ 5.100,00"
+    },
+    {
+      "Item_TR": "09",
+      "Descricao_Especificacao": "ALÇA POLIPECTOMIA, TIPO OVAL/HEXAGONAL, DESCARTÁVEL",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231572",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 81,60",
+      "Valor_Total_Item": "R$ 4.080,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "CÂNULA DE INSUFLAÇÃO DE CO2, COM DUAS VIAS, COMPRIMENTO DE 1650MM.",
+      "Marca_Modelo": "MEDTRIX",
+      "Codigo": "231571",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 102,00",
+      "Valor_Total_Item": "R$ 5.100,00"
+    }
+  ],
+  "Valor_Total": "R$ 328.490,00"
+}

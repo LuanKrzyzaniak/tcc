@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253496.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "186/2025",
+    "Numero_Processo": "64680.010556/2024-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11° Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel / Ordenador de Despesas",
+        "Nome": "Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SOMA-SOLUCAO EM MANUTENCAO, COMERCIO E SERVICOS LTDA",
+    "CNPJ": "30.454.545/0001-39",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ALAIM ALVES DE ASSIS"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 4.350,00"
+}

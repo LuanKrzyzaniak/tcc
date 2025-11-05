@@ -1,2 +1,38 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253656.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "0062/2025",
+    "Numero_Processo": "0137/2025",
+    "Modalidade_Licitacao": "PREGÃO ELETRÔNICO Nº 90020/2025",
+    "Objeto": "Registro de preços para eventual contratação de empresa especializada na prestação de serviços de impressão de livros e títulos por demanda"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CONSELHO REGIONAL DE MEDICINA DO ESTADO DE SÃO PAULO (CREMESP)",
+    "CNPJ": "63.106.843/0001-97",
+    "UG": "926310",
+    "Endereco": "Rua Luis Coelho nº 26, Consolação, CEP: 01309-900 - São Paulo/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor Presidente",
+        "Nome": "Dr. Angelo Vattimo"
+      },
+      {
+        "Cargo": "Coordenador do Departamento de Comunicação",
+        "Nome": "Dr. Alexandre Kataoka"
+      },
+      {
+        "Cargo": "Diretor Primeiro Tesoureiro",
+        "Nome": "Dr. Pedro Sinkevicius Neto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LEOGRAF GRÁFICA E EDITORA LTDA",
+    "CNPJ": "00.356.213/0001-50",
+    "Endereco": "Rua Almirante Tamandaré, nº 55, galpão 1 e 2, Vila Menk, CEP 06273-090, Osasco/SP",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Sr. Antônio Eugenio Moreira Cabral, Sr. Fabio Gabriel dos Santos"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

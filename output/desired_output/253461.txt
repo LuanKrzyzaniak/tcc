@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253461.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 78/2024",
+    "Numero_Processo": "63066.001682/2024-17",
+    "Pregao_Eletronico": "Nº 90102/2024",
+    "Termo_Aditivo": "PRIMEIRO"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Hospital Naval de Recife (HNRe)",
+    "CNPJ": "00.394.502/0066-90",
+    "UG": "",
+    "Endereco": "Av. Cruz Cabugá, nº 1.200, Bairro Santo Amaro, Recife-PE",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora",
+        "Nome": "Capitão de Mar e Guerra (Md) LISA TIEMI OGAWA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "IMED - IMEDIATA DISTRIBUIDORA LTDA",
+    "CNPJ": "20.730.081/0001-38",
+    "Endereco": "Rua 29 de Janeiro, 137, Bairro do Alecrim, Natal-RN",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RICARDO MARIO PEREIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "CATETER DUPLO J P/ VIA ANTEGRADA (RENAL)",
+      "Marca_Modelo": "COOK",
+      "Codigo": "DCS-100-30-C-HNP-E",
+      "Codigo_Interno": "12592",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "26",
+      "Valor_Unitario": "R$ 1.950,00",
+      "Valor_Total_Item": "R$ 50.700,00"
+    }
+  ],
+  "Valor_Total": "R$ 50.700,00"
+}

@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253383.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "677/2025",
+    "Numero_Processo": "23080.064658/2024-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, na cidade de Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SHOP LIGHT ILUMINACAO LTDA",
+    "CNPJ": "35.903.161/0001-70",
+    "Endereco": "VIA EXPRESSA FRANCISCO CLEUTON LOPES, 800 AGUA BRANCA, CEP 32.370-485, Contagem/MG",
+    "Telefone": "(31) 85194279",
+    "Email": "shoplight@outlook.com.br, gustavomg@hotmail.com",
+    "Representante_Legal": "CASSIA RENATA DA SILVEIRA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

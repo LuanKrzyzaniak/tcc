@@ -1,2 +1,16 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253390.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "7/2025",
+    "Numero_Processo": "64658.007843/2025-51"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "POLICLÍNICA MILITAR DE PORTO ALEGRE/RS",
+    "CNPJ": "09.544.774/0002-39 (Fundo do Exército) e 09.544.774/0001-58 (Tesouro Nacional)",
+    "UG": "160400",
+    "Endereco": "Avenida João Pessoa, Nr 651, bairro Cidade Baixa, Porto Alegre-RS"
+  },
+  "Fornecedor": {
+    "Razao_Social": "FJCRP Comercial",
+    "Representante_Legal": "FELIPE ALVARES"
+  }
+}

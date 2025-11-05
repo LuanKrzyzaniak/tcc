@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253359.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "148/2025",
+    "Numero_Processo": "63512.002953/2024-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/nº - Centro, na cidade de Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Capitão de Mar e Guerra Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NALUMA MÓVEIS LTDA",
+    "CNPJ": "48.656.277/0001-01",
+    "Endereco": "AVENIDA COMENDADOR JACINTO SOARES DE SOUZA LIMA, 1751, UBÁ - MG, CEP: 36.500-090",
+    "Telefone": "(32) 8807-1241",
+    "Email": "nalumamoveis@gmail.com",
+    "Representante_Legal": "NATHALYA LUIZA MARQUES MATHIAS"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 359.625,00"
+}

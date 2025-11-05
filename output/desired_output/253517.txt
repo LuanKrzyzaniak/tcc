@@ -1,2 +1,81 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253517.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "535/2025",
+    "Numero_Processo": "23818.009158/2025-01",
+    "Pregao_Eletronico": "",
+    "Vigencia": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares (Ebserh), unidade HOSPITAL UNIVERSITÁRIO ANTÔNIO PEDRO (HUAP-UFF)",
+    "CNPJ": "15.126.437/00036-73",
+    "UG": "155915",
+    "Endereco": "Rua Marquês do Paraná, nº 303, Centro, Niterói, do Estado do Rio de Janeiro, CEP 24033-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "BENI OLEJ"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Debrum Móveis Corporativos LTDA",
+    "CNPJ": "24.333.303/0001-57",
+    "Endereco": "RUA BARBOSA DE FREITAS 1108",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RAPHAEL HENDRIL FARIA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "MESA DE TRABALHO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "15",
+      "Valor_Unitario": "R$ 1.135,00",
+      "Valor_Total_Item": "R$ 17.025,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "MESA REDONDA",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "3",
+      "Valor_Unitario": "R$ 785,00",
+      "Valor_Total_Item": "R$ 2.355,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "MESA DE REUNIÃO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "3",
+      "Valor_Unitario": "R$ 1.985,00",
+      "Valor_Total_Item": "R$ 5.955,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "ESTANTE ARQUIVO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "3",
+      "Valor_Unitario": "R$ 1.250,00",
+      "Valor_Total_Item": "R$ 3.750,00"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "CADEIRA DE ESCRITÓRIO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10",
+      "Valor_Unitario": "R$ 510,00",
+      "Valor_Total_Item": "R$ 5.100,00"
+    }
+  ],
+  "Valor_Total": "R$ 34.185,00"
+}

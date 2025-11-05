@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253580.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "198/2025",
+    "Numero_Processo": "63512.002953/2024-38",
+    "Pregao_Eletronico": "90028/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/nº Centro, Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra (Ordenador de Despesas)",
+        "Nome": "Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "AITEC COMERCIO LTDA",
+    "Nome_Fantasia": "AITEC COMERCIO LTDA",
+    "CNPJ": "48.990.800/0001-23",
+    "Endereco": "AVENIDA HENRIQUE MOSCOSO, 1367 - LOJA 01 - CENTRO DE VILA VELHA, Vila Velha / Espírito Santo, CEP: 29.100-020",
+    "Telefone": "(27) 9847-3691/(27) 99620-8493",
+    "Email": "kaiopevidor@gmail.com / aindatemcadeira@gmail.com",
+    "Representante_Legal": "KAIO JOSE FIRMINO PEVIDOR"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "Mesa escritório, material estrutura: mdf, material tampo: mdf, revestimento: laminado melamínico, largura: 135 cm, altura: 75 cm, profundidade: 60 cm, formato: retangular",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

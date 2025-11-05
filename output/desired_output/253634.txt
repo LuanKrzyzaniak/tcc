@@ -1,2 +1,101 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253634.pdf
+{
+  "Documento": {
+    "Numero_ARP": "022/2025",
+    "Numero_Processo": "2025-323VG",
+    "Processo_Originario": "2024-4WGNZ",
+    "Pregao_Numero": "009/2025",
+    "COMPRASGOV_Numero": "90009",
+    "ID_CidadES": "2025.500E2300002.01.0002"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "POLÍCIA MILITAR DO ESTADO DO ESPÍRITO SANTO - PMES",
+    "CNPJ": "27.476.373/0001-90",
+    "UG": "",
+    "Endereco": "Avenida Maruípe, nº 2.111, Maruípe, Vitória-ES, CEP 29.047-475",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Comandante Geral Cel PM",
+        "Nome": "DOUGLAS CAUS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SERVI MIX COMERICO E SERVIÇOS LTDA",
+    "CNPJ": "27.525.362/0001-52",
+    "Endereco": "Av. Mar do Norte, 100 Praia do Morro, Guarapari/ES, CEP: 29.216-580",
+    "Telefone": "(27) 99759-7984",
+    "Email": "comercial@servimixguarapari.com.br",
+    "Representante_Legal": "Sr. Edivaldo Albani Natal"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "162",
+      "Descricao_Especificacao": "DIVISORIA MODULARES TIPO MD-1(ALTA/PAINEL/PAINEL) ESP.35MM, PAINEIS EM CHAPAS DURAPLAC, COR CINZA, MIOLO COLMEIA, ESTRUTRADA EM PERFIS DE AÇO NA COR PRETA. SIADES/CATMAT: 152709",
+      "Marca_Modelo": "EUCATEX",
+      "Codigo": "152709",
+      "Unidade_Medida": "M2",
+      "Quantidade_Registrada": "1.430",
+      "Valor_Unitario": "R$ 114,72",
+      "Valor_Total_Item": "R$ 164.049,60"
+    },
+    {
+      "Item_TR": "163",
+      "Descricao_Especificacao": "PORTA P/ DIVISORIA 80X210 CM, SEM VISOR, MIOLO CELULAR 35MM, COR CINZA, COMPLETA, ESTRUTURADA EM PERFIL DE AÇO NA COR PRETA, INCLUSIVE DOBRADIÇAS E FECHADURA TUBULAR. SIADES/CATMAT: 152710",
+      "Marca_Modelo": "EUCATEX",
+      "Codigo": "152710",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "85",
+      "Valor_Unitario": "R$ 403,01",
+      "Valor_Total_Item": "R$ 34.255,85"
+    }
+  ],
+  "Valor_Total": "R$ 697.011,85"
+}
 
+### Arquivo: `253627.pdf` (ARP nº 152/2025)
+
+```json
+{
+  "Documento": {
+    "Numero_ARP": "152/2025",
+    "Numero_Processo": "23540.000948/2025-10",
+    "Pregao_Eletronico_SRP": "90018/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA, filial da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126",
+    "Endereco": "Avenida Lourival Melo Mota, s/nº - Bairro Cidade Universitária, Maceió-AL, CEP 57072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Célio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Apolinário Beligolli Saldanha"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

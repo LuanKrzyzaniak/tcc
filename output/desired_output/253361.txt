@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253361.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CPI-1-00055/2025",
+    "Numero_Processo": "057.00273391/2025-72"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ESTADO DE SÃO PAULO, por intermédio da POLÍCIA MILITAR, COMANDO DE POLICIAMENTO DO INTERIOR UM",
+    "CNPJ": "04.198.514/0044-94",
+    "UG": "180.155",
+    "Endereco": "Av. DEPUTADO BENEDITO MATARAZZO, Nº 9931, JD. OSVALDO CRUZ, SÃO JOSÉ DOS CAMPOS/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "DIRIGENTE",
+        "Nome": "CORONEL PM LUIZ FERNANDO ALVES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RICARDO BERTOLIN COELHO",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RICARDO BERTOLIN COELHO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

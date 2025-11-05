@@ -1,2 +1,50 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253607.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 16/2025-SEJUS",
+    "Numero_Processo": "00400-00028855/2025-86",
+    "Pregao_Eletronico": "REGISTRO DE PREÇOS n° 16/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "PRO MERCADO SOLUCOES CORPORATIVAS LTDA",
+    "CNPJ": "54.710.230/0001-73",
+    "Endereco": "SCRN 714 Bloco E Loja 17, Asa Norte, Brasília/DF, CEP 70.760-650",
+    "Telefone": "(61) 99180-8774",
+    "Email": "promercadosolucoes@gmail.com",
+    "Representante_Legal": "ANDRE LUIZ MENDONCA (Proprietário)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "SERVIÇO DE SUPORTE TÉCNICO E MANUTENÇÃO DE COMPUTADORES",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "MES",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "R$ 1.250,00",
+      "Valor_Total_Item": "R$ 15.000,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "Serviço de suporte técnico e manutenção de impressoras",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "MES",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "R$ 1.500,00",
+      "Valor_Total_Item": "R$ 18.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 33.000,00"
+}

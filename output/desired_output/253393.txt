@@ -1,2 +1,22 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253393.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "2025000129",
+    "Tipo_Numero": "Termo nº",
+    "Numero_Processo": "35559/25"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Prefeitura Municipal de Salvador - PMS"
+  },
+  "Fornecedor": {
+    "Razao_Social": "DL DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "CNPJ": "31.556.536/0001-11",
+    "Endereco": "ST SPLM CONJUNTO 09, S/N - LOTE 04, BRASILIA/DF"
+  },
+  "Itens_Registrados": [
+    {
+      "Item": "1.0",
+      "Descricao_Resumida": "COLONIA FRAGRANCIA ALFAZEMA 118ML",
+      "Valor_Ofertado": "R$ 9,3000"
+    }
+  ]
+}

@@ -1,2 +1,32 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253284.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "139/2025",
+    "Numero_Processo": "23771.006527/2025-89"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO JÚLIO BANDEIRA DA UNIVERSIDADE FEDERAL DE CAMPINA GRANDE / EBSERH",
+    "CNPJ": "15.126.437/0033-20",
+    "UG": "155912",
+    "Endereco": "Avenida José Rodrigues Alves, 305 - Bairro Edmilson Cavalcante, Cajazeiras-PB, CEP 58900-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "LUIZ JARDELINO DE LARCERDA NETO"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Paulo Xavier Pamplona"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "POLYSUTURE INDÚSTRIA E COMÉRCIO LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "DOROTHEA PEREIRA MACHADO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

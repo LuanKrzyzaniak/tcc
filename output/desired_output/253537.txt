@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253537.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "194/2025",
+    "Numero_Processo": "64680.010556/2024-61",
+    "Numero_Pregao": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BRASPAR COMERCIO DE TINTAS LTDA",
+    "CNPJ": "00.112.384/0001-34",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "JOSE ANTONIO DA SILVA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

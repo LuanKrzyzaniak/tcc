@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253282.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "65475.005956/2024-42"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "BASE ADMINISTRATIVA DO COMPLEXO DE SAÚDE DO RIO DE JANEIRO",
+    "CNPJ": "37.088.373/0001-76",
+    "UG": "",
+    "Endereco": "Praça Duque de Caxias, nº 25, Centro, na cidade do Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coronel",
+        "Nome": "Alan Martins"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

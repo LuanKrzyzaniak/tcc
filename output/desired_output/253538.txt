@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253538.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "712/2025",
+    "Numero_Processo": "23080.064412/2024-14",
+    "Numero_Pregao": "90068/2025-SRP"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "41.017.289 CARLOS MAGNO DOS SANTOS",
+    "CNPJ": "41.017.289/0001-39",
+    "Endereco": "RUA FRANCISCO MARTINS DE SOUZA, 192, VILA REAL, CEP 63.044-102, Juazeiro do Norte/CE",
+    "Telefone": "(88) 21415390",
+    "Email": "",
+    "Representante_Legal": "CARLOS MAGNO DOS SANTOS"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

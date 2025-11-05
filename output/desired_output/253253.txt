@@ -1,2 +1,32 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253253.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "134/2025",
+    "Numero_Processo": "23771.006511/2025-76"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH, através da sua filial Hospital Universitário Júlio Bandeira HUJB",
+    "CNPJ": "15.126.437/0033-20",
+    "UG": "155912",
+    "Endereco": "Avenida José Rodrigues Alves, 305 Bairro: Edimilson Cavalcante, Cajazeiras PB, CEP 58.900-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "LUIZ JARDELINO DE LARCERDA NETO"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "PAULO XAVIER PAMPLONA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NEVALLI ARTIGOS MÉDICOS E ORTOPÉDICOS LTDA-EPP",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "CARMEN LUCIA ALVES LOURENÇO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

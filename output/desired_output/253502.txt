@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253502.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "293/2025-SMSA",
+    "Numero_Processo": "00000.0.005234/2025 (VOLUME 2)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR / SECRETARIA MUNICIPAL DE SAÚDE (SMSA)",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, nesta cidade [Boa Vista-RR]",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "IMPACTO PRODUTOS MÉDICOS HOSPITALARES - LTDA",
+    "CNPJ": "08.311.856./0001-90",
+    "Endereco": "Rua da Represa, n° 65, Rudge Ramos, São Bernardo do Campo/SP",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RENATA CHELI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "13",
+      "Descricao_Especificacao": "KIT PARA CPAP NASAL Nº 0. MATERIAL: SILICONE. TAMANHO: NEONATAL N°...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 156.6..."
+}

@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253460.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "181/2025",
+    "Numero_Processo": "64680.010556/2024-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel Ordenador de Despesas",
+        "Nome": "Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ATENA NEGÓCIOS E SERVIÇOS LTDA",
+    "CNPJ": "49.972.973/0001-81",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

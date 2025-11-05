@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253348.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "669/2025",
+    "Numero_Processo": "23080.064658/2024-88"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "Não encontrado",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "COMERCIAL SOL RADIANTE LTDA",
+    "CNPJ": "40.392.813/0001-99",
+    "Endereco": "RUA CEL. EMILIANO SILVA, 70 - SALA 211 - CENTRO, CEP 28.300-000, Itaperuna/RJ",
+    "Telefone": "(21) 96492269",
+    "Email": "cial.solradiante@bol.com.br, solrodri@terra.com.br",
+    "Representante_Legal": "ROBSON DOS SANTOS RODRIGUES"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0019",
+      "Descricao_Especificacao": "MICROTUBO - TIPO EPPENDORF - Especificação: MICROTUBO - TIPO",
+      "Marca_Modelo": "Não encontrado",
+      "Codigo": "Não encontrado",
+      "Unidade_Medida": "PCT",
+      "Quantidade_Registrada": "159,00",
+      "Valor_Unitario": "R$ 0,05",
+      "Valor_Total_Item": "R$ 7,95"
+    }
+  ],
+  "Valor_Total": "Não encontrado"
+}

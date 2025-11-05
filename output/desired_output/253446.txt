@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253446.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N°434/2024",
+    "Numero_Processo": "64578.013848/2024-22"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL GERAL DE CURITIBA",
+    "CNPJ": "09.579.964/0001-00",
+    "UG": "160223",
+    "Endereco": "Praça Marechal Alberto Ferreira de Abreu, s/nº, Batel, na cidade de Curitiba / PR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora/Ordenadora de Despesas",
+        "Nome": "Tenente Coronel Simone Abreu"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "L. A. DALLA PORTA JUNIOR LTDA",
+    "CNPJ": "11.145.401/0001-5",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

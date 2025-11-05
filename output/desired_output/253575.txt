@@ -1,2 +1,80 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253575.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "031/2025",
+    "Numero_Processo": "00610256.000552/2025-11",
+    "Pregao_Eletronico": "90100/25"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DA SAÚDE PÚBLICA",
+    "CNPJ": "08.241.754/0001-45",
+    "UG": "",
+    "Endereco": "Av. Marechal Deodoro da Fonseca, 730, Bairro Centro, Natal/RN, CEP 59012-240",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário de Estado da Saúde Pública",
+        "Nome": "ALEXANDRE MOTTA CÂMARA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DE PAULI",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "22",
+      "Descricao_Especificacao": "CÂNULA DE TRAQUEOSTOMIA, MATERIAL:PVC CLORETO DE POLIVINILA, TIPO USO:DESCARTÁVEL, ESTERILIDADE: ESTERIL, DIAMETRO INTERNO:4,0 MM, COMPONENTES: TUBO BALÃO BAIXA PRESSÃO, CONECTOR MONTADO, BALÃO, APLICAÇÃO: ANESTESIA",
+      "Marca_Modelo": "VITAL GOLD - YILES MEDICAL",
+      "Codigo": "255105 (CATMAT)",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "1.300",
+      "Valor_Unitario": "R$ 13,6000",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "23",
+      "Descricao_Especificacao": "CANULA DE TRAQUEOSTOMIA, MATERIAL:PVC CLORETO DE POLIVINILA, TIPO USO:DESCARTÁVEL, ESTERILIDADE: ESTÉRIL, DIAMETRO INTERNO:5 MM, COMPONENTES: TUBO BALÃO BAIXA PRESSÃO, CONECTOR MONTADO, BALÃO, APLICAÇÃO:ANESTESIA",
+      "Marca_Modelo": "VITAL GOLD - YILES MEDICAL",
+      "Codigo": "255098 (CATMAT)",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "1.300",
+      "Valor_Unitario": "R$ 14,0500",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "CÂNULA TRAQUEOSTOMIA, Nº 6, POLIVINIL FLEXÍVEL, ESTÉRIL E DESCARTÁVEL, PONTA ARREDONDADA COM OBTURADOR, BALÃO BAIXA PRESSÃO, BALÃO PILOTO COM VÁLVULA",
+      "Marca_Modelo": "VITAL GOLD - YILES MEDICAL",
+      "Codigo": "255100 (CATMAT)",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "1.300",
+      "Valor_Unitario": "R$ 13,8100",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "26",
+      "Descricao_Especificacao": "CANULA TRAQUEOSTOMIA, Nº 8, POLIVINIL FLEXÍVEL, ESTÉRIL E DESCARTÁVEL, PONTA ARREDONDADA COM OBTURADOR, BALÃO BAIXA PRESSÃO, BALÃO PILOTO COM VÁLVULA",
+      "Marca_Modelo": "VITAL GOLD - YILES MEDICAL",
+      "Codigo": "255101 (CATMAT)",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "2100",
+      "Valor_Unitario": "R$ 14,5800",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "27",
+      "Descricao_Especificacao": "CÂNULA TRAQUEOSTOMIA, Nº 9, POLIVINIL FLEXÍVEL, ESTÉRIL E DESCARTÁVEL, PONTA ARREDONDADA COM OBTURADOR, BALÃO BAIXA PRESSÃO, BALÃO PILOTO COM VÁLVULA",
+      "Marca_Modelo": "VITAL GOLD - YILES MEDICAL",
+      "Codigo": "255107 (CATMAT)",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "1100",
+      "Valor_Unitario": "R$ 14,7500",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

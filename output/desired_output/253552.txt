@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253552.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "483/2025- CPL/ALICC",
+    "Numero_Pregao_Eletronico": "134/2025-CPL/ALICC",
+    "Numero_Processo": "12500.129688/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICIPIO DE MACEIÓ por intermédio da AGÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS DE MACEIÓ ALICC",
+    "CNPJ": "26.981.455/0001-29",
+    "UG": "",
+    "Endereco": "Avenida da Paz, n.º 900, Jaraguá, Maceió/AL-57.022-050",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora Presidente",
+        "Nome": "MEIRY SOARES PORCIÚNCULA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "P GALVÃO DISTRIBUIDORA DE ALIMENTOS EIRELI - EPP",
+    "CNPJ": "14.376.716/0001-00",
+    "Endereco": "Rua Rodrigues Alves, 251, Prado, CEP: 57.010-280 - Maceió/AL",
+    "Telefone": "(82) 9 8151-5168/3432-9369",
+    "Email": "p.galvao@outlook.com",
+    "Representante_Legal": "Priscilla Souza Galvão Santana"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "Soja Carne Proteína de soja texturizada - carne extraída de grão de soja, sabor carne. O produto deverá apresentar validade mínima de 06 meses da entrega. Embalagem de 500 gr.",
+      "Marca_Modelo": "Camil",
+      "Codigo": "",
+      "Unidade_Medida": "Pct",
+      "Quantidade_Registrada": "880",
+      "Valor_Unitario": "4,70",
+      "Valor_Total_Item": "4.136,00"
+    }
+  ],
+  "Valor_Total": "R$ 4.136,00"
+}

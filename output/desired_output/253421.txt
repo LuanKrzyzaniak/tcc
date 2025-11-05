@@ -1,2 +1,99 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253421.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "43/2025",
+    "Numero_Processo": "64044.002286/2025-09"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "6º Batalhão de Engenharia de Construção",
+    "CNPJ": "07.534.932/000163",
+    "UG": "",
+    "Endereco": "Avenida Capitão Ene Garcez, 1037, Mecejana, na cidade de Boa Vista, no Estado de Roraima",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "Coronel CADSON DE SOUZA BARBOZA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MC COMÉRCIO E SERVIÇOS LTDA - ME",
+    "CNPJ": "01.653.135/0001-19",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "334",
+      "Descricao_Especificacao": "Interruptor Tipo: Bipolar Simples, Quantidade Seções: 1UN, Características Adicionais: Com Tampa, Aplicação: Instalações Elétricas, Tipo Acionamento: Botão On/Off, Acabamento: Com Placa E Parafuso, Posição Relativa: Sobrepor, Tensão Nominal: 250V, Corrente Nominal: 10A, Material: Termoplástico Auto-Extinguível, Formato: Quadrada",
+      "Marca_Modelo": "PLUZ/ Interruptor simples 1 tecla, 10A",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "870",
+      "Valor_Unitario": "R$ 4,80",
+      "Valor_Total_Item": "R$ 4.176,00"
+    },
+    {
+      "Item_TR": "335",
+      "Descricao_Especificacao": "Interruptor Tipo: Paralelo, Quantidade Alavancas: 1UN, Características Adicionais: Conjugado Com Espelho, Cor: Branca, Dimensões: 4 X 2POL, Tensão Nominal: 250V, Corrente Nominal: 10A, Material: Termoplástico",
+      "Marca_Modelo": "PLUZ/ Interruptor simples 1 tecla paralelo, 10A",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "870",
+      "Valor_Unitario": "R$ 6,20",
+      "Valor_Total_Item": "R$ 5.394,00"
+    },
+    {
+      "Item_TR": "336",
+      "Descricao_Especificacao": "Interruptor Tipo: Paralelo, Características Adicionais: Espelho, Posição Relativa: Embutir, Tensão Nominal: 250V, Corrente Nominal: 10A, Material: Termoplástico Auto-Extinguível, Modelo: Linha Silentoque (Pial Legrand)",
+      "Marca_Modelo": "PLUZ/ Interruptor simples 2 teclas, 10A",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "870",
+      "Valor_Unitario": "R$ 8,90",
+      "Valor_Total_Item": "R$ 7.743,00"
+    },
+    {
+      "Item_TR": "337",
+      "Descricao_Especificacao": "Interruptor Tipo: Paralelo, Características Adicionais: Espelho, Posição Relativa: Embutir, Tensão Nominal: 250 V, Corrente Nominal: 10 A, Material: Termoplástico",
+      "Marca_Modelo": "PLUZ/ Interruptor simples 2 teclas paralelo, 10A",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "810",
+      "Valor_Unitario": "R$ 15,20",
+      "Valor_Total_Item": "R$ 12.354,00"
+    },
+    {
+      "Item_TR": "338",
+      "Descricao_Especificacao": "Quadro Distribuição cor: branca Auto-Extinguível, Modelo: Linha Silentoque (Pial Legrand)",
+      "Marca_Modelo": "FAME/ Trifásico, Disjuntores 18/24, sobrepor",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "42",
+      "Valor_Unitario": "R$ 275,30",
+      "Valor_Total_Item": "R$ 11.562,60"
+    },
+    {
+      "Item_TR": "339",
+      "Descricao_Especificacao": "Quadro Distribuição cor: branca...",
+      "Marca_Modelo": "FAME/ Disjuntores 18/24, sobrepoг",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "42",
+      "Valor_Unitario": "R$ 353,00",
+      "Valor_Total_Item": "R$ 14.826,00"
+    },
+    {
+      "Item_TR": "340",
+      "Descricao_Especificacao": "Quadro Distribuição Cor: Branca, Aplicação: Instalação Elétrica, Material: Pvc, Acessórios: Com Barramento Com Porta Transparente, Quantidade De Disjuntores: 18/24 Disjuntores Dyn, Fixação: Sobrepor",
+      "Marca_Modelo": "FAME/ Disjuntores 18/24 sobrepor",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "42",
+      "Valor_Unitario": "R$ 375,08",
+      "Valor_Total_Item": "R$ 15.753,36"
+    }
+  ],
+  "Valor_Total": ""
+}

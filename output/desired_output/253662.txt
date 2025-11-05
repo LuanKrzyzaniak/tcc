@@ -1,2 +1,44 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253662.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "021/2025",
+    "Numero_Processo": "2025-N65F6",
+    "Processo_Originario": "2024-4WGNZ",
+    "Modalidade_Licitacao": "Pregão nº 009/2025",
+    "Objeto": "registro de preços para a eventual contratação de empresa para o fornecimento de MATERIAIS DE CONSTRUÇÃO E ELÉTRICOS"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "POLÍCIA MILITAR DO ESTADO DO ESPÍRITO SANTO - PMES",
+    "CNPJ": "27.476.373/0001-90",
+    "UG": "",
+    "Endereco": "Avenida Maruípe, nº 2.111, Maruípe, Vitória ES, CEP 29.047-475",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Comandante Geral Cel PM",
+        "Nome": "DOUGLAS CAUS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SERVI MIX COMERICO E SERVIÇOS LTDA",
+    "CNPJ": "27.525.362/0001-52",
+    "Endereco": "Av. Mar do Norte, 100 - Praia do Morro, Guarapari/ES, CEP: 29.216-580",
+    "Telefone": "(27) 99759-7984",
+    "Email": "comercial@servimixguarapari.com.br",
+    "Representante_Legal": "Edivaldo Albani Natal"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "130/4",
+      "Descricao_Especificacao": "TELHA METALICA ONDULADA ACO GALVALUME ESP 0.5MM PRE PINTADA 1 FACE COR RAL 9003 (BRANCA). MADEIRA DE LEI PARA TELHADO COLONIAL/TELHA FRANCESA",
+      "Marca_Modelo": "PERFILADOS RIO DOCE",
+      "Codigo": "257616 (SIADES)",
+      "Unidade_Medida": "M2",
+      "Quantidade_Registrada": "1300",
+      "Quantidade_Maxima_PMES": "1000",
+      "Valor_Unitario": "R$ 38,45",
+      "Valor_Total_Item": "R$ 38.450,00",
+      "Valor_Total_Global_Item": "R$ 49.985,00"
+    }
+  ],
+  "Valor_Total": ""
+}

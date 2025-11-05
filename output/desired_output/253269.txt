@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253269.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 194/2025",
+    "Numero_Processo": "143.00008721/2025-54"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº - Rubião Júnior, CEP 18.618-687, na cidade de Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Departamento de Logística de Atendimento",
+        "Nome": "Enf. Karen Aline Batista da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DIMACI MATERIAL MEDICO HOSPITALAR LTDA",
+    "CNPJ": "43.388.441/0001-15",
+    "Representante_Legal": "KEITY REGINA DE CARVALHO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "08",
+      "Descricao_Especificacao": "COMPRESSA: Campo Cirúrgico estéril de não-tecido 100% polipropileno, impermeável, gramatura mínima 50g/m², cor azul, tamanho 70x70cm com 2 fitas adesivas",
+      "Marca_Modelo": "CRALPLAST / CRAL ARTIGOS PARA LABORATÓRIO LTDA",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 1,9960",
+      "Valor_Total_Item": "R$ 1.996,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.996,00"
+}

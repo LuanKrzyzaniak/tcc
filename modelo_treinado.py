@@ -1,39 +1,49 @@
-import json
+import os
 import torch
+import pipeline as pipe
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
-jsonl_path = "output/dataset/253233.jsonl"
-MODEL_DIR = "output/t5_finetuned/checkpoint-1110" # Novo caminho para o modelo ajustado
+PROMPT = """Extraia as informações relevantes desta Ata de Registro de Preços (ARP) e as estruture estritamente no formato JSON. 
+As informações relevantes podem ser o número da ata, número do processo, data de emissão, identificação do fornecedor ou uma lista de múltiplos
+produtos com seus preços, descrições e quantias e valor total.
+Garanta que todos os campos vazios sejam preenchidos com os dados correspondentes encontrados no texto de entrada. 
+O campo "Itens_Registrados" é uma lista JSON e pode conter um ou mais itens.
+Para campos que se referem a quantidades, valores e percentuais, utilize o formato exato encontrado no documento.
+Retorne somente o esquema JSON.
+"""
+
+MODEL_DIR = "output/t5_finetuned/checkpoint-1107"
+
 
 def main():
-    # Carregando tokenizer e modelo
+    # Carregar modelo
     tokenizer = T5Tokenizer.from_pretrained(MODEL_DIR)
     model = T5ForConditionalGeneration.from_pretrained(MODEL_DIR).to("cuda")
 
-    # Lendo arquivo
-    with open(jsonl_path, "r", encoding="utf-8") as f:
-        linhas = f.readlines()
+    # Carregar PDFs
+    folder = "input/teste"
+    pdf_files = [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith(".pdf")]
 
-    # Vamos pegar a primeira linha só como teste
-    primeira_linha = json.loads(linhas[0])
-    entrada = primeira_linha["input"]
+    # Tratar textos
+    pdf_textos = pipe.tratar_arquivos(pdf_files)
 
-    # Tokenizando
-    inputs = tokenizer(entrada, return_tensors="pt", truncation=True, max_length=1024).to("cuda")
+    # Rodar inferência em cada arquivo
+    for pdf, texto in pdf_textos.items():
+        entrada = f"{PROMPT}\n\nDocumento:\n{texto}"
+        inputs = tokenizer(entrada, return_tensors="pt", truncation=True, max_length=1024).to("cuda")
 
-    # Gerando saída
-    outputs = model.generate(
-        **inputs,
-        max_length=512,
-        num_beams=4,
-        early_stopping=True
-    )
+        outputs = model.generate(
+            **inputs,
+            max_length=512,
+            num_beams=4,
+            early_stopping=True
+        )
 
-    # Decodificando
-    resultado = tokenizer.decode(outputs[0], skip_special_tokens=True)
+        resultado = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
-    print("\nResultado gerado pelo T5:\n")
-    print(resultado)
+        print(f"\n=== RESULTADO: {os.path.basename(pdf)} ===\n")
+        print(resultado)
+        print("\n-------------------------------------------\n")
 
 if __name__ == "__main__":
     main()

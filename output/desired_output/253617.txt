@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253617.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00292/2025",
+    "Numero_Processo": "23523.001135/2025-55"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Hospital Universitário da Universidade Federal do Maranhão - HU-UFMA",
+    "CNPJ": "15.126.437/0004-96",
+    "UG": "155010",
+    "Endereco": "Rua Barão de Itapary, 227 Centro  São Luís (MA)  CEP 65.020-070",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Joyce Santos Lages"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Eurico Santos Neto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MSI COMERCIO DE MATERIAIS E EQUIPAMENTOS HOSPITALARES LTDA",
+    "CNPJ": "29.544.048/0001-42",
+    "Endereco": "",
+    "Telefone": "(98) 3246-7002",
+    "Email": "licitacao@msihospitalar.com",
+    "Representante_Legal": "MARCO ANTÔNIO ALMEIDA SANTOS (sócio Administrador)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "PAPEL TERMOSENSÍVEL, bobina de papel, Largura: 58mm x Comprimento: 15m. Aplicação: Compatível com cardioversor marca Instramed. Tombamento: ID: 179476 Série: 032021CM1709. - Menor preço",
+      "Marca_Modelo": "RF MEDPRINT",
+      "Codigo": "3128811478 (Legado) / 438058 (CATMAT)",
+      "Unidade_Medida": "BOB",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 8,58",
+      "Valor_Total_Item": "R$ 2.574,00"
+    }
+  ],
+  "Valor_Total": "R$ 2.574,00"
+}

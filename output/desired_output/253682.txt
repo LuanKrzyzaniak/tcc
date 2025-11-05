@@ -1,2 +1,44 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253682.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "546/2025",
+    "Numero_Processo": "23818.009397/2025-52",
+    "Pregao_Eletronico": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares (Ebserh), unidade HOSPITAL UNIVERSITÁRIO ANTÔNIO PEDRO (HUAP-UFF)",
+    "CNPJ": "15.126.437/00036-73",
+    "UG": "155915",
+    "Endereco": "Rua Marquês do Paraná, nº 303, Centro, Niterói, Rio de Janeiro, CEP 24033-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "BENI OLEJ"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "PAULO ROBERTO DE ARAÚJO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "THIAGO ACCIOLY MARINHO",
+    "CNPJ": "54.132.859",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Thiago Accioly Marinho"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "mantas sem termo selagem, uma externa com característica hidrofóbica e uma...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

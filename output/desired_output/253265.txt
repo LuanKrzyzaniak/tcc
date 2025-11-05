@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253265.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 109/2025",
+    "Numero_Processo": "23214.001343/2025-48"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MINAS GERAIS, por intermédio do SÃO JOÃO EVANGELISTA",
+    "CNPJ": "10.626.896/0006-87",
+    "Endereco": "Avenida Primeiro de Junho, nº 1043, Bairro Centro, em São João Evangelista, Estado de Minas Gerais, CEP nº 39705-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Flávio Rocha Puff"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "VIVAX COMERCIO DE FERRAMENTAS EIRELI",
+    "CNPJ": "30.638.196/0001-71",
+    "Endereco": "RUA ALCINDO VIEIRA, 187 - CENTRO - NOVA SERRANA/MG",
+    "Representante_Legal": "VICTOR HUGO DE CARVALHO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DE ELEVADOR.",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2,00",
+      "Valor_Unitario": "R$ 549,60",
+      "Valor_Total_Item": "R$ 1.099,20"
+    }
+  ],
+  "Valor_Total": "R$ 1.099,20"
+}

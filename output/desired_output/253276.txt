@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253276.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 12/2025",
+    "Numero_Processo": "64447.026162/2024-97"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Obtenções do Exército (COEX)",
+    "CNPJ": "00.394.452/0250-09",
+    "UG": "",
+    "Endereco": "QGEx, Bloco \"F\", 1 Piso, SMU, na cidade de Brasília-DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel, Chefe da Divisão de Aquisições, Licitações e Contratos",
+        "Nome": "FABIO CRUZ AJALA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BRINK MOBIL EQUIPAMENTOS EDUCACIONAIS LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Valdemar Abila"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,37 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253341.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CIAF 017/610/25",
+    "Numero_Processo": "20250797808"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Polícia Militar do Estado de São Paulo, por intermédio do Centro Integrado de Apoio Financeiro CIAF",
+    "CNPJ": "04.198.514/0134-85",
+    "Endereco": "Avenida Cruzeiro do Sul, n° 260, 4° andar, bairro Canindé, CEP: 03033-020, na cidade de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel Dirigente",
+        "Nome": "Wellyngton Marcos de Ataide da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "JORGE ANTUNES PAZOS",
+    "CNPJ": "52.210.078/0001-34",
+    "Endereco": "Av Gustavo Adolfo, n° 1394 Vila Gustavo São Paulo SP",
+    "Telefone": "(11) 95399-6817",
+    "Representante_Legal": "Jorge Antunes Pazos"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "06",
+      "Descricao_Especificacao": "Esponja de Limpeza Dupla Face",
+      "Marca_Modelo": "Limpuss",
+      "Codigo_CATMAT": "450423",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 0,86",
+      "Valor_Total_Item": "R$ 172,00"
+    }
+  ],
+  "Valor_Total": "R$ 172,00"
+}

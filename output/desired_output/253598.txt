@@ -1,2 +1,30 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253598.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "413/2025",
+    "Numero_Processo": "23066.041951/2025-36",
+    "Modalidade_Licitacao": "Pregão Eletrônico para REGISTRO DE PREÇOS nº 90082/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DA BAHIA, através do COMPLEXO HOSPITALAR E DE SAÚDE/UFBA",
+    "CNPJ": "15.180.714/0005-20",
+    "UG": "",
+    "Endereco": "Rua Barão de Jeremoabo, PAF IV, 1 andar, Ondina, CEP 40170-115, Ondina, Salvador -Ba",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador(a) de Despesa Substituto(a)",
+        "Nome": "DEBORAH LANDULFO MEDRADO DE VINHAES TORRES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Objeto": "Registro de preços para a eventual contratação de REAGENTES COM COMODATO",
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

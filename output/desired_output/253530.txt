@@ -1,2 +1,101 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253530.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "709/2025",
+    "Numero_Processo": "23080.064412/2024-14",
+    "Pregao_Eletronico": "90068/2025-SRP",
+    "Objeto": "REGISTRO DE PREÇOS (Filme Radiográfico Odontológico)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA (UFSC)",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RBB LICITACOES E SERVICOS LTDA",
+    "CNPJ": "51.290.459/0001-08",
+    "Endereco": "RUA SARA KUBITSCHEK, 152 APT 201 DARCY VARGAS, CEP 32.3",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 2 X 3 CM. CÓDIGO: 300961-4",
+      "Marca_Modelo": "-",
+      "Codigo": "300961-4",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "4.000",
+      "Valor_Unitario": "R$ 11,50",
+      "Valor_Total_Item": "R$ 46.000,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 3 X 4 CM. CÓDIGO: 300962-2",
+      "Marca_Modelo": "-",
+      "Codigo": "300962-2",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "4.000",
+      "Valor_Unitario": "R$ 13,00",
+      "Valor_Total_Item": "R$ 52.000,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 5 X 7 CM (Oclusal). CÓDIGO: 300963-0",
+      "Marca_Modelo": "-",
+      "Codigo": "300963-0",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "1.200",
+      "Valor_Unitario": "R$ 17,90",
+      "Valor_Total_Item": "R$ 21.480,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 6 X 8 CM. CÓDIGO: 300964-9",
+      "Marca_Modelo": "-",
+      "Codigo": "300964-9",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "2.500",
+      "Valor_Unitario": "R$ 18,90",
+      "Valor_Total_Item": "R$ 47.250,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 7,6 X 12,7 CM. CÓDIGO: 300965-7",
+      "Marca_Modelo": "-",
+      "Codigo": "300965-7",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "3.500",
+      "Valor_Unitario": "R$ 22,00",
+      "Valor_Total_Item": "R$ 77.000,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 18 X 24 CM. CÓDIGO: 300966-5",
+      "Marca_Modelo": "-",
+      "Codigo": "300966-5",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "1.200",
+      "Valor_Unitario": "R$ 27,90",
+      "Valor_Total_Item": "R$ 33.480,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 24 X 30 CM. CÓDIGO: 300967-3",
+      "Marca_Modelo": "-",
+      "Codigo": "300967-3",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "1.800",
+      "Valor_Unitario": "R$ 35,90",
+      "Valor_Total_Item": "R$ 64.620,00"
+    }
+  ],
+  "Valor_Total": "R$ 341.830,00"
+}

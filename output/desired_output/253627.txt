@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253627.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "152/2025",
+    "Numero_Processo": "23540.000948/2025-10"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA, filial da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126",
+    "Endereco": "Avenida Lourival Melo Mota - S/N - Cidade Universitária - Maceió - Alagoas, CEP 57.072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Célio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NOEM MEDICAL IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICOS-HOSPITALARES LTDA",
+    "CNPJ": "32.737.279/0001-87",
+    "Endereco": "Avenida Professor Augusto de Oliveira, 91 - Vila Marina - São Carlos/SP - CEP 13.566-340",
+    "Telefone": "(16) 9 8230-3384",
+    "Email": "noem@noemmedical.com.br/empenho@noemmedical.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "32",
+      "Descricao_Especificacao": "ESPONJA LIMPEZA ESPUMA POLIPROPILENO FLEXÍVEL P/ ENDOSCÓPIO. ESPONJA PARA LIMPEZA EXTERNA DE ENDOSCÓPIO, IMPREGNADA COM DETERGENTE ENZIMÁTICO (4 ENZIMAS), ACOPLADA A HASTE FLEXÍVEL, PH NEUTRO, TENSOATIVO NÃO IÔNICO, TAMANHO 3 MM X 60 CM. EMBALAGEM INDIVIDUAL. EMBALAGEM SEGURA COM IDENTIFICAÇÃO DO PRODUTO VALIDADE E LOTE. REGISTRO DA ANVISA.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 39,37",
+      "Valor_Total_Item": "R$ 5.905,50"
+    }
+  ],
+  "Valor_Total": "R$ 5.905,50"
+}

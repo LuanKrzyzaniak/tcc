@@ -1,2 +1,17 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253302.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00503/2025",
+    "Numero_Processo": "67511.000622/2025-13"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Academia da Força Aérea",
+    "CNPJ": "00.394.429/0002-91",
+    "Endereco": "Estrada de Aguaí, s/nº, Campo Fontenelle, Pirassununga - SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Maj Int - Ordenador de Despesas Delegado da Academia da Força Aérea",
+        "Nome": "Evandro de Farias Rodrigues"
+      }
+    ]
+  }
+}

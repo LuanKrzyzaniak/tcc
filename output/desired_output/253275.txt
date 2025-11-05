@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253275.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° CPCHQ/025/16/25",
+    "Numero_Processo": "057.00517896/2024-73"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "POLÍCIA MILITAR DO ESTADO DE SÃO PAULO, por intermédio do COMANDO DE POLICIAMENTO DE CHOQUE",
+    "CNPJ": "04.198.514-0021/06",
+    "UG": "180168 COMANDO DE POLICIAMENTO DE CHOQUE",
+    "Endereco": "RUA DR. JORGE MIRANDA, 789 LUZ, SÃO PAULO/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coronel de Policia Militar",
+        "Nome": "VALMOR SARAIVA RACORTI"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "GABRIEL SANCHEZ PECORARO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

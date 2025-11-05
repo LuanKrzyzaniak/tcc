@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253535.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "711/2025",
+    "Numero_Processo": "23080.064412/2024-14",
+    "Numero_Pregao": "90068/2025-SRP"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "TI COMPONENTES ELETRONICOS LTDA",
+    "CNPJ": "39.678.810/0001-37",
+    "Endereco": "RUA DO TRIUNFO, 58- ANDAR 2 CONJ 2 - SANTA EFIGENIA, CEP 01.212-010, São Paulo/SP",
+    "Telefone": "(11) 33621856",
+    "Email": "ti.eletronicos@outlook.com",
+    "Representante_Legal": "FRANCISCO DE ASSIS MALFATTI"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

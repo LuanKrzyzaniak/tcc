@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253439.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 615/2.025",
+    "Numero_Processo": "58.978/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BAURU",
+    "CNPJ": "46.137.410/0001-80",
+    "UG": "",
+    "Endereco": "Praça das Cerejeiras, 1-59, nesta cidade de Bauru/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal da Saúde",
+        "Nome": "MARCIO CIDADE GOMES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RELOJOARIA NOSSA SENHORA DAS GRAÇAS LTDA",
+    "CNPJ": "32.274.508/0001-74",
+    "Endereco": "Rua Gal Neslon de Melo, 145, São Geraldo RJ, CEP: 27253-560",
+    "Telefone": "(24) 3343-2275/ (24) 99941-5452",
+    "Email": "marilaine@relocard.com.br / marilainefagundes1@hotmail.com",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Display em Acrílico Identificador de Leito:...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

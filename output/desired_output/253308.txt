@@ -1,2 +1,17 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253308.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CIAF 014/610/25",
+    "Numero_Processo": "20250797808"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Polícia Militar do Estado de São Paulo, por intermédio do Centro Integrado de Apoio Financeiro CIAF",
+    "CNPJ": "04.198.514/0134-85",
+    "Endereco": "Avenida Cruzeiro do Sul, n° 260, 4° andar, bairro Canindé, CEP: 03033-020, na cidade de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Tenente Coronel Dirigente",
+        "Nome": "Wellyngton Marcos de Ataide da Silva"
+      }
+    ]
+  }
+}

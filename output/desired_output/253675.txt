@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253675.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "09/2025",
+    "Numero_Processo": "71000.001609/2025-19",
+    "Pregao_Eletronico_SRP": "90004/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS",
+    "CNPJ": "05.756.246/0004-54",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Subsecretária de Assuntos Administrativos",
+        "Nome": "Ariane Sidia Benigno Silva Felipe"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253541.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "713/2025",
+    "Numero_Processo": "23080.064412/2024-14",
+    "Numero_Pregao": "90068/2025-SRP"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "55.593.835 NATALIA DE FATIMA SIQUEIRA MELO",
+    "CNPJ": "55.593.835/0001-94",
+    "Endereco": "10A RUA RUA PEDRO CLEMENTE FERNANDES, 869 CASA 3 D'AJUDA, CEP 08.900-000, Guararema/SP",
+    "Telefone": "(11) 46933797",
+    "Email": "nataliaftmsiqueira@gmail.com, nataliasiqueira_gma@hotmail.com, comercialnataliasiqueira@gmail.com",
+    "Representante_Legal": "NATALIA DE FATIMA SIQUEIRA MELO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0030",
+      "Descricao_Especificacao": "MÓDULO ELETRÔNICO. Especificação: Módulo Nodemcu Base Expansor para Nodemcu V3.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 9,8000",
+      "Valor_Total_Item": "R$ 980,0000"
+    }
+  ],
+  "Valor_Total": ""
+}

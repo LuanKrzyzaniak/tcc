@@ -1,2 +1,45 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253320.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "1188/2025",
+    "Numero_Processo": "64582.006340/2025-90"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE PORTO ALEGRE",
+    "CNPJ": "10.360.293/0001-71 e/ou 10.360.293/0002-52",
+    "Endereco": "Avenida Mariland, nº 450 - Bairro São João, na cidade de Porto Alegre/RS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "TEN CEL PEDRO LEOPOLDO ROUQUAYROL"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RCC - DISTRIBUIDORA DE MEDICAMENTOS, CORRELATOS E PRODUTOS MEDICOS E HOSPITALARES",
+    "CNPJ": "00.358.519/0001-46",
+    "Representante_Legal": "Regina Celia da Cunha"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "Bupropiona cloridrato, dosagem 150mg",
+      "Marca_Modelo": "EUROFARMA",
+      "Codigo": "BUP 150MG",
+      "Unidade_Medida": "COMP RIMID",
+      "Quantidade_Registrada": "1080",
+      "Valor_Unitario": "R$ 0,30",
+      "Valor_Total_Item": "R$ 324,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "Bu...",
+      "Marca_Modelo": "EUROFARMA",
+      "Codigo": "BUP 150MG",
+      "Unidade_Medida": "COMP RIMID",
+      "Quantidade_Registrada": "1080",
+      "Valor_Unitario": "R$ 0,30",
+      "Valor_Total_Item": "R$ 324,00"
+    }
+  ],
+  "Valor_Total": "R$ 2.459.782,10"
+}

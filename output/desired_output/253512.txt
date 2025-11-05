@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253512.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "1257/2025",
+    "Numero_Processo": "04105.0000001553/2024",
+    "Pregao_Eletronico": "93.264/2024",
+    "Vigencia": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Agência de Modernização da Gestão de Processos - AMGESP",
+    "CNPJ": "07.424.905/0001-38",
+    "UG": "925998",
+    "Endereco": "Avenida Walter Ananias, n.º 35A - Jaraguá, CEP: 57025-510- Maceió/AL",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Presidente",
+        "Nome": "Amilton Barbosa Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MARIA CECILIA PATRICIA BRAGA BRAILE VERDI",
+    "CNPJ": "03.348.773/857",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "MARIA CECILIA PATRICIA BRAGA BRAILE VERDI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "AQUISIÇÃO DE MATERIAL DE EXPEDIENTE",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": "R$ 11.230,00"
+    }
+  ],
+  "Valor_Total": "R$ 11.230,00"
+}

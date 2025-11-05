@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253576.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "103/2025",
+    "Numero_Processo": "23209.003425/2025-04",
+    "Pregao_Eletronico": "90051/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MINAS GERAIS - CAMPUS BAMBUÍ",
+    "CNPJ": "10.626.896/0003-34",
+    "UG": "",
+    "Endereco": "Fazenda Varginha, s/n - Rodovia Bambuí/Medeiros, km 05, Zona Rural, Bambuí/MG",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor Geral",
+        "Nome": "Humberto Garcia de Carvalho"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "OTAVIO FELIPE ALVES PASSOS",
+    "CNPJ": "51.662.031/0001-49",
+    "Endereco": "RUA ANTONIO DE LUCCA, 1380 CASA 7 - JARDIM DO SOL- Caraguatatuba / São Paulo",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "OTAVIO FELIPE ALVES PASSOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "Trado tipo Sonda Amostradora de 40cm. Os trados tipo Sonda...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

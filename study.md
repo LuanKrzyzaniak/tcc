@@ -22,27 +22,22 @@ Informações acadêmicas
 #### Prompt
 
 ''' 
-Extraia o conteúdo da Ata de Registro de Preços (ARP) e estruture-o estritamente no formato JSON fornecido abaixo. Garanta que todos os campos vazios sejam preenchidos com os dados correspondentes encontrados no texto de entrada. Para campos que se referem a quantidades, valores e percentuais, utilize o formato exato encontrado no documento.
+Extraia o conteúdo das Atas de Registro de Preços (ARP) fornecidos nesse único prompt e estruture-o estritamente no formato JSON fornecido abaixo. Garanta que todos os campos vazios sejam preenchidos com os dados correspondentes encontrados no texto de entrada. Para campos que se referem a quantidades, valores e percentuais, utilize o formato exato encontrado no documento. Use o esquema baixo como exemplo, e adicione novos campos se encontrar. Retorne um JSON para cada arquivo e não insira cites. Campos com valores não encontrados devem estar vazios. Respeite o formato monetário do real nos campos monetários. Atenção especial  aos itens registrados.
+
 {
   "Documento": {
     "Numero_ARP": "",
     "Numero_Processo": "",
   },
-  "Orgao_Gerenciador": {
+  "Orgao_Gerenciador": 
     "Razao_Social": "",
     "CNPJ": "",
     "UG": "",
     "Endereco": "",
     "Representantes_Legais": [
       {
-        "Cargo": "Superintendente",
-        "Nome": "",
-        "Matricula": ""
-      },
-      {
-        "Cargo": "Gerente Administrativo",
-        "Nome": "",
-        "Matricula": ""
+        "Cargo": "",
+        "Nome": ""
       }
     ]
   },
@@ -53,12 +48,6 @@ Extraia o conteúdo da Ata de Registro de Preços (ARP) e estruture-o estritamen
     "Telefone": "",
     "Email": "",
     "Representante_Legal": ""
-  },
-  "Objeto_e_Vigencia": {
-    "Descricao_Objeto": "",
-    "Instrumento_Convocatorio": "",
-    "Validade_ARP": "",
-    "Prorrogavel": ""
   },
   "Itens_Registrados": [
     {
@@ -71,17 +60,7 @@ Extraia o conteúdo da Ata de Registro de Preços (ARP) e estruture-o estritamen
       "Valor_Unitario": "",
       "Valor_Total_Item": ""
     }
-  ],
-  "Valores_Globais": {
-    "Valor_Total_Global_Itens_Registrados": "",
-    "Valor_Por_Extenso": ""
-  },
-  "Regras_Adesao": {
-    "Adesao_Admitida": "",
-    "Itens_Excluidos_Adesao": [],
-    "Limite_Adicional_Nao_Participante_Percentual": "",
-    "Limite_Adicional_Total_Quantitativo_Multiplicador": ""
-  },
-  "Foro": ""
+  ]
+  "Valor_Total": ""
 }
 '''

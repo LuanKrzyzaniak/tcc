@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253251.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00273/2025",
+    "Numero_Processo": "67222.022522/2024-12",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica, para REGISTRO DE PREÇOS n° 90026/2025 2H"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "BASE AÉREA DE NATAL",
+    "CNPJ": "00.394.429/0185-81",
+    "Endereco": "RUA DO ESPECIALISTA S/Nº PARNAMIRIM-RN",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Cel Int",
+        "Nome": "SILVIA NATÁLIA SOARES MENEZES DA SILVA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ARGON ASSESSORIA COMERCIO E DISTRIBUICAO LTDA",
+    "CNPJ": "47.208.443/0001-36"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0066",
+      "Descricao_Especificacao": "Frigobar, Capacidade: 120 L, Altura: 87 Cm, Largura: 49 Cm, Profundidade: 54 Cm, Tensão Alimentação: 220 V, Cor: Branca, Características Adicionais: Com Condensador Embutido, Com Compartimento Para Copo",
+      "Marca_Modelo": "Marca: MIDEA / Fabricante: MIDEA / Modelo/Versão: NÃO SE APLICA",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "11.00",
+      "Valor_Unitario": "R$ 1.167,3600",
+      "Valor_Total_Item": "R$ 12.840,9600"
+    }
+  ],
+  "Valor_Total": "R$ 12.840,9600"
+}

@@ -1,2 +1,134 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253705.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "54.506.729",
+    "Numero_Processo": "161.00328324/2024-05",
+    "Codigo_Unico": "20250151521"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "FUNDAÇÃO CENTRO DE ATENDIMENTO SOCIOEDUCATIVO AO ADOLESCENTE - FUNDAÇÃO CASA",
+    "CNPJ": "44.480.283/0001-91",
+    "UG": "",
+    "Endereco": "Rua Florêncio de Abreu, n.º 848 CEP 01030-001, Bairro Luz, na cidade de São Paulo - Capital",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "Ana Claudia Carletto"
+      },
+      {
+        "Cargo": "Diretor Administrativo",
+        "Nome": "Magda de Oliveira Vieira"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "PAULO ROBERTO MOISES BAHU GUERRA",
+    "CNPJ": "34.288.583/0001-05",
+    "Endereco": "Rua Capitão Faustino de Almeida, n. 147 - Jardim Paulista, JUNDIAI/SP, CEP: 13.208-160",
+    "Telefone": "11 96913-9118",
+    "Email": "licitacao@bahuguerra.com.br",
+    "Representante_Legal": "PAULO ROBERTO MOISES BAHU GUERRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "23",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 2,5 mm, preto, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711311",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "24.000,00",
+      "Valor_Unitario": "R$ 1,02",
+      "Valor_Total_Item": "R$ 24.480,00"
+    },
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 4,0 mm, preto, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711411",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "8.000,00",
+      "Valor_Unitario": "R$ 1,48",
+      "Valor_Total_Item": "R$ 11.840,00"
+    },
+    {
+      "Item_TR": "25",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 6,0 mm, preto, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711511",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 2,13",
+      "Valor_Total_Item": "R$ 12.780,00"
+    },
+    {
+      "Item_TR": "26",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 10,0 mm, preto, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711611",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "2.000,00",
+      "Valor_Unitario": "R$ 3,74",
+      "Valor_Total_Item": "R$ 7.480,00"
+    },
+    {
+      "Item_TR": "27",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 2,5 mm, azul, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711321",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "24.000,00",
+      "Valor_Unitario": "R$ 1,02",
+      "Valor_Total_Item": "R$ 24.480,00"
+    },
+    {
+      "Item_TR": "28",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 4,0 mm, azul, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711421",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "8.000,00",
+      "Valor_Unitario": "R$ 1,48",
+      "Valor_Total_Item": "R$ 11.840,00"
+    },
+    {
+      "Item_TR": "29",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 6,0 mm, azul, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711521",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "6.000,00",
+      "Valor_Unitario": "R$ 2,13",
+      "Valor_Total_Item": "R$ 12.780,00"
+    },
+    {
+      "Item_TR": "30",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 10,0 mm, azul, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711621",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "2.000,00",
+      "Valor_Unitario": "R$ 3,74",
+      "Valor_Total_Item": "R$ 7.480,00"
+    },
+    {
+      "Item_TR": "31",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 2,5 mm, verde, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711331",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "24.000,00",
+      "Valor_Unitario": "R$ 1,02",
+      "Valor_Total_Item": "R$ 24.480,00"
+    },
+    {
+      "Item_TR": "32",
+      "Descricao_Especificacao": "Cabos flexíveis, 1 x 4,0 mm, verde, 750 V",
+      "Marca_Modelo": "COBRECOM/MEGATRON/SIL",
+      "Codigo": "04711431",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "8.000,00",
+      "Valor_Unitario": "R$ 1,48",
+      "Valor_Total_Item": "R$ 11.840,00"
+    }
+  ],
+  "Valor_Total": ""
+}

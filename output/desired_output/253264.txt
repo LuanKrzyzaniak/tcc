@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253264.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00237/2025",
+    "Numero_Processo": "67106.000928/2024-62",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica, para REGISTRO DE PREÇOS nº 90073/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CENTRO DE AQUISIÇÕES ESPECÍFICAS",
+    "CNPJ": "00.394.429/0174-29",
+    "Endereco": "ESTRADA DO GALEAO, 3300 RIO DE JANEIRO-RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Não especificado (Representante Legal)",
+        "Nome": "MARCO HAROLDO AKIO ODAM Cel Int"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NUTRITIVA PRODUTOS NUTRICIONAIS LTDA",
+    "CNPJ": "11.355.420/0001-07",
+    "Endereco": "RUA DR. MARIO VIANA, Nº 630 - SANTA ROSA - NITERÓI/RJ - CEP: 24.241-000",
+    "Representante_Legal": "THAIS DE OLIVEIRA RODRIGUES"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "FÓRMULA ENTERAL LÍQUIDA, HIPERCALÓRICA, NORMO OU HIPERPROTÉICA",
+      "Marca_Modelo": "MODELO: FORTICAL / FABRICANTE: FRESENIUS KABI BRASIL LTDA",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.800",
+      "Valor_Unitario": "R$ 38,11",
+      "Valor_Total_Item": "R$ 68.610,00"
+    }
+  ],
+  "Valor_Total": "R$ 68.610,00"
+}

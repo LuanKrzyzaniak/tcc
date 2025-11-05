@@ -1,2 +1,46 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253730.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "161.00328324/2024-05",
+    "Codigo_Unico": "n° 20250151521"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "FUNDAÇÃO CENTRO DE ATENDIMENTO SOCIOEDUCATIVO AO ADOLESCENTE - FUNDAÇÃO CASA",
+    "CNPJ": "44.480.283/0001-91",
+    "UG": "",
+    "Endereco": "Rua Florêncio de Abreu, n.º 848 CEP 01030-001, Bairro Luz, na cidade de São Paulo - Capital",
+    "Telefone": "",
+    "Email": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "Ana Claudia Carletto"
+      },
+      {
+        "Cargo": "Diretor Administrativo",
+        "Nome": "Magda de Oliveira Vieira"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CROSS BIDS LICITAÇÕES E COMÉRCIO LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Cabo elétrico; de cobre eletrolítico, 50mm2; têmpera mole; seção termoplástico polio...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade de Fornecimento",
+      "Quantidade_Registrada": "Quantitativo estimado total",
+      "Valor_Unitario": "Valor unitário (R$)",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

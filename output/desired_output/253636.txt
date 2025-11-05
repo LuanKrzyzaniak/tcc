@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253636.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "30.3/2025",
+    "Numero_Processo": "23769.011765/2025-55"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Hospital Universitário Alcides Carneiro (HUAC-UFCG), filial da Empresa Brasileira de Serviços Hospitalares Ebserh",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Carlos Chagas, S/N, São José, Campina Grande/PB, CEP 58.400-398",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "HOMERO GUSTAVO CORREIA RODRIGUES"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "VICEMÁRIO SIMÕES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ONCOEXO DISTRIBUIDORA DE MEDICAMENTOS LTDA.",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "MYRTIS ELIENE LIMA DE ANDRADE PEIXOTO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

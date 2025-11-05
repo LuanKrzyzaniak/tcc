@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253266.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 00425/2025",
+    "Numero_Processo": "67613.067983/2024-11",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica, para REGISTRO DE PREÇOS n° 90033/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SEGUNDO CENTRO INT.DEF.AEREA CONTR.TFG.AEREO",
+    "CNPJ": "00.394.429/0055-01",
+    "Endereco": "AV ERASTO GAERTNER, 1000CX.POSTAL: 4083 CURITIBA-PR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Não especificado (Representante Legal)",
+        "Nome": "REGILANIO ISAIAS AGUIAR DE MELO Cel Av"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SUL BRASIL PRODUTOS E SERVICOS DE INFORMATICA EIRELI",
+    "CNPJ": "24.364.670/0001-49",
+    "Endereco": "RUA PADRE AGUSTINHO, 1104, CEP: 80.730-000, BAIRRO: BIGORRILHO, CURITIBA/PR",
+    "Representante_Legal": "MAURICIO DE OLIVEIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "SUPRIMENTO DE INFORMATICA - CARTUCHO DE TINTA (AMARELO)",
+      "Marca_Modelo": "MARCA: HP / MODELO: 934",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5",
+      "Valor_Unitario": "R$ 325,00",
+      "Valor_Total_Item": "R$ 1.625,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.625,00"
+}

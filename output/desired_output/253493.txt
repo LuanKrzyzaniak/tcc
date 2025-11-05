@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253493.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "071/2025",
+    "Numero_Processo": "2025-31HFG"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIDADE INTEGRADA DE JERÔNIMO MONTEIRO",
+    "CNPJ": "27.080.605/0007-81",
+    "UG": "",
+    "Endereco": "Praça Prefeito Antônio Alves Duarte, 88 - Centro - Jerônimo Monteiro ES Cep: 29.550.000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora Geral",
+        "Nome": "MARCIA CRAVO MACHADO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

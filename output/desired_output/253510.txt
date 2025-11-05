@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253510.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "9020/2025",
+    "Numero_Processo": "25385.000205/2025-13"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Nacional de Controle de Qualidade em Saúde",
+    "CNPJ": "33.781.055/0020-06",
+    "UG": "",
+    "Endereco": "Av. Brasil, 4365 - Manguinhos, na cidade de Rio de Janeiro /RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Autoridade Competente",
+        "Nome": "MYCHELLE ALVES MONTEIRO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

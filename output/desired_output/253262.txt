@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253262.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 107/2025",
+    "Numero_Processo": "23214.001343/2025-48"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MINAS GERAIS, por intermédio do SÃO JOÃO EVANGELISTA",
+    "CNPJ": "10.626.896/0006-87",
+    "Endereco": "Avenida Primeiro de Junho, nº 1043, Bairro Centro, em São João Evangelista, Estado de Minas Gerais, CEP nº 39705-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Flávio Rocha Puff"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "A. DA F. R. GONÇALVES COMÉRCIO E SERVIÇOS LTDA",
+    "CNPJ": "24.505.748/0001-08",
+    "Endereco": "RUA ANTÔNIO DIAS COELHO, 88 - BOA VISTA - IPATINGA/MG",
+    "Representante_Legal": "ALYSSON GONÇALVES LANZA DOS SANTOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "PINTURA PREDIAL INTERNA E EXTERNA",
+      "Unidade_Medida": "M²",
+      "Quantidade_Registrada": "300,00",
+      "Valor_Unitario": "R$ 6,50",
+      "Valor_Total_Item": "R$ 1.950,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.950,00"
+}

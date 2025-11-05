@@ -1,2 +1,303 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253550.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "298/2025-SMSA",
+    "Numero_Processo": "00000.0.012109/2024 (VOLUME 2)-00000.9.391913/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, nesta cidade",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DATA-MEDICAL PRODUTOS MÉDICOS HOSPITALARES - LTDA",
+    "CNPJ": "29.032.826/0001-14",
+    "Endereco": "Rua MARIA DE Lourdes dos Santos, n° 674, Bairro Atuba, Colombo PR, CEP n° 83400-000",
+    "Telefone": "(41) 3679-0556 / 3679-4591 / 99898-3333",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "18",
+      "Descricao_Especificacao": "CÂNULA DE TRAQUEOSTOMIA INFANTIL SEM BALÃO",
+      "Marca_Modelo": "RUSCH",
+      "Codigo": "010193103",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 42,90",
+      "Valor_Total_Item": "R$ 12.870,00"
+    },
+    {
+      "Item_TR": "19",
+      "Descricao_Especificacao": "CÂNULA DE TRAQUEOSTOMIA PLÁSTICA SEM BALÃO",
+      "Marca_Modelo": "RUSCH",
+      "Codigo": "010193098",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 42,90",
+      "Valor_Total_Item": "R$ 12.870,00"
+    },
+    {
+      "Item_TR": "20",
+      "Descricao_Especificacao": "CÂNULA DE TRAQUEOSTOMIA PLÁSTICA SEM BALÃO",
+      "Marca_Modelo": "RUSCH",
+      "Codigo": "010193097",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 42,90",
+      "Valor_Total_Item": "R$ 12.870,00"
+    },
+    {
+      "Item_TR": "21",
+      "Descricao_Especificacao": "CÂNULA DE TRAQUEOSTOMIA PLÁSTICA SEM BALÃO",
+      "Marca_Modelo": "RUSCH",
+      "Codigo": "010193096",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 42,90",
+      "Valor_Total_Item": "R$ 12.870,00"
+    },
+    {
+      "Item_TR": "22",
+      "Descricao_Especificacao": "CÂNULA DE TRAQUEOSTOMIA PLÁSTICA SEM BALÃO",
+      "Marca_Modelo": "RUSCH",
+      "Codigo": "010193095",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 42,90",
+      "Valor_Total_Item": "R$ 12.870,00"
+    },
+    {
+      "Item_TR": "23",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 00)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114008",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 0)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114007",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "25",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 1)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114006",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "26",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 2)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114005",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "27",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 3)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114004",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "28",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 4)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114003",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "29",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 5)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114002",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "30",
+      "Descricao_Especificacao": "CÂNULA DE GUEDEL. (Guedel 6)",
+      "Marca_Modelo": "MEDICAL-GAST",
+      "Codigo": "010114001",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1.000",
+      "Valor_Unitario": "R$ 0,99",
+      "Valor_Total_Item": "R$ 990,00"
+    },
+    {
+      "Item_TR": "31",
+      "Descricao_Especificacao": "CÂNULA DE ASPIRAÇÃO TRAQUEAL. (N° 06)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010103009",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,47",
+      "Valor_Total_Item": "R$ 14.100,00"
+    },
+    {
+      "Item_TR": "32",
+      "Descricao_Especificacao": "CÂNULA DE ASPIRAÇÃO TRAQUEAL. (N° 08)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010103006",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,47",
+      "Valor_Total_Item": "R$ 14.100,00"
+    },
+    {
+      "Item_TR": "33",
+      "Descricao_Especificacao": "CÂNULA DE ASPIRAÇÃO TRAQUEAL. (N° 10)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010103004",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,47",
+      "Valor_Total_Item": "R$ 14.100,00"
+    },
+    {
+      "Item_TR": "34",
+      "Descricao_Especificacao": "CÂNULA DE ASPIRAÇÃO TRAQUEAL. (N° 12)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010103005",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,47",
+      "Valor_Total_Item": "R$ 14.100,00"
+    },
+    {
+      "Item_TR": "35",
+      "Descricao_Especificacao": "CÂNULA DE ASPIRAÇÃO TRAQUEAL. (N° 14)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010103002",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,47",
+      "Valor_Total_Item": "R$ 14.100,00"
+    },
+    {
+      "Item_TR": "36",
+      "Descricao_Especificacao": "CÂNULA DE ASPIRAÇÃO TRAQUEAL. (N° 16)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010103003",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30.000",
+      "Valor_Unitario": "R$ 0,47",
+      "Valor_Total_Item": "R$ 14.100,00"
+    },
+    {
+      "Item_TR": "37",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL INFANTIL SEM BALÃO",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191007",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,95",
+      "Valor_Total_Item": "R$ 585,00"
+    },
+    {
+      "Item_TR": "38",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL INFANTIL SEM BALÃO",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191008",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,95",
+      "Valor_Total_Item": "R$ 585,00"
+    },
+    {
+      "Item_TR": "39",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL INFANTIL SEM BALÃO",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191006",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,95",
+      "Valor_Total_Item": "R$ 585,00"
+    },
+    {
+      "Item_TR": "40",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL INFANTIL SEM BALÃO",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191005",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,95",
+      "Valor_Total_Item": "R$ 585,00"
+    },
+    {
+      "Item_TR": "41",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL INFANTIL SEM BALÃO",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191004",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,95",
+      "Valor_Total_Item": "R$ 585,00"
+    },
+    {
+      "Item_TR": "42",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL COM BALÃO DE BAIXA PRESSÃO. (N° 6,0)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191024",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,99",
+      "Valor_Total_Item": "R$ 597,00"
+    },
+    {
+      "Item_TR": "43",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL COM BALÃO DE BAIXA PRESSÃO. (N° 7,0)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191026",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,99",
+      "Valor_Total_Item": "R$ 597,00"
+    },
+    {
+      "Item_TR": "44",
+      "Descricao_Especificacao": "CÂNULA TRAQUEAL COM BALÃO DE BAIXA PRESSÃO. (N° 8,0)",
+      "Marca_Modelo": "MEDIX",
+      "Codigo": "010191028",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 1,99",
+      "Valor_Total_Item": "R$ 597,00"
+    }
+  ],
+  "Valor_Total": "R$ 126.879,00"
+}

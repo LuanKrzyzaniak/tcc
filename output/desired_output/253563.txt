@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253563.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "688/2.025",
+    "Numero_Pregao_Eletronico": "COMPRAS GOV n° 93424/2025 - PE SMS N° 340/2025",
+    "Numero_Processo": "19.708/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BAURU (Secretaria Municipal de Saúde)",
+    "CNPJ": "46.137.410/0001-80",
+    "UG": "",
+    "Endereco": "Praça das Cerejeiras, 1-59, nesta cidade de Bauru/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal da Saúde",
+        "Nome": "MARCIO CIDADE GOMES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ANA CAROLINA DE PAIVA PAVAO",
+    "CNPJ": "34.061.215/0001-34",
+    "Endereco": "Rua José Marin, 136, Jardim Brasília, CEP: 18.910-068, Santa Cruz Do Rio Pardo, SP",
+    "Telefone": "(14) 98815-5786",
+    "Email": "loungessence@hotmail.com",
+    "Representante_Legal": "ANA CAROLINA DE PAIVA PAVAO"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253626.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "495/2025",
+    "Numero_Processo": "23522.026218/2025-67"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Hospital Universitário de Brasília",
+    "CNPJ": "15.126.437/0003-05",
+    "UG": "155.009",
+    "Endereco": "SGAN, Quadra 605, L2 Norte Bairro Asa Norte Brasília-DF, CEP 70830-200",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "MARIA FÁTIMA DE SOUSA"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "CARLOS EDUARDO DOS SANTOS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "AGW COMEX HOSPITALAR LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Alexcilenio Frota Araújo"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "FRASCO 1KG...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "FRASCO",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

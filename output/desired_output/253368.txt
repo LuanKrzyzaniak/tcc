@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253368.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "138/90003/2025",
+    "Numero_Processo": "64584.032592/2024-73"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "União por intermédio do HOSPITAL MILITAR DE ÁREA DE SÃO PAULO",
+    "CNPJ": "09591608/0001-02",
+    "UG": "",
+    "Endereco": "Rua Ari Cajado, Nº 36, Vila Monumento, São Paulo - SP, CEP 01551-080",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas Sr. TC Com",
+        "Nome": "PABLO LUIZ QUEIROZ FUZARO CHIARINOTTI"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "CANDIDA DE FATIMA BOLLIS"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

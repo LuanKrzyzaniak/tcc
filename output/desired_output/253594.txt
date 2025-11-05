@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253594.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "200/2025",
+    "Numero_Processo": "63512.002953/2024-38",
+    "Modalidade_Licitacao": "Pregão Eletrônico nº 90028/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/nº - Centro, Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra, Ordenador de Despesa",
+        "Nome": "Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "HS DE MORAIS - COMERCIO",
+    "CNPJ": "53.251.412/0001-60",
+    "Endereco": "RUA CORONEL VIVIDA, 198 - ALTO BOQUEIRÃO",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "HELOISA SENA DE MORAIS"
+  },
+  "Objeto": "Registro de preços (Não especificado na primeira página)",
+  "Itens_Registrados": [
+    {
+      "Item_TR": "38",
+      "Descricao_Especificacao": "Módulo de trabalho Módulo De Trabalho Material: Madeira Mdf, Dimensões Mesa Escritório: 1,20x0,75x0,74",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

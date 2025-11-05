@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253731.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 705/2025",
+    "Numero_Processo": "01-P-43790/2024",
+    "Codigo_Unico": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161",
+    "Endereco": "Praça das Bandeiras, n° 45- Quadra 2 - Prédio 1 Cidade Universitária \"Zeferino Vaz\" - Barão Geraldo Campinas - SP - Brasil - CEP: 13083-869",
+    "Telefone": "(19) 3521-2648",
+    "Email": "atasaude@unicamp.br",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "COTACAO COM REPRESENTACAO IMPORTACAO E EXPORTACAO LTDA",
+    "CNPJ": "58.950.775/0001-08",
+    "Endereco": "RUA CAMPO COMPRIDO, n° 90-IMIRIM/SP",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "PATCH ORGANICO PERICÁRDIO BOVINO 11X6CM / Patch Organico; Constituido De Pericardio Bovino Previamente Tratado Em Glutaraldeido E Conservado Em Formaldeido 4%; Para Reconstrucao Da Via...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "Quantidade máxima a ser cotada",
+      "Valor_Unitario": "Valor Un",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

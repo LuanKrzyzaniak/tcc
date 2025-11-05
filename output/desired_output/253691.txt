@@ -1,2 +1,50 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253691.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "05/2025",
+    "Numero_Processo": "58/2025",
+    "Pregao_Eletronico": "06 / 2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Câmara Municipal de Pará de Minas",
+    "CNPJ": "20.931.994/0001-77",
+    "UG": "",
+    "Endereco": "Avenida Presidente Vargas, nº 1.935, Bairro Senador Valadares, Município de Pará de Minas/MG",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente, Vereador",
+        "Nome": "Délio Alves Ferreira"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "06151793986"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "Carimbo automático 14x38mm: carimbo auto entintado, corpo de acrílico resistente, retangular, retrátil com mola...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Serviço",
+      "Quantidade_Registrada": "40",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Cadastro_Reserva": {
+    "Fornecedor": {
+      "Razao_Social": "SP MÍDIA DIGITAL & COMUNICAÇÃO VISUAL LTDA",
+      "CNPJ": "36.280.886/0001-11",
+      "Endereco": "Avenida Doutor José Maniero, S/N, Bairro Jaraguá, São Paulo/SP, CEP: 02.997-200",
+      "Telefone": "(11) 3979-4673 e (11) 8110-1518",
+      "Email": "planetcopdigital@gmail.com e edicarlos.en@gmail.com",
+      "Representante_Legal": "Edicarlos Nogueira de Oliveira"
+    }
+  },
+  "Valor_Total": ""
+}

@@ -1,2 +1,33 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253471.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 289/2025-SMSA",
+    "Numero_Processo": "00000.0.005234/2025 (VOLUME 2)-00000.9.379489/2025",
+    "Pregao_Eletronico": "Nº 90045/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR (SECRETARIA MUNICIPAL DE SAÚDE)",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, nesta cidade",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "TREMED MATERIAIS E EQUIPAMENTOS HOSPITALARES LTDA",
+    "CNPJ": "41391411000132",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "PEDRO DORNAS CIPRIANI"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

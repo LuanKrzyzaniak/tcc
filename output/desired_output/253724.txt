@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253724.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N. 264/2025",
+    "Numero_Processo": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "AWKALAB PRODUTOS PARA LABORATORIO LTDA",
+    "CNPJ": "04.880.181/0001-49",
+    "Endereco": "avenida Farroupilha, n.º 2661, Sala 201, Loja 07, Nossa Senhora das Graças, em Canoas-RS, CEP: 92025-415",
+    "Telefone": "(51) 3115-2326",
+    "Email": "cmunoz@awkalab.com.br",
+    "Representante_Legal": "CARLOS PATRICIO CAMUSSETTI MUNOZ"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

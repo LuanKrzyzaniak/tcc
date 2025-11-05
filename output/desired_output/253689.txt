@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253689.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "545/2025",
+    "Numero_Processo": "23818.009397/2025-52"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares (Ebserh), unidade HOSPITAL UNIVERSITÁRIO ANTÔNIO PEDRO (HUAP-UFF)",
+    "CNPJ": "15.126.437/00036-73",
+    "UG": "155915",
+    "Endereco": "Rua Marquês do Paraná, nº 303, Centro, Niterói, Estado do Rio de Janeiro, CEP 24033-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "BENI OLEJ"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "PAULO ROBERTO DE ARAÚJO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Steris Solutions do Brasil Importação e Comercialização de Produtos da Saúde Ltda",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "LEONARDO RODRIGUES DA CUNHA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "pacote desafio (PCD), pronto uso, contendo indicadores químicos sensíveis ao calor, que possibilitem aferir imediatamente a remoção de ar, penetração de vapor e desempenho da bomba...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

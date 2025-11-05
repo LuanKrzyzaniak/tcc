@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253255.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "193/2025",
+    "Numero_Processo": "64578.024265/2024-27"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL GERAL DE CURITIBA",
+    "CNPJ": "09.579.964/0001-00",
+    "UG": "160223 e UASG Secundária 167223",
+    "Endereco": "Praça Marechal Alberto Ferreira de Abreu, s/nº, na cidade de Batel, Curitiba/PR, CEP: 80.420-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora / Ordenadora de Despesas do Hospital Geral de Curitiba",
+        "Nome": "SIMONE ABREU – Tenente-Coronel"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DENTAL BONSUCESSO PRODUTOS ODONTOLOGICOS LTDA",
+    "CNPJ": "02.482.141/0001-13",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

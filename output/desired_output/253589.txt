@@ -1,2 +1,30 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253589.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00634/2025",
+    "Numero_Processo": "234/2025",
+    "Pregao_Eletronico_ARP": "234/2025",
+    "Objeto": "registro de preços para a eventual aquisição de medicamentos de uso humano"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE UBERLÂNDIA (Secretaria Municipal de Saúde)",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Representante da Secretaria Municipal de Saúde",
+        "Nome": "Adenilson Lima e Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Eugia Pharma",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

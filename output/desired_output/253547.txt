@@ -1,2 +1,529 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253547.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "177/2025",
+    "Numero_Processo": "64680.010556/2024-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, na cidade de Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas / Tenente Coronel",
+        "Nome": "Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "WOLNEY GABRYELL NUNES DE CAMARGO LTDA",
+    "CNPJ": "55.785.623/0001-09",
+    "Endereco": "Rua Mal. Floriano, 1872 - Sala 02, Centro, na cidade de Ponta Porã - MS, CEP: 79.900-000",
+    "Telefone": "(67) 99249-1422",
+    "Email": "wolney_advogado@hotmail.com",
+    "Representante_Legal": "WOLNEY GABRYELL NUNES DE CAMARGO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "MÁQUINA DE CORTAR GRAMA (APARADOR DE GRAMA)",
+      "Marca_Modelo": "",
+      "Codigo": "374000300",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "3 UNIDADES",
+      "Valor_Unitario": "R$ 380,00",
+      "Valor_Total_Item": "R$ 1.140,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "MÁQUINA DE CORTAR GRAMA (ROÇADEIRA LATERAL)",
+      "Marca_Modelo": "",
+      "Codigo": "374000021",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 1.700,00",
+      "Valor_Total_Item": "R$ 3.400,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "LAVADORA DE ALTA PRESSÃO",
+      "Marca_Modelo": "",
+      "Codigo": "421000679",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 1.150,00",
+      "Valor_Total_Item": "R$ 2.300,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "BOMBA SUBMERSA",
+      "Marca_Modelo": "",
+      "Codigo": "403000045",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 1.500,00",
+      "Valor_Total_Item": "R$ 3.000,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "SERRA CIRCULAR",
+      "Marca_Modelo": "",
+      "Codigo": "513000207",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 350,00",
+      "Valor_Total_Item": "R$ 700,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "LIXADEIRA ELÉTRICA",
+      "Marca_Modelo": "",
+      "Codigo": "513000109",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 300,00",
+      "Valor_Total_Item": "R$ 600,00"
+    },
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "FURADEIRA DE BANCADA",
+      "Marca_Modelo": "",
+      "Codigo": "513000047",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 750,00",
+      "Valor_Total_Item": "R$ 1.500,00"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "ESMERILHADEIRA",
+      "Marca_Modelo": "",
+      "Codigo": "513000085",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 350,00",
+      "Valor_Total_Item": "R$ 700,00"
+    },
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "MAÇARICO DE CORTE",
+      "Marca_Modelo": "",
+      "Codigo": "494000305",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1 UNIDADE",
+      "Valor_Unitario": "R$ 1.300,00",
+      "Valor_Total_Item": "R$ 1.300,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "CAIXA DE FERRAMENTAS",
+      "Marca_Modelo": "",
+      "Codigo": "511000185",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 400,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "FURADEIRA COM MARTELETE",
+      "Marca_Modelo": "",
+      "Codigo": "513000049",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "3 UNIDADES",
+      "Valor_Unitario": "R$ 450,00",
+      "Valor_Total_Item": "R$ 1.350,00"
+    },
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "RASTREADOR VEICULAR COM CHIP DE COMUNICAÇÃO DE DADOS",
+      "Marca_Modelo": "",
+      "Codigo": "513000201",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1 UNIDADE",
+      "Valor_Unitario": "R$ 1.200,00",
+      "Valor_Total_Item": "R$ 1.200,00"
+    },
+    {
+      "Item_TR": "13",
+      "Descricao_Especificacao": "INVERSORA DE SOLDA",
+      "Marca_Modelo": "",
+      "Codigo": "494000306",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1 UNIDADE",
+      "Valor_Unitario": "R$ 1.000,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    },
+    {
+      "Item_TR": "14",
+      "Descricao_Especificacao": "COMPRESSOR DE AR",
+      "Marca_Modelo": "",
+      "Codigo": "412000037",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1 UNIDADE",
+      "Valor_Unitario": "R$ 2.500,00",
+      "Valor_Total_Item": "R$ 2.500,00"
+    },
+    {
+      "Item_TR": "15",
+      "Descricao_Especificacao": "REATOR PARA LÂMPADA FLUORESCENTE",
+      "Marca_Modelo": "",
+      "Codigo": "625000033",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "20 UNIDADES",
+      "Valor_Unitario": "R$ 50,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    },
+    {
+      "Item_TR": "16",
+      "Descricao_Especificacao": "LÂMPADA DE LED",
+      "Marca_Modelo": "",
+      "Codigo": "625000029",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "100 UNIDADES",
+      "Valor_Unitario": "R$ 20,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "FITA ISOLANTE",
+      "Marca_Modelo": "",
+      "Codigo": "597000010",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "100 ROLOS",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 800,00"
+    },
+    {
+      "Item_TR": "18",
+      "Descricao_Especificacao": "CABO COAXIAL",
+      "Marca_Modelo": "",
+      "Codigo": "597000003",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "500 METROS",
+      "Valor_Unitario": "R$ 1,50",
+      "Valor_Total_Item": "R$ 750,00"
+    },
+    {
+      "Item_TR": "19",
+      "Descricao_Especificacao": "FERRO DE SOLDA",
+      "Marca_Modelo": "",
+      "Codigo": "597000012",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 350,00"
+    },
+    {
+      "Item_TR": "20",
+      "Descricao_Especificacao": "PISTOLA DE SILICONE QUENTE",
+      "Marca_Modelo": "",
+      "Codigo": "597000016",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 200,00"
+    },
+    {
+      "Item_TR": "21",
+      "Descricao_Especificacao": "FIO PARALELO",
+      "Marca_Modelo": "",
+      "Codigo": "597000017",
+      "Unidade_Medida": "M",
+      "Quantidade_Registrada": "200 METROS",
+      "Valor_Unitario": "R$ 2,50",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "22",
+      "Descricao_Especificacao": "CÂMERA DE VÍDEO INTELIGENTE COM ALTA RESOLUÇÃO",
+      "Marca_Modelo": "",
+      "Codigo": "597000018",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2 UNIDADES",
+      "Valor_Unitario": "R$ 350,00",
+      "Valor_Total_Item": "R$ 700,00"
+    },
+    {
+      "Item_TR": "23",
+      "Descricao_Especificacao": "CONECTOR BNC",
+      "Marca_Modelo": "",
+      "Codigo": "597000019",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 5,00",
+      "Valor_Total_Item": "R$ 50,00"
+    },
+    {
+      "Item_TR": "24",
+      "Descricao_Especificacao": "PLUG P4",
+      "Marca_Modelo": "",
+      "Codigo": "597000020",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 3,00",
+      "Valor_Total_Item": "R$ 30,00"
+    },
+    {
+      "Item_TR": "25",
+      "Descricao_Especificacao": "DRONE",
+      "Marca_Modelo": "",
+      "Codigo": "411000054",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1 UNIDADE",
+      "Valor_Unitario": "R$ 4.000,00",
+      "Valor_Total_Item": "R$ 4.000,00"
+    },
+    {
+      "Item_TR": "26",
+      "Descricao_Especificacao": "CARREGADOR PORTÁTIL (POWER BANK)",
+      "Marca_Modelo": "",
+      "Codigo": "597000022",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 100,00",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "27",
+      "Descricao_Especificacao": "VENTILADOR DE MESA",
+      "Marca_Modelo": "",
+      "Codigo": "597000023",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 150,00",
+      "Valor_Total_Item": "R$ 1.500,00"
+    },
+    {
+      "Item_TR": "28",
+      "Descricao_Especificacao": "VENTILADOR DE COLUNA",
+      "Marca_Modelo": "",
+      "Codigo": "597000024",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 200,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    },
+    {
+      "Item_TR": "29",
+      "Descricao_Especificacao": "VENTILADOR DE PAREDE",
+      "Marca_Modelo": "",
+      "Codigo": "597000025",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 200,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    },
+    {
+      "Item_TR": "30",
+      "Descricao_Especificacao": "CARREGADOR DE BATERIA AUTOMOTIVA",
+      "Marca_Modelo": "",
+      "Codigo": "597000026",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5 UNIDADES",
+      "Valor_Unitario": "R$ 300,00",
+      "Valor_Total_Item": "R$ 1.500,00"
+    },
+    {
+      "Item_TR": "31",
+      "Descricao_Especificacao": "CARREGADOR VEICULAR",
+      "Marca_Modelo": "",
+      "Codigo": "597000027",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 50,00",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "32",
+      "Descricao_Especificacao": "CAPA DE CHUVA",
+      "Marca_Modelo": "",
+      "Codigo": "841500057",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 50,00",
+      "Valor_Total_Item": "R$ 2.500,00"
+    },
+    {
+      "Item_TR": "33",
+      "Descricao_Especificacao": "GALÃO DE ÁGUA MINERAL",
+      "Marca_Modelo": "",
+      "Codigo": "841500058",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 10,00",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "34",
+      "Descricao_Especificacao": "PILHA RECARREGÁVEL",
+      "Marca_Modelo": "",
+      "Codigo": "841500059",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 15,00",
+      "Valor_Total_Item": "R$ 750,00"
+    },
+    {
+      "Item_TR": "35",
+      "Descricao_Especificacao": "EXTENSÃO ELÉTRICA",
+      "Marca_Modelo": "",
+      "Codigo": "841500060",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 120,00",
+      "Valor_Total_Item": "R$ 1.200,00"
+    },
+    {
+      "Item_TR": "36",
+      "Descricao_Especificacao": "LIXEIRA",
+      "Marca_Modelo": "",
+      "Codigo": "841500061",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "10 UNIDADES",
+      "Valor_Unitario": "R$ 100,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    },
+    {
+      "Item_TR": "37",
+      "Descricao_Especificacao": "SACO DE LIXO",
+      "Marca_Modelo": "",
+      "Codigo": "841500062",
+      "Unidade_Medida": "PCT",
+      "Quantidade_Registrada": "100 PACOTES",
+      "Valor_Unitario": "R$ 20,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "38",
+      "Descricao_Especificacao": "DETERGENTE",
+      "Marca_Modelo": "",
+      "Codigo": "841500063",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 8,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "39",
+      "Descricao_Especificacao": "VASSOURA",
+      "Marca_Modelo": "",
+      "Codigo": "841500064",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 15,00",
+      "Valor_Total_Item": "R$ 750,00"
+    },
+    {
+      "Item_TR": "40",
+      "Descricao_Especificacao": "PÁ DE LIXO",
+      "Marca_Modelo": "",
+      "Codigo": "841500065",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 10,00",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "41",
+      "Descricao_Especificacao": "BALDE",
+      "Marca_Modelo": "",
+      "Codigo": "841500066",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "20 UNIDADES",
+      "Valor_Unitario": "R$ 25,00",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "42",
+      "Descricao_Especificacao": "RODO",
+      "Marca_Modelo": "",
+      "Codigo": "841500067",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "20 UNIDADES",
+      "Valor_Unitario": "R$ 15,00",
+      "Valor_Total_Item": "R$ 300,00"
+    },
+    {
+      "Item_TR": "43",
+      "Descricao_Especificacao": "PANO DE CHÃO",
+      "Marca_Modelo": "",
+      "Codigo": "841500068",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 10,00",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "44",
+      "Descricao_Especificacao": "PAPEL HIGIÊNICO",
+      "Marca_Modelo": "",
+      "Codigo": "841500069",
+      "Unidade_Medida": "ROLO",
+      "Quantidade_Registrada": "200 ROLOS",
+      "Valor_Unitario": "R$ 2,00",
+      "Valor_Total_Item": "R$ 400,00"
+    },
+    {
+      "Item_TR": "45",
+      "Descricao_Especificacao": "ÁGUA SANITÁRIA",
+      "Marca_Modelo": "",
+      "Codigo": "841500070",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 12,00",
+      "Valor_Total_Item": "R$ 600,00"
+    },
+    {
+      "Item_TR": "46",
+      "Descricao_Especificacao": "DESINFETANTE",
+      "Marca_Modelo": "",
+      "Codigo": "841500071",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 15,00",
+      "Valor_Total_Item": "R$ 750,00"
+    },
+    {
+      "Item_TR": "47",
+      "Descricao_Especificacao": "SABÃO EM PÓ",
+      "Marca_Modelo": "",
+      "Codigo": "841500072",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 20,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    },
+    {
+      "Item_TR": "48",
+      "Descricao_Especificacao": "ESPONJA DE AÇO",
+      "Marca_Modelo": "",
+      "Codigo": "841500073",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 2,00",
+      "Valor_Total_Item": "R$ 100,00"
+    },
+    {
+      "Item_TR": "49",
+      "Descricao_Especificacao": "FLANELA",
+      "Marca_Modelo": "",
+      "Codigo": "841500074",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "50 UNIDADES",
+      "Valor_Unitario": "R$ 10,00",
+      "Valor_Total_Item": "R$ 500,00"
+    },
+    {
+      "Item_TR": "50",
+      "Descricao_Especificacao": "SACOLA PLÁSTICA",
+      "Marca_Modelo": "",
+      "Codigo": "841500075",
+      "Unidade_Medida": "PCT",
+      "Quantidade_Registrada": "50 PACOTES",
+      "Valor_Unitario": "R$ 20,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 38.370,00"
+}

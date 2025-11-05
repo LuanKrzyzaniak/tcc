@@ -1,2 +1,110 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253540.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "481/2025- CPL/ALICC",
+    "Numero_Processo": "12500.129688/2024",
+    "Numero_Pregao": "134/2025-CPL/ALICC"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "AGÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS DE MACEIÓ ALICC",
+    "CNPJ": "26.981.455/0001-29",
+    "UG": "",
+    "Endereco": "Avenida da Paz, n.º 900, Jaraguá, Maceió/AL-57.022-050",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora Presidente",
+        "Nome": "MEIRY SOARES PORCIÚNCULA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "FELICITE LTDA",
+    "CNPJ": "53.205.144/0001-40",
+    "Endereco": "Rua Gaspar Ferrari, N°: 255, Bairro: Ponta Verde, Loja 01- CEP: 57035-100-Maceió - AL",
+    "Telefone": "(082) 99610-0605- (82) 99938-8815",
+    "Email": "felicite.ltda@hotmail.com",
+    "Representante_Legal": "Mayra Buffone Gama"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Sal refinado e Iodado, acondicionado em embalagem transparente. O produto deverá apresentar validade mínima de 9 meses da entrega. Embalagem de 1Kg",
+      "Marca_Modelo": "Veneza",
+      "Codigo": "",
+      "Unidade_Medida": "Kg",
+      "Quantidade_Registrada": "4300",
+      "Valor_Unitario": "R$ 1.00",
+      "Valor_Total_Item": "R$ 4.300,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "Creme de leite - de primeira qualidade, esterilizado, embalado em caixas de papelão individual, hermeticamente vedada; rótulo contendo: identificação do produto, ingredientes, valor nutricional, peso, fabricante, data de fabricação. O produto deverá apresentar validade mínima de 3 meses da entrega. Registro no MA, inspecionado pelo SIF. Caixa de 200g",
+      "Marca_Modelo": "Sabe",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "8900",
+      "Valor_Unitario": "R$ 2,25",
+      "Valor_Total_Item": "R$ 20.025,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Leite condensado - homogêneo, isento de granulações, coloração branca, composto de leite integral, com prazo de validade de, no mínimo, 06 (seis) meses, a contar da data de entrega do produto, embalagem de 395g.",
+      "Marca_Modelo": "Italac",
+      "Codigo": "",
+      "Unidade_Medida": "Pct",
+      "Quantidade_Registrada": "8500",
+      "Valor_Unitario": "R$ 5,14",
+      "Valor_Total_Item": "R$ 43.690,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "Colorífico sem sal 100g - condimento em pó homogêneo elaborado a partir do Urucum, acondicionado em embalagem plástica transparente e atóxica, resistente e hermeticamente vedada; rótulo contendo: identificação do produto, ingredientes, valor nutricional, peso, fabricante, data de fabricação. O produto deverá apresentar validade mínima de 6 meses da entrega. Embalagem de, aproximadamente, 100g",
+      "Marca_Modelo": "Coringa",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "16700",
+      "Valor_Unitario": "R$ 0.85",
+      "Valor_Total_Item": "R$ 14.195.00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "Tempero tipo Cominho sem pimenta - pó fino homogêneo com aspecto, cor, cheiro e sabor próprio, isento de materiais estranhos, acondicionado em embalagem plástica transparente e atóxica, resistente e hermeticamente vedada; rótulo contendo: identificação do produto, ingredientes, valor nutricional, peso, fabricante, data de fabricação. O produto deverá apresentar validade mínima de 6 meses da entrega. Embalagem de 100g.",
+      "Marca_Modelo": "Dino",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "16700",
+      "Valor_Unitario": "R$ 2,08",
+      "Valor_Total_Item": "R$ 34.736,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "Vinagre com condimentos - Fermento acético de vinho branco ou tinto e água, embalagem íntegra. O produto deverá apresentar validade mínima de 06 meses da entrega. Embalagem de 750ml.",
+      "Marca_Modelo": "Camarão",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "7100",
+      "Valor_Unitario": "R$ 2,85",
+      "Valor_Total_Item": "R$ 20.235,00"
+    },
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "Óleo vegetal de soja comestível. O produto deverá apresentar validade mínima de 08 meses da entrega. Embalagem de 900 ml",
+      "Marca_Modelo": "Liza",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "8900",
+      "Valor_Unitario": "R$ 7,90",
+      "Valor_Total_Item": "R$ 70.310,00"
+    },
+    {
+      "Item_TR": "25",
+      "Descricao_Especificacao": "Chantilly 1L - Tipo Mix, composição: água, gordura vegetal, açúcar, sal, estabilizantes a base de lactato de mono e diglicerideos e caseinato de sódio, umectante sorbitol, aroma idêntico ao natural de creme e corante natural urucum e cúrcuma. Caixa de 1 litro.",
+      "Marca_Modelo": "Amelia",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "495",
+      "Valor_Unitario": "R$ 16,95",
+      "Valor_Total_Item": "R$ 8.390,25"
+    }
+  ],
+  "Valor_Total": "R$ 1.276.663,40"
+}

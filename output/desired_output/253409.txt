@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253409.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "SEI Nº 314/2025",
+    "Numero_Processo": "23070.020980/2024-14"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE GOIÁS - UFG",
+    "CNPJ": "01.567.601/0001-43",
+    "UG": "",
+    "Endereco": "Campus Samambaia, prédio da Reitoria, na cidade de Goiânia - Goiás",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Reitora",
+        "Nome": "Profª Drª ANGELITA PEREIRA DE LIMA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MAXIMUS LOCAÇÕES E SERVIÇOS EIRELI",
+    "CNPJ": "22.846.166/0001-10",
+    "Endereco": "Rua 1045, Quadra 175, Lote 06, n° 238, St. Pedro Ludovico",
+    "Telefone": "(62) 3088-3720",
+    "Email": "licitacao@maximuslocacoes.com.br",
+    "Representante_Legal": "PAULO ROBERTO BUTH DOS SANTOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE BEM MÓVEL (veículo) TIPO: Automóvel, CATEGORIA: Sedan Compacto, ANO MODELO: 2024/2024 ou superior.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN.",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 1.900,0000",
+      "Valor_Total_Item": "R$ 3.800,0000"
+    }
+  ],
+  "Valor_Total": "R$ 3.800,00"
+}

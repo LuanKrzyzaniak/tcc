@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253267.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 110/2025",
+    "Numero_Processo": "23214.001343/2025-48"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MINAS GERAIS, por intermédio do SÃO JOÃO EVANGELISTA",
+    "CNPJ": "10.626.896/0006-87",
+    "Endereco": "Avenida Primeiro de Junho, nº 1043, Bairro Centro, em São João Evangelista, Estado de Minas Gerais, CEP nº 39705-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Flávio Rocha Puff"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "49-DF Maquinas e Ferramentas LTDA",
+    "CNPJ": "06.121.725/0001-42",
+    "Endereco": "QN 122 CONJUNTO 06 LOTE 06 - SAMAMBAIA - BRASILIA/DF",
+    "Representante_Legal": "PAULO ROBERTO BUTH DOS SANTOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "ALUGUEL DE VEÍCULO, TIPO: MINIVAN",
+      "Unidade_Medida": "Diária",
+      "Quantidade_Registrada": "3,00",
+      "Valor_Unitario": "R$ 500,00",
+      "Valor_Total_Item": "R$ 1.500,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.500,00"
+}

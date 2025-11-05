@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253263.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 194/2025",
+    "Numero_Processo": "143.00008721/2025-54"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº - Rubião Júnior, CEP 18.618-687, na cidade de Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Departamento de Logística de Atendimento",
+        "Nome": "Enf. Karen Aline Batista da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DENTAL GUES LTDA",
+    "CNPJ": "06.742.491/0001-33",
+    "Representante_Legal": "MARTA IRENE GESSELE"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "AGULHA: De Biópsia Semi-Automática com PISTOLA (M-GUN) 18Gx15cm",
+      "Marca_Modelo": "EASY/EASY BIOPSY",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 169,416",
+      "Valor_Total_Item": "R$ 16.941,60"
+    }
+  ],
+  "Valor_Total": "R$ 16.941,60"
+}

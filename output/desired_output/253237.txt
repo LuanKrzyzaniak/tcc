@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253237.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00049/2025",
+    "Numero_Processo": "64004.000921/2025-81"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "ARSENAL DE GUERRA DO RIO",
+    "CNPJ": "09.944.413/0001-07",
+    "UG": "160285",
+    "Endereco": "Rua Monsenhor Manuel Gomes n° 563, Caju, na cidade do Rio de Janeiro",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Arsenal de Guerra do Rio",
+        "Nome": "Cel CARLOS FREDERICO MATOS DE CHAGAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "GUILHERME ROCHA..."
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

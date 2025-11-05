@@ -1,2 +1,54 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253606.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 32.1/2025",
+    "Numero_Processo": "23769.011934/2025-57",
+    "Pregao_Eletronico": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares - Ebserh, filial Hospital Universitário Alcides Carneiro (HUAC-UFCG)",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Carlos Chagas, S/N, São José, Campina Grande/PB, CEP 58.400-398",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Sr. HOMERO GUSTAVO CORREIA RODRIGUES"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Sr. VICEMÁRIO SIMÕES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CLINUTRI LTDA",
+    "CNPJ": "04.975.321/0001-38",
+    "Endereco": "Rua Euclides Miragaia, 1680, Centro, São José dos Campos/SP, CEP 12.245-820",
+    "Telefone": "(12) 3921-9966",
+    "Email": "comercial@clinutri.com.br",
+    "Representante_Legal": "LUIZ CARLOS CHAVES PEIXOTO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "CONTRATAÇÃO DE SERVIÇO: DIETA ENTERAL E ACESSÓRIOS",
+      "Marca_Modelo": "FRESENIUS KABI / FRESUBIN",
+      "Codigo": "",
+      "Unidade_Medida": "Serviço",
+      "Quantidade_Registrada": "1",
+      "Valor_Unitario": "R$ 171.196,48",
+      "Valor_Total_Item": "R$ 171.196,48"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "CONTRATAÇÃO POR SERVIÇO: Nutrição Parenteral Padronizada e Acessórios",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "Serviço",
+      "Quantidade_Registrada": "1",
+      "Valor_Unitario": "R$ 85.000,00",
+      "Valor_Total_Item": "R$ 85.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 256.196,48"
+}

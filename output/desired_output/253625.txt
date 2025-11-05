@@ -1,2 +1,79 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253625.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N°56/2025",
+    "Numero_Processo": "63105.002085/2025-79"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "BASE NAVAL DO RIO DE JANEIRO",
+    "CNPJ": "00.394.502/0105-30",
+    "UG": "",
+    "Endereco": "ILHA MOCANGUÊ GRANDE, $s/n^{\\circ}$ PONTA D'AREIA - NITERÓI - RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "JORGE DE OLIVEIRA ANTUNES JUNIOR"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SETMAR SERVICE LTDA",
+    "CNPJ": "13.094.126/0001-14",
+    "Endereco": "Rua João Torquato, n°268 Bonsucesso Rio de Janeiro RJ Cep: 21032-150",
+    "Telefone": "(21) 2146-0770",
+    "Email": "contato@setmar.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "DESMONTAGEM E MONTAGEM (inclusive seus acessórios): Remoção, Limpeza, Montagem, Instalação e Comissionamento com emissão do relatório dos serviços. REVISÃO BÁSICA...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 8.900,00",
+      "Valor_Total_Item": "R$ 17.998,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "REPARO dos Discos de Gravidade e Pratos.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 999,00",
+      "Valor_Total_Item": "R$ 1.998,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "REPARO do Conjunto eixo/engrenagem/coroa/pinhão.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 1.999,00",
+      "Valor_Total_Item": "R$ 3.998,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "REPARO da Cuba de Vedação.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 2.500,00",
+      "Valor_Total_Item": "R$ 5.000,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "Enrolamento do motor elétrico.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 690,0",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

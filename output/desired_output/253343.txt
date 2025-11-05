@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253343.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "9013/2025",
+    "Numero_Processo": "25385.000220/2025-53"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Nacional de Controle de Qualidade em Saúde",
+    "CNPJ": "33.781.055/0020-06",
+    "UG": "",
+    "Endereco": "Av. Brasil, 4365 - Manguinhos, Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Representante Legal",
+        "Nome": "Mychelle Alves Monteiro"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Oliveira Attayde Engenharia Ltda",
+    "CNPJ": "33.123.870/0001-07",
+    "Endereco": "Rua Milton Manhães, 635 – Apto 101 - Parque José Bonifácio – São João de Meriti – RJ – CEP 25565-262",
+    "Telefone": "(21) 97419-0794",
+    "Email": "oeaengenhariaelet@gmail.com",
+    "Representante_Legal": "Luiz André"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "Gás Refrigerante R-22, cilindro com 13,6 kg",
+      "Marca_Modelo": "",
+      "Codigo": "285",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "45",
+      "Valor_Unitario": "R$ 850,00",
+      "Valor_Total_Item": "R$ 38.250,00"
+    }
+  ],
+  "Valor_Total": "R$ 38.250,00"
+}

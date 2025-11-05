@@ -1,2 +1,81 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253546.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "482/2025- CPL/ALICC",
+    "Numero_Processo": "12500.129688/2024",
+    "Pregao_Eletronico": "N° 134/2025-CPL/ALICC"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "AGÊNCIA DE LICITAÇÕES, CONTRATOS E CONVÊNIOS DE MACEIÓ ALICC",
+    "CNPJ": "26.981.455/0001-29",
+    "UG": "",
+    "Endereco": "Avenida da Paz, n.º 900, Jaraguá, Maceió/AL-57.022-050",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora Presidente",
+        "Nome": "MEIRY SOARES PORCIÚNCULA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "JODEAL CLTDA",
+    "CNPJ": "44.346.537/0001-83",
+    "Endereco": "Av. Siqueira Campos N°1747 A, Bairro: Trapiche Da Barra, Maceió/AL - CEP: 57010-395",
+    "Telefone": "(82)-988743536",
+    "Email": "edvaldocamara@gmail.com",
+    "Representante_Legal": "Juliana Olivia de Azevedo Lima Câmara",
+    "Representante_Legal_Documentos": "RG: 4284497-5 SSP/AL CPF 058.119.514-00"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "19",
+      "Descricao_Especificacao": "Extrato de tomate - a base de: tomate, açúcar (máximo de 1%), sal (máximo de 5% de cloreto de sódio); isento de fermentações. O produto deverá apresentar validade mínima de 12 meses da entrega. Embalagem de 1080g",
+      "Marca_Modelo": "Quero",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "8722",
+      "Valor_Unitario": "12,99",
+      "Valor_Total_Item": "113.298,78"
+    },
+    {
+      "Item_TR": "20",
+      "Descricao_Especificacao": "Sardinha comestível em lata em conserva, tipo pescada em conserva, apresentação inteira, com espinha e óleo comestível, contendo ômega 3. Embalagem contendo o registro e informações nutricionais do Ministério da Agricultura, data de validade e o SIF/DIPOA. O produto deverá apresentar validade mínima de 12 meses da entrega. Embalagem de 200g.",
+      "Marca_Modelo": "GDC Alimentos",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "22606",
+      "Valor_Unitario": "4,95",
+      "Valor_Total_Item": "111.899,70"
+    },
+    {
+      "Item_TR": "27",
+      "Descricao_Especificacao": "Manteiga com sal, contendo dados de identificação do produto, marca do fabricante, prazo de validade e peso líquido. O produto deverá ter registro no Ministério da Saúde e/ou Agricultura, em embalagens e temperaturas corretas (10°c ou de acordo com o fabricante) e adequadas, respeitando a características do produto. De modo que a embalagem não se apresente estufadas ou alteradas. Embalagem com 200g.",
+      "Marca_Modelo": "Betânia",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "4488",
+      "Valor_Unitario": "11,99",
+      "Valor_Total_Item": "53.811,12"
+    },
+    {
+      "Item_TR": "28",
+      "Descricao_Especificacao": "Biscoito tipo cream cracker 400g - biscoito com sal, elaborado com composição básica de farinha de trigo, sal, enriquecida com ferro e ácido fólico, outras substâncias permitidas, acondicionado em embalagem primária plástica atóxica, íntegra, transparente; rótulo contendo: identificação do produto, ingredientes, valor nutricional, peso, fabricante, data de fabricação. O produto deverá apresentar validade mínima de 6 meses da entrega. Pacote de 400g.",
+      "Marca_Modelo": "3 de Maio",
+      "Codigo": "",
+      "Unidade_Medida": "Pct",
+      "Quantidade_Registrada": "1840",
+      "Valor_Unitario": "4,44",
+      "Valor_Total_Item": "8.169,60"
+    },
+    {
+      "Item_TR": "31",
+      "Descricao_Especificacao": "Sardinha comestível em lata em conserva, tipo pescada em conserva, apresentação inteira, com espinha e óleo comestível, contendo ômega 3. Embalagem contendo o registro e informações nutricionais do Ministério da Agricultura, data de validade e o SIF/DIPOA. O produto deverá apresentar validade mínima de 12 meses da entrega. Embalagem de 200g.",
+      "Marca_Modelo": "GDC Alimentos",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "2794",
+      "Valor_Unitario": "4,95",
+      "Valor_Total_Item": "13.830,30"
+    }
+  ],
+  "Valor_Total": "R$ 301.009,50"
+}

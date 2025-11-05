@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253418.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "286/2025-SMSA",
+    "Numero_Processo": "00000.0.012192/2024 (VOLUME 3)00000.9.376403/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, Boa Vista, RR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde - SMSA",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "GOLDENPLUS- COMÉRCIO DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA",
+    "CNPJ": "17.472.278/0001-64",
+    "Endereco": "Rua das Roseiras, nº 50, bairro Centro, Barão de Cotegipe, RS, CEP nº 99.740-000",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "MARCELO MATIROSCA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Sering...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

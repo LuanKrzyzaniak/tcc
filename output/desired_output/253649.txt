@@ -1,2 +1,47 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253649.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "0201/2025",
+    "Numero_Processo": "00060-00223864/2024-60",
+    "Processo_ARP": "04044-00043106/2025-91",
+    "Pregao_Eletronico_SRP": "90053/2025",
+    "Validade": "",
+    "UASG": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE ECONOMIA DO DISTRITO FEDERAL",
+    "CNPJ": "00.394.684/0001-53",
+    "UG": "",
+    "Endereco": "Anexo do Palácio do Buriti, 5.º andar, sala 508, Zona Cívico-Administrativa Brasília/DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Subsecretária de Compras Governamentais",
+        "Nome": "Monise Carrijo Fernandes da Fonseca"
+      },
+      {
+        "Cargo": "Coordenadora de Gestão de Suprimentos",
+        "Nome": "Andrea Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MABELE VEÍCULOS ESPECIAIS LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

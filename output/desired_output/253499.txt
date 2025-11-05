@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253499.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "782802/2025-056/00",
+    "Numero_Processo": "60677.000610/2025-49"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CENTRO DE INTENDÊNCIA DA MARINHA EM SALVADOR",
+    "CNPJ": "00.394.502/0180-00",
+    "UG": "",
+    "Endereco": "Estrada da Base Naval de Aratu, s/nº Bairro: São Tomé de Paripe СЕР: 40800-310, Salvador-BA",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra (IM) Ordenador de Despesas - Diretor",
+        "Nome": "FABRÍCIO NEVES COSENDEY"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BAHIA CESTAS LTDA.",
+    "CNPJ": "05.788.360/0001-13",
+    "Endereco": "Rua Nilo Peçanha, n.º 41 - Loja 1 E Térreo - Calçada, Salvador / Bahia, СЕР: 40.411-380",
+    "Telefone": "(71) 3037-8008",
+    "Email": "fern_jr@msn.com",
+    "Representante_Legal": "FERNANDO SANTOS OLIVEIRA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

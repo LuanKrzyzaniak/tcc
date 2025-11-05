@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253405.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "ATA n° 194/2025",
+    "Numero_Processo": "63512.002953/2024-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói (MARINHA DO BRASIL)",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "",
+    "Endereco": "Ilha de Mocanguê s/n° Centro, na cidade de Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Capitão de Mar e Guerra Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "H20 DISTRIBUIDORA DE PRODUTOS E SERVICOS EIRELI",
+    "CNPJ": "30.648.877/0001-60",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "SAMOEL VALADAO BARCELLOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "Aquisição de Toners e Cartuchos para Impressoras. TONER PRETO HP CF258A / COMPATÍVEL OU ORIGINAL",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "30",
+      "Valor_Unitario": "R$ 140,00",
+      "Valor_Total_Item": "R$ 4.200,00"
+    }
+  ],
+  "Valor_Total": "R$ 4.200,00"
+}

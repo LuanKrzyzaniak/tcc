@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253371.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "005.2025",
+    "Numero_Processo": "2025-20"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SERVIÇO AUTÔNOMO DE CAPTAÇÃO DE ÁGUA E TRATAMENTO DE ESGOTO - SAAE Angra dos Reis",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": []
+  },
+  "Fornecedor": {
+    "Razao_Social": "Artoisol LTDA",
+    "CNPJ": "51.427.830/0001-30",
+    "Endereco": "Rua Toledo nº 365 loja B Vila Oeste - Belo Horizonte MG",
+    "Telefone": "(31) 99283-0916",
+    "Email": "clevesrodrano@yahoo.com.br",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "BOMBA SUBMERSIVEL FAMAC FBS NG15044A1-15CV ROTOR 225 MM - 220V TRIFÁSICO",
+      "Marca_Modelo": "FAMAC",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 33.947,00",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

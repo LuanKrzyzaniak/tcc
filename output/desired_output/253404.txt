@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253404.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "174/2025",
+    "Numero_Processo": "64680.010556/2024-61"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "",
+    "Endereco": "Praça Duque de Caxias, sn, centro, na cidade de Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Tenente Coronel Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NSC COMERCIO E SERVIÇOS LTDA - EPP",
+    "CNPJ": "49.550.435/0001-07",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "NORMA SUELI CARNEVALI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Bebedouro de Pressão, Cor: Inox, Tipo: De Parede",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2.00",
+      "Valor_Unitario": "R$ 800,0000",
+      "Valor_Total_Item": "R$ 1.600,0000"
+    }
+  ],
+  "Valor_Total": "R$ 1.600,00"
+}

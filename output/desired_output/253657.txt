@@ -1,2 +1,119 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253657.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "368/2025",
+    "Numero_Processo": "23765.012078/2025-97",
+    "Modalidade_Licitacao": "",
+    "Objeto": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH - HOSPITAL UNIVERSITÁRIO DA UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+    "CNPJ": "15.126.437/0025-10",
+    "UG": "155903",
+    "Endereco": "Avenida Eugênio do Nascimento, S/N, Aeroporto, Juiz de Fora/MG, CEP: 36.038-330",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "José Otávio do Amaral Correa"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Bruno Azevedo Gomes Freitas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "HOSPTECH PRODUTOS HOSPITALARES EIRELI",
+    "CNPJ": "09.022.385/0001-08",
+    "Endereco": "RUA PROFESSORA MARIA ELISA CUNHA DA SILVA, 114, Bairro PARQUE INDUSTRIAL DO VALE DO RIO PARD, CEP 37955-000, SAO SEBASTIAO DO PARAISO/MG",
+    "Telefone": "(35) 3531-1800",
+    "Email": "hosptech@hosptech.com.br",
+    "Representante_Legal": "DHIOGO NETO SILVA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "AGULHA DESCARTÁVEL, TIPO: HIPODÉRMICA, MATERIAL: AÇO INOXIDÁVEL, CALIBRE: 20G (0,90 X 30 MM), TIPO CÂNULA: BIS",
+      "Marca_Modelo": "Descarpack",
+      "Codigo": "362243",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "15.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,16",
+      "Valor_Total_Item": "R$ 2.400,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "AGULHA DESCARTÁVEL, TIPO: HIPODÉRMICA, MATERIAL: AÇO INOXIDÁVEL, CALIBRE: 25G (0,50 X 16 MM), TIPO CÂNULA: BIS",
+      "Marca_Modelo": "Descarpack",
+      "Codigo": "362241",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "10.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,16",
+      "Valor_Total_Item": "R$ 1.600,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "20",
+      "Descricao_Especificacao": "AGULHA DESCARTÁVEL, TIPO: HIPODÉRMICA, MATERIAL: AÇO INOXIDÁVEL, CALIBRE: 27G (0,40 X 13 MM), TIPO CÂNULA: BIS",
+      "Marca_Modelo": "Descarpack",
+      "Codigo": "362244",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "10.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,16",
+      "Valor_Total_Item": "R$ 1.600,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "40",
+      "Descricao_Especificacao": "CATETER URETERAL DUPLO J, TAMANHO 7FR X 28CM, DESCARTÁVEL",
+      "Marca_Modelo": "MDT/Urovision",
+      "Codigo": "365615",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "20",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 258,00",
+      "Valor_Total_Item": "R$ 5.160,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "43",
+      "Descricao_Especificacao": "CONEXÃO EM FORMA DE Y, PARA CATETER CENTRAL",
+      "Marca_Modelo": "Medix Brasil/MD",
+      "Codigo": "365851",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "500",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,79",
+      "Valor_Total_Item": "R$ 395,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "57",
+      "Descricao_Especificacao": "EQUIPO P/ ADMINISTRACAO DE NUTRIÇÃO ENTERAL, PARA BOMBA DE INFUSÃO",
+      "Marca_Modelo": "Fresenius",
+      "Codigo": "362483",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "2.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 4,75",
+      "Valor_Total_Item": "R$ 9.500,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "89",
+      "Descricao_Especificacao": "SERINGA DESCARTE VEL, CAPACIDADE 50 ML, SEM AGULHA",
+      "Marca_Modelo": "Descarpack",
+      "Codigo": "362484",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "10.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,55",
+      "Valor_Total_Item": "R$ 5.500,00",
+      "Valor_Total_Global_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 26.155,00"
+}

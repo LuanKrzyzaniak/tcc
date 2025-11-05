@@ -1,2 +1,63 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253398.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "35559/25"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Prefeitura Municipal de Salvador - PMS",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "SECRETÁRIO MUNICIPAL DE GESTÃO",
+        "Nome": "ALEXANDRE ALMEIDA TINOCO"
+      },
+      {
+        "Cargo": "",
+        "Nome": "LEONARDO SOUSA REZENDE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DL DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+    "CNPJ": "31.556.536/0001-11",
+    "Endereco": "ST SPLM CONJUNTO 09, S/N - LOTE 04, Bairro: PLACA DA MERCEDES, Cidade: BRASILIA, U.F.: DF, CEP: 71732-090",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1.0",
+      "Descricao_Especificacao": "COLONIA FRAGRANCIA ALFAZEMA 118ML",
+      "Marca_Modelo": "",
+      "Codigo": "200007928",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "R$ 9,3000",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "2.0",
+      "Descricao_Especificacao": "CONDICIONADOR CAPILAR INFANTIL 200ML",
+      "Marca_Modelo": "",
+      "Codigo": "200017326",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "R$ 7,3200",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "11.0",
+      "Descricao_Especificacao": "SABONETE LIQUIDO INFANTIL",
+      "Marca_Modelo": "",
+      "Codigo": "200007450",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "R$ 10,3000",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

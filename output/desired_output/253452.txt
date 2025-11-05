@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253452.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "547/2025",
+    "Numero_Processo": "146.00008805/2025-11"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO DA UNIVERSIDADE DE SÃO PAULO",
+    "CNPJ": "56.023.443/0001-52",
+    "UG": "",
+    "Endereco": "Campus Universitário, s/nº, bairro Monte Alegre, Ribeirão Preto S.P, CEP 14048-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "SUPERINTENDENTE PROF. DR.",
+        "Nome": "RICARDO DE CARVALHO CAVALLI"
+      },
+      {
+        "Cargo": "",
+        "Nome": "AMAURI CUONO GENNARI"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SUPRICORP SUPRIMENTOS LTDA",
+    "CNPJ": "54.651.716/0011-50",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "CHAMEX Solution A4",
+      "Codigo": "",
+      "Unidade_Medida": "PCT",
+      "Quantidade_Registrada": "40.600,00",
+      "Valor_Unitario": "R$ 19,000000",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,23 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253476.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "715/2025",
+    "Numero_Processo": "SMS-PRO-2023/06322"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DO RIO DE JANEIRO, por meio da Secretaria Municipal de Saúde",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": []
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

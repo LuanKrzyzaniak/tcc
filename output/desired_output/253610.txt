@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253610.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00291/2025",
+    "Numero_Processo": "23523.001135/2025-55",
+    "Pregao_Eletronico": "Nº 90047/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares - Ebserh, filial Hospital Universitário da Universidade Federal do Maranhão - HU-UFMA",
+    "CNPJ": "15.126.437/0004-96",
+    "UG": "155010",
+    "Endereco": "Rua Barão de Itapary, 227 - Centro - São Luís (MA) - CEP 65.020-070",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Joyce Santos Lages"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "PROEL HOSPITALAR COMÉRCIO DE PRODUTOS HOSPITALARES EIRELI",
+    "CNPJ": "10.518.694/0001-07",
+    "Endereco": "Rua João Cordeiro, 1290, Aldeota, Fortaleza/CE, CEP 60.110-301",
+    "Telefone": "(85) 3224-8555",
+    "Email": "vendas@proelhospitalar.com",
+    "Representante_Legal": "MARIA SORAYA ROQUE PINHEIRO (Sócia Administradora)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "DESFIBRILADOR E MONITOR CARDÍACO. MARCA/FABRICANTE: C.A.F. / PRODI-MED",
+      "Marca_Modelo": "LIFESCREEN / C.A.F. / PRODI-MED",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "02",
+      "Valor_Unitario": "R$ 17.500,00",
+      "Valor_Total_Item": "R$ 35.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 35.000,00"
+}

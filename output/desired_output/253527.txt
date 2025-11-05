@@ -1,2 +1,101 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253527.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "540/2025",
+    "Numero_Processo": "23818.009158/2025-01",
+    "Pregao_Eletronico": "005/2025",
+    "Objeto": "ATA DE REGISTRO DE PREÇOS (Instrumental Hospitalar)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO ANTÔNIO PEDRO (HUAP-UFF) - Empresa Brasileira de Serviços Hospitalares (Ebserh)",
+    "CNPJ": "15.126.437/00036-73",
+    "UG": "155915",
+    "Endereco": "Rua Marquês do Paraná, nº 303, Centro, Niterói, Rio de Janeiro, CEP 24033-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "BENI OLEJ"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "METALIC MEDICAL PRODUTOS HOSPITALARES LTDA",
+    "CNPJ": "05.788.196/0001-40",
+    "Endereco": "Rua Guiricema 211, Padre Miguel, Rio de Janeiro - RJ, CEP 21720-050",
+    "Telefone": "(21) 3217-0618",
+    "Email": "metalicmedical@gmail.com",
+    "Representante_Legal": "VINICIUS MARTINS STOKLOSKI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "CAIXA DE INSTRUMENTAL, AÇO INOX, PERF, TAM: 23X12X5 CM, (PINÇA BECKMAN 23 CM, CURVA, COM DENTES)",
+      "Marca_Modelo": "FABRICACAO NACIONAL",
+      "Codigo": "227699-0",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "6",
+      "Valor_Unitario": "R$ 119,70",
+      "Valor_Total_Item": "R$ 718,20"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "TESOURA, CIRÚRGICA, PONTA ROMBA/ROMA, RETA, TAMANHO: 14 CM",
+      "Marca_Modelo": "ABC",
+      "Codigo": "227763-8",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "5",
+      "Valor_Unitario": "R$ 4,89",
+      "Valor_Total_Item": "R$ 24,45"
+    },
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "CAIXA DE INSTRUMENTAL, AÇO INOX, PERF, TAM: 25X12X5 CM, (TESOURA METZENBAUM 14 CM, CURVA)",
+      "Marca_Modelo": "FABRICACAO NACIONAL",
+      "Codigo": "227769-7",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "6",
+      "Valor_Unitario": "R$ 139,70",
+      "Valor_Total_Item": "R$ 838,20"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "TESOURA, CIRÚRGICA, PONTA ROMBA/ROMA, RETA, TAMANHO: 18 CM",
+      "Marca_Modelo": "ABC",
+      "Codigo": "227772-7",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "5",
+      "Valor_Unitario": "R$ 7,12",
+      "Valor_Total_Item": "R$ 35,60"
+    },
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "CAIXA DE INSTRUMENTAL, AÇO INOX, PERF, TAM: 25X12X5 CM, (TESOURA MAYO 17 CM, RETA)",
+      "Marca_Modelo": "FABRICACAO NACIONAL",
+      "Codigo": "227779-4",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "6",
+      "Valor_Unitario": "R$ 143,70",
+      "Valor_Total_Item": "R$ 862,20"
+    },
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "TESOURA, CIRÚRGICA, PONTA ROMBA/ROMA, RETA, TAMANHO: 21 CM",
+      "Marca_Modelo": "ABC",
+      "Codigo": "227782-4",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "5",
+      "Valor_Unitario": "R$ 9,07",
+      "Valor_Total_Item": "R$ 45,35"
+    },
+    {
+      "Item_TR": "13",
+      "Descricao_Especificacao": "PINÇA, ALGODÃO, TIPO BACIA, TAM: 15 CM",
+      "Marca_Modelo": "ABC",
+      "Codigo": "227796-4",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "5",
+      "Valor_Unitario": "R$ 3,17",
+      "Valor_Total_Item": "R$ 15,85"
+    }
+  ],
+  "Valor_Total": "R$ 2.549,85"
+}

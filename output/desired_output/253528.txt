@@ -1,2 +1,91 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253528.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "9024/2025",
+    "Numero_Processo": "25385.000205/2025-13",
+    "Pregao_Eletronico": "90004/2025",
+    "Objeto": "REGISTRO DE PREÇOS (Meio de cultura)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO NAC. DE CONTROLE E QUALID. EM SAUDE (FIOCRUZ)",
+    "CNPJ": "33.781.055/0020-06",
+    "UG": "",
+    "Endereco": "Av. Brasil, 4365 - Manguinhos, Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora/Autoridade Competente",
+        "Nome": "MYCHELLE ALVES MONTEIRO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BIOTESTE COMERCIO E SERVICOS DE PRODUTOS PARA LABORATORIOS LTDA",
+    "CNPJ": "04.994.498/0001-09",
+    "Endereco": "RUA VICENTE POLITO 394, VILA PRUDENTE, SÃO PAULO - SP, CEP 03203-050",
+    "Telefone": "(11) 2368-2300",
+    "Email": "BIOTESTE@BIOTESTE.COM.BR",
+    "Representante_Legal": "RAPHAEL MEDEIROS RIBEIRO DA SILVA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "PREPARO DE MEIO DE CULTURA, Meio de cultura pronto ou desidratado, para Escherichia Coli, para uso em microbiologia, em placas de Petri com 90x15 mm com 15-20mL de meio, 30g/ml.",
+      "Marca_Modelo": "BIOTESTE",
+      "Codigo": "",
+      "Unidade_Medida": "PLACA",
+      "Quantidade_Registrada": "1.100",
+      "Valor_Unitario": "R$ 3,15",
+      "Valor_Total_Item": "R$ 3.465,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "PREPARO DE MEIO DE CULTURA, Meio de cultura pronto ou desidratado, para Salmonella, para uso em microbiologia, em placas de Petri com 90x15 mm com 15-20mL de meio, 30g/ml.",
+      "Marca_Modelo": "BIOTESTE",
+      "Codigo": "",
+      "Unidade_Medida": "PLACA",
+      "Quantidade_Registrada": "1.100",
+      "Valor_Unitario": "R$ 3,15",
+      "Valor_Total_Item": "R$ 3.465,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "PREPARO DE MEIO DE CULTURA, Meio de cultura pronto ou desidratado, para Staphylococcus aureus, para uso em microbiologia, em placas de Petri com 90x15 mm com 15-20mL de meio, 30g/ml.",
+      "Marca_Modelo": "BIOTESTE",
+      "Codigo": "",
+      "Unidade_Medida": "PLACA",
+      "Quantidade_Registrada": "1.100",
+      "Valor_Unitario": "R$ 3,15",
+      "Valor_Total_Item": "R$ 3.465,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "PREPARO DE MEIO DE CULTURA, Meio de cultura pronto ou desidratado, para Bacillus Cereus, para uso em microbiologia, em placas de Petri com 90x15 mm com 15-20mL de meio, 30g/ml.",
+      "Marca_Modelo": "BIOTESTE",
+      "Codigo": "",
+      "Unidade_Medida": "PLACA",
+      "Quantidade_Registrada": "500",
+      "Valor_Unitario": "R$ 3,15",
+      "Valor_Total_Item": "R$ 1.575,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "PREPARO DE MEIO DE CULTURA, Meio de cultura pronto ou desidratado, para Listeria Monocytogenes, para uso em microbiologia, em placas de Petri com 90x15 mm com 15-20mL de meio, 30g/ml.",
+      "Marca_Modelo": "BIOTESTE",
+      "Codigo": "",
+      "Unidade_Medida": "PLACA",
+      "Quantidade_Registrada": "500",
+      "Valor_Unitario": "R$ 3,15",
+      "Valor_Total_Item": "R$ 1.575,00"
+    },
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "PREPARO DE MEIO DE CULTURA, Meio de cultura pronto ou desidratado, para Pseudomonas aeruginosa, para uso em microbiologia, em placas de Petri com 90x15 mm com 15-20mL de meio, 30g/ml.",
+      "Marca_Modelo": "BIOTESTE",
+      "Codigo": "",
+      "Unidade_Medida": "PLACA",
+      "Quantidade_Registrada": "500",
+      "Valor_Unitario": "R$ 3,15",
+      "Valor_Total_Item": "R$ 1.575,00"
+    }
+  ],
+  "Valor_Total": "R$ 15.520,00"
+}

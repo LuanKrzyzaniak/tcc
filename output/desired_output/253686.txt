@@ -1,2 +1,44 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253686.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "379/2025",
+    "Numero_Processo": "23765.007395/2025-91",
+    "Pregao_Eletronico": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES EBSERH HOSPITAL UNIVERSITÁRIO DA UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+    "CNPJ": "15.126.437/0025-10",
+    "UG": "155903",
+    "Endereco": "Avenida Eugênio do Nascimento, S/N, Aeroporto, Juiz de Fora/MG, CEP: 36.038-330",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "José Otávio do Amaral Correa"
+      },
+      {
+        "Cargo": "Gerente Administrativo Substituto",
+        "Nome": "Vitor Luiz Andrade"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "LEANDRO ALVES NASCIMENTO DA SILVA LEMOS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "SER ATÓXICO, MACIO, MALEÁVEL, COM AÇÃO ANTIMICROBIANA EFETIVA, INDOLOR.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253644.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "0199/2025",
+    "Numero_Processo": "04044-00041959/2025-98"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE ECONOMIA DO DISTRITO FEDERAL",
+    "CNPJ": "00.394.684/0001-53",
+    "UG": "",
+    "Endereco": "Anexo do Palácio do Buriti, 5.º andar, sala 508, Zona Cívico-Administrativa Brasília/DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Subsecretária de Compras Governamentais",
+        "Nome": "Monise Carrijo Fernandes da Fonseca"
+      },
+      {
+        "Cargo": "Coordenadora de Gestão de Suprimentos",
+        "Nome": "Andrea Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MANUPA COMÉRCIO EXPORTAÇÃO IMPORTAÇÃO DE EQUIPAMENTOS E VEÍCULOS ADAPTADOS LTDA",
+    "CNPJ": "03.093.776/0007-87",
+    "Endereco": "Rua Itagi, 599, sala 224, Pitangueiras - Lauro de Freitas/BA, CEP: 42.701-370",
+    "Telefone": "(11) 94594-8269/(11) 2478-2818",
+    "Email": "vendas@manupa.com.br/cotacao@manupa.com.br",
+    "Representante_Legal": "Manuella Jacob"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "VEÍCULO, Descrição: caminhão tipo truck, 6x2, 0 km, com capacidade para no mínimo 3 ocupantes (incluindo o motorista), potência mínima de 220 CV, combustível: diesel, tração 6x2, direção hidráulica/elétrica, características adicionais: conforme termo de referência.",
+      "Marca_Modelo": "SHACMAN/X3000",
+      "Codigo": "269784",
+      "Unidade_Medida": "unidade",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "630.000,00",
+      "Valor_Total_Item": "1.260.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.260.000,00"
+}

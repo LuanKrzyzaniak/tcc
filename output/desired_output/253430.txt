@@ -1,2 +1,59 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253430.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "1149/2025",
+    "Numero_Processo": "04105.0000001401/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Agência de Modernização da Gestão de Processos - AMGESP",
+    "CNPJ": "07.424.905/0001-38",
+    "UG": "925998",
+    "Endereco": "Avenida Walter Ananias, n.º 35A Jaraguá, CEP: 57025-510 - Maceió/AL",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Presidente",
+        "Nome": "Sr. Amilton Barbosa Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SEVEN COMERCIO E SERVIÇO LTDA",
+    "CNPJ": "42.664.062/0001-09",
+    "Endereco": "RUA DEPUTADO ULISSES GUIMARÃES, Nº 144, JARDIM SANTA CRUZ, SÃO LUÍS - MA, CEP: 65.045-810",
+    "Telefone": "(98) 98708-3140",
+    "Email": "SEVENCOMERCIOESERVICO@GMAIL.COM",
+    "Representante_Legal": "WILSON DE CARVALHO SANTANA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "7",
+      "Descricao_Especificacao": "CABO DE AÇO Tipo: De Uso Geral, Diâmetro: 5/16POL, Material: Aço, Acabamento Superficial: Galvanizado, Construção: 6x19, Aplicação: Exercícios de aparelhos de academia.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "METRO",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 13,00",
+      "Valor_Total_Item": "R$ 2.600,00"
+    },
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "CORDA NAVAL Material: Sisal, Comprimento: 10M, Tipo: Exercício, Característica Adicional: 38 mm.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "15",
+      "Valor_Unitario": "R$ 265,00",
+      "Valor_Total_Item": "R$ 3.975,00"
+    },
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "COLCHONETE Material: Courino com espuma D33, Cor: preto, Característica Adicional: Tamanho padrão academia.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "10",
+      "Valor_Unitario": "R$ 130,00",
+      "Valor_Total_Item": "R$ 1.300,00"
+    }
+  ],
+  "Valor_Total": ""
+}

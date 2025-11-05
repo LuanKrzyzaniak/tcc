@@ -1,2 +1,30 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253468.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N°29/2025",
+    "Numero_Processo": "64616.000537/2025-81",
+    "Pregao_Eletronico": "Nº 90.006/2025",
+    "Processo_Licitatorio": "157/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Odontoclínica Central do Exército",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "CEL EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LUIZ GOULART & CIA LTDA ME",
+    "CNPJ": "88.014.006/0001-69",
+    "Endereco": "Avenida Protásio Alves, 3121, Porto Alegre - RS",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

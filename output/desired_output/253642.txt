@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253642.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "159/2025",
+    "Numero_Processo": "23540.000948/2025-10"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA, filial da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126",
+    "Endereco": "Avenida Lourival Melo Mota, S/N - Cidade Universitária - Maceió - Alagoas, CEP 57.072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Sr. Célio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Sr. Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "HOSPFAR INDÚSTRIA E COMÉRCIO DE PRODUTOS HOSPITALARES S.A.",
+    "CNPJ": "09.006.879/0001-38",
+    "Endereco": "RUA GUILHERME DE ALMEIDA, S/N, DISTRITO INDUSTRIAL, CEP: 86.818-740, APUCARANA - PR",
+    "Telefone": "(43) 3302-3636",
+    "Email": "licitacao@hospfar.com.br",
+    "Representante_Legal": "LEANDRO LUAN GONÇALVES DE OLIVEIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "INTEGRADOR QUÍMICO DE USO INTERNO, CLASSE 5. INDICADOR QUÍMICO CLASSE V, DO TIPO INTEGRADOR, INTERNO, DE USO ÚNICO, QUE PERMITE EFETUAR A MONITORAÇÃO DOS PARAMETROS CRÍTICOS...",
+      "Marca_Modelo": "STEAMGUARD / G26002 - REGISTRO ANVISA: 80031890040",
+      "Codigo": "3605",
+      "Unidade_Medida": "PACOTE COM 250 UNIDADES",
+      "Quantidade_Registrada": "11",
+      "Valor_Unitario": "105,95",
+      "Valor_Total_Item": "1.165,45"
+    }
+  ],
+  "Valor_Total": "R$ 1.165,45"
+}

@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253536.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "17/2025",
+    "Numero_Processo": "08500.022468/2025-92",
+    "Numero_Pregao": "90008/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Superintendência Regional de Polícia Federal em São Paulo",
+    "CNPJ": "00.394.494/0040-42",
+    "UG": "",
+    "Endereco": "Rua Hugo Dántola nº 96, Lapa de Baixo, São Paulo/SP, CEP 05038-090",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente Regional",
+        "Nome": "RODRIGO LUIS SANFURGO DE CARVALHO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "E-commax Negócios Públicos Eletrônicos Ltda",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Max Altemburgue do Nascimento"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

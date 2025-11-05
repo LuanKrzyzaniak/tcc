@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253472.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "431/2024",
+    "Numero_Processo": "64578.022002/2024-83"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL GERAL DE CURITIBA",
+    "CNPJ": "09.579.964/0001-00",
+    "UG": "160223",
+    "Endereco": "Praça Marechal Alberto Ferreira de Abreu, s/nº, Batel, na cidade de Curitiba / PR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora/Ordenadora de Despesas",
+        "Nome": "Tenente Coronel Simone Abreu"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "KIENTRO BRASIL LTDA",
+    "CNPJ": "19.717.870/0001-04",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

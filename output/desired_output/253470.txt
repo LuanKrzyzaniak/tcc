@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253470.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 553/2025",
+    "Numero_Processo": "23537.028941/2025-11"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares - Ebserh, Hospital das Clínicas da Universidade Federal de Minas Gerais",
+    "CNPJ": "15.126.437/0015-49",
+    "UG": "155021",
+    "Endereco": "Avenida Professor Alfredo Balena, nº 110 Belo Horizonte/MG CEP 30.130-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Professor Alexandre Rodrigues Ferreira"
+      },
+      {
+        "Cargo": "Gerente Administrativa",
+        "Nome": "Elizete Maria da Silva Neme"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DCB DISTRIBUIDORA CIRURGICA BRAS LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Bruno Augusto dos Santos Baltazar"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "COMPRESSAS CIRUR...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNID",
+      "Quantidade_Registrada": "QUANT.",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 909.090,00"
+}

@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253357.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "1165/2025",
+    "Numero_Processo": "64582.002914/2025-51"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL MILITAR DE ÁREA DE PORTO ALEGRE",
+    "CNPJ": "10.360.293/0001-71 e/ou 10.360.293/0002-52",
+    "UG": "",
+    "Endereco": "Avenida Mariland, nº 450 - Bairro São João, na cidade de Porto Alegre/RS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "TEN CEL PEDRO LEOPOLDO ROUQUAYROL"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "32.708.161/0001-20",
+    "Endereco": "Avenida Robert Koch N° 1553 Cep: 86.037-010",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

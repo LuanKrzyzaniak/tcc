@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253369.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "SEI Nº 301/2025",
+    "Numero_Processo": "23070.020980/2024-14"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Universidade Federal de Goiás - UFG",
+    "CNPJ": "01.567.601/0001-43",
+    "UG": "",
+    "Endereco": "Campus Samambaia, prédio da Reitoria, na cidade de Goiânia - Goiás",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Reitora, Prof Dr",
+        "Nome": "ANGELITA PEREIRA DE LIMA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Jefferson Eduardo Souza"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253331.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "98/2025",
+    "Numero_Processo": "23081077804202514"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA MARIA (UFSM)",
+    "CNPJ": "95.591.764/0001-05",
+    "UG": "153164",
+    "Endereco": "Av. Roraima, 1.000, Campus Universitário, Santa Maria/RS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "N/A",
+        "Nome": "N/A (Apenas o Pregoeiro: MARCELO GODOI MACHADO)"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "N/A",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

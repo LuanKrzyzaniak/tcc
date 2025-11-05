@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253396.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N°211/2025",
+    "Numero_Processo": "n°64578.011747/2025-06"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL GERAL DE CURITIBA",
+    "CNPJ": "09.579.964/0001-00",
+    "UG": "",
+    "Endereco": "Praça Marechal Alberto Ferreira de Abreu, S/n°, na cidade de Batel, Curitiba/PR, CEP: 80.420-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora / Ordenadora de Despesas do Hospital Geral de Curitiba",
+        "Nome": "Tenente-Coronel Simone Abreu"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "VITALEEP DISTRIBUIDORA DE MEDICAMENTOS IMPORTADOS LTDA",
+    "CNPJ": "38.823.439/0001-97",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "13",
+      "Descricao_Especificacao": "RUXOLITINIBE, CONCENTRAÇÃO:15 MG",
+      "Marca_Modelo": "NOVARTIS/JAKAVI 15MG",
+      "Codigo": "",
+      "Unidade_Medida": "CP",
+      "Quantidade_Registrada": "720",
+      "Valor_Unitario": "R$ 430,00",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

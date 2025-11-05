@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253722.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 04/2025-SEJUS",
+    "Numero_Processo": "00400-00026493/2025-99"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "JULIO CESAR GASPARINI JUNIOR",
+    "CNPJ": "08.973.569/0001-45",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "JULIO CESAR GASPARINI JUNIOR"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

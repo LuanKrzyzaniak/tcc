@@ -1,2 +1,49 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253414.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "10/2025",
+    "Numero_Processo": "64616.000537/2025-81"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Odontoclínica Central do Exército",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "CEL Ordenador de Despesas",
+        "Nome": "EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "WJM DENTAL LTDA EPP",
+    "CNPJ": "72.367.600/0001-01",
+    "Endereco": "Rua Doutor Bulhões, 487 Engenho de Dentro RJ",
+    "Telefone": "(21) 3489-1871",
+    "Email": "licitacoes@wjmdental.com.br",
+    "Representante_Legal": "DANIELE ROSA PINHEIRO DA SILVA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "HASTE:HASTE LONGA, COMPLEMENTAR:COMPRIMENTO:32 MM. PADRÃO DE REFERÊNCIA DENTSPLY OU SUPERIOR.CAIXA COM 6 UNIDADES",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "34",
+      "Descricao_Especificacao": "LIMA USO ODONTOLÓGICO, MATERIAL A..., TORCÃO KERR MODELO:TIPO COMPRIMENTO:25 MM, APLICAÇÃO:DIGITAL, TAMANHO: N° 10 COMPONENTES:C/ CURSOR. PADRÃO DE REFERÊNCIA MAILLEFER DENTSPLY OU SUPERIOR",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

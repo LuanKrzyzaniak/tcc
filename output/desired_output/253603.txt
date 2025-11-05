@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253603.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "716/2025",
+    "Numero_Processo": "01-P-9949/2025",
+    "Modalidade_Licitacao": "PREGÃO ELETRÔNICO DGA Nº 90297/2025",
+    "Outro_Processo": "01-P-33473/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161",
+    "Endereco": "Cidade Universitária de \"Zeferino Vaz\", Distrito de Barão Geraldo, Campinas, Estado de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Portador(a) da matrícula funcional nº 308817",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "JOTEC DO BRASIL IMPORTACAO E COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA.",
+    "CNPJ": "21.996.505/0001-28",
+    "Endereco": "RUA CRISTINA MONTANARI ROVERE, N° 10 - VILA FAUSTINA I VALINHOS/SP CEP: 13.271-380",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Ricardo Galvão Sande e Oliveira"
+  },
+  "Objeto": "Registro de preços para a eventual contratação de PRÓTESES VALVARES METÁLICAS AÓRTICA E MITRAL",
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "PROTESE VALVULAR MECANICA (Detalhes: Protese Valvular Metalica; Em Aco Inox; Revestida De Carvão Pirolítico; Esteril; Apirogenica; Atoxica; Acondicionado Em Material Apropriado Com Barreira Microbiana Que Permita Transferencia A Asseptica)",
+      "Marca_Modelo": "",
+      "Codigo": "15616",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "LOTE 02 (Quantidade Mínima a ser cotada: 80%)",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

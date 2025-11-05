@@ -1,2 +1,50 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253688.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "711/2025",
+    "Numero_Processo": "15-P-41112/2023, 01-P-33295/2025",
+    "Pregao_Eletronico": "DGA Nº 90163/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161",
+    "Endereco": "Praça das Bandeiras, n° 45- Quadra 2 - Prédio 1, Cidade Universitária \"Zeferino Vaz\" - Barão Geraldo, Campinas - SP - Brasil - CEP: 13083-869",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Sistema Fechado Aspiração Traqueostomia n12",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "Sistema Fechado Aspiração Endotraqueal n.10",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

@@ -1,2 +1,33 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253590.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "SEI 12469639",
+    "Numero_Processo": "21186.001059/2025-21",
+    "Pregao_Eletronico_ARP": "90026/25"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA - Embrapa (Unidade: Embrapa Mandioca e Fruticultura)",
+    "CNPJ": "00.348.003/0045-31",
+    "UG": "",
+    "Endereco": "Rua Embrapa, S/nº Chapadinha, Cruz das Almas-BA",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Chefe Geral",
+        "Nome": "Francisco Ferraz Laranjeira Barbosa"
+      },
+      {
+        "Cargo": "Chefe Adjunto de Administração",
+        "Nome": "Pedro Canna Brazil Ramos"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "VEOLIA WATER TECHNOLOGIES BRASIL LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Carlos Alberto Pasqualini"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

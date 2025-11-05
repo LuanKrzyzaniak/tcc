@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253732.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 21/2025 - SEJUS",
+    "Numero_Processo": "00400-00037773/2025-22",
+    "Codigo_Unico": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Telefone": "",
+    "Email": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "STORAGE & LOGISTICS IMPORTACAO E EXPORTACAO LTDA",
+    "CNPJ": "01.812.515/0001-59",
+    "Endereco": "ALAMEDA RIO PRETO, 752 SALA 01-A TAMBORE 06.460-050 Barueri / São Paulo",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "GEORGE NIEMEYER"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "Barbeador descartável. Material do corpo: plástico. Material da lâmina: aço inox. Quantidade de lâminas: 02.(Pacote com duas unidades). Importado.",
+      "Marca_Modelo": "DORCO/ AZUL 2 LAMINAS",
+      "Codigo": "",
+      "Unidade_Medida": "PCT",
+      "Quantidade_Registrada": "8.269",
+      "Valor_Unitario": "1,08",
+      "Valor_Total_Item": "8.930,52"
+    }
+  ],
+  "Valor_Total": "R$ 8.930,52"
+}

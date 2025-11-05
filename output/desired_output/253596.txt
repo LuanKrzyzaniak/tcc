@@ -1,2 +1,34 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253596.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00289/2025",
+    "Numero_Processo": "23523.001135/2025-55",
+    "Modalidade_Licitacao": "PREGÃO ELETRÔNICO PARA REGISTRO DE PREÇOS Nº 90047/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares Ebserh, filial Hospital Universitário da Universidade Federal do Maranhão - HU-UFMA",
+    "CNPJ": "15.126.437/0004-96",
+    "UG": "155010",
+    "Endereco": "Rua Barão de Itapary, nº 227 - Bairro Centro, São Luís-MA, СЕР 65020-070",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Joyce Santos Lages"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Eurico Santos Neto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "(11) 5016-2940/5012-3771",
+    "Email": "tecnoprintt@uol.com.br",
+    "Representante_Legal": "HELOISA APARECIDA PASCUIM PEREIRA"
+  },
+  "Objeto": "Registro de preços para futura e eventual aquisição de componentes de equipamentos clínicos",
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

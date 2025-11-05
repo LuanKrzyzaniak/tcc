@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253322.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "161/2025",
+    "Numero_Processo": "64482.003945/2025-57"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Comando do Exército, por meio da Prefeitura Militar de Brasília (PMB)",
+    "CNPJ": "09.577.927/0001-63",
+    "UG": "160082",
+    "Endereco": "Complexo Militar do Planalto, Quartel General do CMP/11ª RM, Avenida do Exército S/N°, Setor Militar Urbano, na cidade de Brasília-DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coronel",
+        "Nome": "SÉRGIO RÓGER ARRAIS TORRES"
+      }
+    ]
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "Adesivo de silicone acético (uso geral) branco 280g",
+      "Marca_Modelo": "Tytan",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "1500",
+      "Valor_Unitario": "R$ 13,00"
+    }
+  ]
+}

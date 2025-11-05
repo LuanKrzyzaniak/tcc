@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253462.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 560/2025",
+    "Numero_Processo": "25410.010817/2024-71",
+    "Registro_Precos": "n° 034/2025",
+    "Pregao_Eletronico": "Nº 91.124/2025 - INCA"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO NACIONAL DE CÂNCER",
+    "CNPJ": "00.394.544/0171-50",
+    "UG": "",
+    "Endereco": "Praça Cruz Vermelha, nº 23, 4º andar, nesta cidade, CEP: 20231-130",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor Geral",
+        "Nome": "Dr. ROBERTO DE ALMEIDA GIL"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "EUROFARMA LABORATÓRIOS S/A",
+    "CNPJ": "61.190.096/0008-6",
+    "Endereco": "ROD. PRES. CASTELLO BRANCO, KM 35,6 - ITAPEVI - SP CEP: 06696-000",
+    "Telefone": "(11) 5090.8533",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "VINORELBINA 10MG/ML F/A 5ML",
+      "Marca_Modelo": "NORELBIN",
+      "Codigo": "1177",
+      "Unidade_Medida": "FR",
+      "Quantidade_Registrada": "668",
+      "Valor_Unitario": "R$ 411,00",
+      "Valor_Total_Item": "R$ 274.548,00"
+    }
+  ],
+  "Valor_Total": "R$ 274.548,00"
+}

@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253609.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 717/2025",
+    "Numero_Processo": "15-P-39109/2023 (ASCENDENTE), 01-P-33475/2025 (DESCENDENTE)",
+    "Pregao_Eletronico": "DGA Nº 90309/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161 (UASG)",
+    "Endereco": "Cidade Universitária de \"Zeferino Vaz\", Distrito de Barão Geraldo, Campinas, Estado de São Paulo",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Portador(a) da matrícula funcional nº 308817",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BIODINAMICA QUIMICA E FARMACEUTICA LTDA",
+    "CNPJ": "54.436.002/0001-09",
+    "Endereco": "Rua XV de Novembro, 1076, Vila Paraiso, Jundiai/SP, CEP 13.202-005",
+    "Telefone": "(11) 4588-4444",
+    "Email": "biodinamica@biodinamica.com.br",
+    "Representante_Legal": "Claudia Cristina de Oliveira"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "PASTA DE DIAGNÓSTICO (PASTA D´ÁGUA/HIDRÓXIDO DE CÁLCIO)",
+      "Marca_Modelo": "",
+      "Codigo": "240578",
+      "Unidade_Medida": "PCT",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "R$ 14,9900",
+      "Valor_Total_Item": "R$ 179,88"
+    }
+  ],
+  "Valor_Total": "R$ 179,88"
+}

@@ -1,2 +1,59 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253278.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Ν. 78/2025",
+    "Numero_Processo": "23076.075296/2023-89"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Universidade Federal de Pernambuco",
+    "CNPJ": "24.134.488/0001-08",
+    "UG": "",
+    "Endereco": "Avenida da Arquitetura, s/n, Campus Joaquim Amazonas, Cidade Universitária, na cidade de Recife/PE",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Magnífico Reitor",
+        "Nome": "Prof. Alfredo Macedo Gomes"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "THOMAS JOSE BELTRAO DE ARAUJO ALBUQUERQUE-ME",
+    "CNPJ": "19.918.905/0001-73",
+    "Endereco": "RUA BRUNO MAIA DE MELO, N 81, MANGABEIRA, CEP 58059-132, JOAO PESSOA PB.",
+    "Telefone": "(083) 98660-6164/99656-6164/4141-6164",
+    "Email": "tb.jp@hotmail.com/ tbcomercioeservicos@gmail.com",
+    "Representante_Legal": "THOMAS JOSE BELTRAO DE ARAUJO ALBUQUERQUE"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "Máquina Lavar Roupa Tipo: Automática Capacidade: 15 KG, Aplicação: Doméstica, Lavagem/Enxágüe E Centrifugação, Características Adicionais: Com 5 Programas De Lavagem E Abertura Superior, Voltagem: 127/220 V, Material Gabinete: Metálico, Material Cesto: Aço Inoxidável. Só será admitida a oferta deste produto caso possua a Etiqueta Nacional de Conservação de Energia - ENCE, na...",
+      "Marca_Modelo": "CONSUL/ CWN15ABBNA",
+      "Codigo": "",
+      "Unidade_Medida": "Unidade",
+      "Quantidade_Registrada": "01",
+      "Valor_Unitario": "R$ 2.458,2400",
+      "Valor_Total_Item": "R$ 2.458,2400"
+    },
+    {
+      "Item_TR": "50",
+      "Descricao_Especificacao": "Refrigerador Duplex Capacidade Refrigeração: 451 a 480 L, Sistema Degelo: Frost Free, Características Adicionais: Descongelamento Automático. Só será admitida a oferta deste produto caso possua a Etiqueta Nacional de Conservação de Energia – ENCE, na classe A, nos termos da Portaria INMETRO n° 332, DE 2 DE AGOSTO DE 2021, que aprova os Requisitos de Avaliação da Conformidade – RAC do produto e trata da etiquetagem compulsória. Local de entrega: Natal/RN.",
+      "Marca_Modelo": "BR0253537",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "25",
+      "Valor_Unitario": "R$ 6.402,11",
+      "Valor_Total_Item": "R$ 160.052,75"
+    },
+    {
+      "Item_TR": "51",
+      "Descricao_Especificacao": "IDEM AO ITEM 50 - Refrigerador Duplex Capacidade Refrigeração: 451 a 480 L, Sistema Degelo: Frost Free , Características Adicionais: Descongelamento Automático. Só será admitida a oferta deste produto caso possua a Etiqueta Nacional de Conservação de Energia – ENCE, na classe A, nos termos da Portaria INMETRO n° 332, DE 2 DE AGOSTO DE 2021, que aprova os Requisitos de Avaliação da Conformidade – RAC do produto e trata da etiquetagem compulsória. Local de entrega: Natal/RN.",
+      "Marca_Modelo": "BR0253537",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "R$ 6.402,11",
+      "Valor_Total_Item": "R$ 12.804,22"
+    }
+  ],
+  "Valor_Total": ""
+}

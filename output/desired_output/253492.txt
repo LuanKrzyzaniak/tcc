@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253492.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "12/2025",
+    "Numero_Processo": "08500.022468/2025-92"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "União, por intermédio da Superintendência Regional de Polícia Federal em São Paulo",
+    "CNPJ": "00.394.494/0040-42",
+    "UG": "",
+    "Endereco": "Rua Hugo Dántola nº 96, Lapa de Baixo, São Paulo/SP, CEP 05038-090",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente Regional",
+        "Nome": "RODRIGO LUIS SANFURGO DE CARVALHO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "Orla Distribuidora (Grupo 4)",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Orlando Abud Junior"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "Quadro avisos, material cortiça, finalidade mural, material moldura alumínio, 120x90cm.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

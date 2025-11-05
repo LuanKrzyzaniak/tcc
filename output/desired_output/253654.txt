@@ -1,2 +1,46 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253654.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "30.7/2025",
+    "Numero_Processo": "23769.011765/2025-55",
+    "Pregao_Eletronico_SRP": "",
+    "Validade": "",
+    "UASG": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares Ebserh, filial Hospital Universitário Alcides Carneiro (HUAC-UFCG)",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Carlos Chagas, S/N, São José, Campina Grande/PB, CEP 58.400-398",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Sr. HOMERO GUSTAVO CORREIA RODRIGUES"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Sr. VICEMÁRIO SIMÕES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "PROVIDE HOSPITALAR LTDA.",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "licitacoes@providehospitalar.com.br",
+    "Representante_Legal": "VINICIUS MILIORINI BOTTI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

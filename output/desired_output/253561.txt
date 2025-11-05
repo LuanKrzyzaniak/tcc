@@ -1,2 +1,64 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253561.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "309/2025- SMSA",
+    "Numero_Pregao_Eletronico": "90047/2025",
+    "Numero_Processo": "00000.0.003067/2025 (VOLUME 1)00000.9.408985/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR (com interveniência da SECRETARIA MUNICIPAL DE SAÚDE)",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, nesta cidade",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DM SOLUÇÕES INTEGRADAS LTDA",
+    "CNPJ": "57.228.594/0001-00",
+    "Endereco": "Av. Estudante Jose Júlio de Souza, nº 2170, APT 1408, Praia de Itaparica, CEP n° 29.102-010, Vila Velha/ES",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "DIEGO CARRANCA DE AGUIRRE"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "FRALDA DESCARTÁVEL INFANTIL, TIPO FORMATO: UNISSEX ANATÓMICO, CARACTERÍSTICAS ADICIONAIS: FLOCOS DE GEL, ABAS ANTIVAZAMENTO, TIPO ADESIVO FIXAÇÃO: FITAS ADESIVAS REPOSICIONÁVEIS, TECIDO HIPOALERGÊNICO, USO: FLUXO INTENSO OU NOTURNO, TAMANHO P.",
+      "Marca_Modelo": "VITALIDADE BABY P",
+      "Codigo": "",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "154.980",
+      "Valor_Unitario": "0,52",
+      "Valor_Total_Item": "80.589,60"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "FRALDA DESCARTÁVEL INFANTIL, TIPO FORMATO: UNISSEX ANATÔMICO, CARACTERÍSTICAS ADICIONAIS: FLOCOS DE GEL, ABAS ANTIVAZAMENTO, TIPO ADESIVO FIXAÇÃO: FITAS ADESIVAS REPOSICIONÁVEIS, TECIDO HIPOALERGÊNICO, USO: FLUXO INTENSO OU NOTURNO, TAMANHO M.",
+      "Marca_Modelo": "VITALIDADE BABY M",
+      "Codigo": "",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "154.200",
+      "Valor_Unitario": "0,57",
+      "Valor_Total_Item": "87.894,00"
+    },
+    {
+      "Item_TR": "03",
+      "Descricao_Especificacao": "FRALDA DESCARTÁVEL INFANTIL, TIPO FORMATO: UNISSEX ANATÓMICO, CARACTERÍSTICAS ADICIONAIS: FLOCOS DE GEL, ABAS ANTIVAZAMENTO, TIPO ADESIVO FIXAÇÃO: FITAS ADESIVAS REPOSICIONÁVEIS, TECIDO HIPOALERGÊNICO, USO: FLUXO INTENSO OU NOTURNO, TAMANHO G.",
+      "Marca_Modelo": "VITALIDADE BABY G",
+      "Codigo": "",
+      "Unidade_Medida": "UNID.",
+      "Quantidade_Registrada": "177.200",
+      "Valor_Unitario": "0,66",
+      "Valor_Total_Item": "116.952,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.426.149,80"
+}

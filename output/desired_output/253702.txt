@@ -1,2 +1,50 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253702.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "10/2025-SEJUS",
+    "Numero_Processo": "00400-00028278/2025-22",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "N&S INFORMATICA E PAPELARIA LTDA",
+    "CNPJ": "17.653.601/0001-08",
+    "Endereco": "SAAN, Q. 01, Bloco A, Salas 101 a 112, Edifício SAAN - Brasília DF, CEP: 70.632-000",
+    "Telefone": "(61) 3462-1065",
+    "Email": "licitacao@nscomercio.com.br",
+    "Representante_Legal": "SILVIA GATTO DOS SANTOS (Sócia)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Impressora Multifuncional, Tipo: jato de tinta colorida, com tanque de tinta, Wifi, USB, compatível com Google Home ou Alexa, Voltagem: Bivolt.",
+      "Marca_Modelo": "EPSON - L3250",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "12",
+      "Valor_Unitario": "R$ 1.390,00",
+      "Valor_Total_Item": "R$ 16.680,00"
+    },
+    {
+      "Item_TR": "14",
+      "Descricao_Especificacao": "Tela de projeção, Tipo: Retrátil, com tripé, diagonal: 100\", formato 4:3.",
+      "Marca_Modelo": "MAXIMUS/TP",
+      "Codigo": "",
+      "Unidade_Medida": "Und",
+      "Quantidade_Registrada": "14",
+      "Valor_Unitario": "R$ 189,00",
+      "Valor_Total_Item": "R$ 2.646,00"
+    }
+  ],
+  "Valor_Total": "R$ 19.326,00"
+}

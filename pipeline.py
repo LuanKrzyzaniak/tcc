@@ -5,48 +5,13 @@ import re
 
 import utils as ut
 
-PROMPT = """Extraia o conteúdo da Ata de Registro de Preços (ARP) e estruture-o estritamente no formato JSON fornecido abaixo. 
+PROMPT = """Extraia as informações relevantes desta Ata de Registro de Preços (ARP) e os estruture estritamente no formato JSON. 
+As informações relevantes podem ser o número da ata, número do processo, data de emissão, identificação do fornecedor ou uma lista de múltiplos
+produtos com seus preços, descrições e quantias e valor total.
 Garanta que todos os campos vazios sejam preenchidos com os dados correspondentes encontrados no texto de entrada. 
-O campo "Itens_Registrados" é uma lista JSON e pode conter um ou mais itens, e todo item deve conter todos os campos do modelo fornecido.
+O campo "Itens_Registrados" é uma lista JSON e pode conter um ou mais itens.
 Para campos que se referem a quantidades, valores e percentuais, utilize o formato exato encontrado no documento.
-
-{
-  "Documento": {
-    "Numero_ARP": "",
-    "Numero_Processo": ""
-  },
-  "Orgao_Gerenciador": {
-    "Razao_Social": "",
-    "CNPJ": "",
-    "UG": "",
-    "Endereco": "",
-    "Representantes_Legais": [
-      {"Cargo": "", "Nome": "", "Matricula": ""},
-      {"Cargo": "", "Nome": "", "Matricula": ""}
-    ]
-  },
-  "Fornecedor": {
-    "Razao_Social": "",
-    "CNPJ": "",
-    "Endereco": "",
-    "Telefone": "",
-    "Email": "",
-    "Representante_Legal": ""
-  },
-  "Itens_Registrados": [
-    {
-      "Item_TR": "",
-      "Descricao_Especificacao": "",
-      "Marca_Modelo": "",
-      "Codigo": "",
-      "Unidade_Medida": "",
-      "Quantidade_Registrada": "",
-      "Valor_Unitario": "",
-      "Valor_Total_Item": ""
-    }
-  ],
-  "Valor_Total": ""
-}
+Retorne somente o esquema JSON.
 """
 
 def carregar_pdf(folder):
@@ -166,13 +131,24 @@ def criar_dataset(pdf_textos):
         texto_documento = "\n".join(pages).strip()
         entrada = f"{PROMPT}\n\nDocumento:\n{texto_documento}"
 
-        dataset_pdf = {
-            "input": entrada,
-            "target": ""
-        }
+        # Encontra o arquivo do desired_output
+        filename_base = os.path.splitext(os.path.basename(pdf))[0]
+        txt_path = os.path.join("output", "desired_output", f"{filename_base}.txt")
 
-        dataset.append(dataset_pdf)
-        salvar_dataset(pdf, [dataset_pdf])
+        # Lê o conteúdo do TXT, se existir
+        if os.path.exists(txt_path):
+            with open(txt_path, "r", encoding="utf-8") as f:
+                target_content = f.read().strip()
+            dataset_pdf = {
+                "input": entrada,
+                "target": target_content
+            }
+
+            dataset.append(dataset_pdf)
+            salvar_dataset(pdf, [dataset_pdf])
+        else:
+            print(f"[AVISO] Arquivo de saída esperado não encontrado: {txt_path}")
+            target_content = ""
 
     return dataset
 

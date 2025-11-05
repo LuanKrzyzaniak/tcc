@@ -1,2 +1,45 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253628.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "0198/2025",
+    "Numero_Processo": "04044-00039745/2025-51",
+    "Processo_SEI": "04011-00003252/2024-99",
+    "Pregao_Eletronico": "90042/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE ECONOMIA DO DISTRITO FEDERAL",
+    "CNPJ": "00.394.684/0001-53",
+    "UG": "",
+    "Endereco": "Anexo do Palácio do Buriti, 5. andar, sala 508, Zona Civico-Administrativa Brasília/DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Subsecretária de Compras Governamentais",
+        "Nome": "Monise Carrijo Fernandes da Fonseca"
+      },
+      {
+        "Cargo": "Coordenadora de Gestão de Suprimentos",
+        "Nome": "Andrea Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MARC COMÉRCIO DE MATERIAIS, TECNOLOGIA E SERVIÇOS LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 59.508,80"
+}

@@ -1,2 +1,54 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253611.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "144/2025",
+    "Numero_Processo": "23540.000948/2025-10",
+    "Pregao_Eletronico": "SRP № 90018/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO PROFESSOR ALBERTO ANTUNES - HUPAA, filial da EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES - EBSERH",
+    "CNPJ": "15.126.437/0020-06",
+    "UG": "155126 (UASG)",
+    "Endereco": "Avenida Lourival Melo Mota - S/N - Cidade Universitária - Maceió - Alagoas, CEP 57.072-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Sr. Célio Fernando de Sousa Rodrigues"
+      },
+      {
+        "Cargo": "Gerente",
+        "Nome": "Anderson de Barros Dantas"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CLEAN ENVIRONMENT BRASIL - PRODUTOS PARA SAÚDE EIRELI",
+    "CNPJ": "06.126.315/0001-70",
+    "Endereco": "Rua 25 de Julho, 1269, Sala 01, Bairro Santo Inácio, Estância Velha/RS, CEP 93.608-010",
+    "Telefone": "(51) 3561-1960",
+    "Email": "comercial@cleanevironment.com.br",
+    "Representante_Legal": "ADRIANO GOMES DOS SANTOS (Procurador)"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "ESCOVA DE CLOREXIDINA 2% À 4% DEGERMAÇÃO E ANTISÉPTICA. CONJUNTO ESCOVA/ESPONJA PARA DEGERMAÇÃO DE PELE EM CAMPO PRÉ-OPERATÓRIO, COM CLOREXIDINA DIGLUCONATO 4%",
+      "Marca_Modelo": "CLEAN / CLEAN ENVIRONMENT",
+      "Codigo": "9673",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "6.000",
+      "Valor_Unitario": "R$ 1,89",
+      "Valor_Total_Item": "R$ 11.340,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "ESCOVA CIRÚRGICA ESTÉRIL COM PVP-I 10% DEG. E ANTISSE. ESCOVA CIRÚRGICA PARA DEGERMAÇÃO DAS MÃOS E BRAÇOS, PRÉ-OPERATÓRIA, COM PVP-I",
+      "Marca_Modelo": "CLEAN / CLEAN ENVIRONMENT",
+      "Codigo": "9672",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "500",
+      "Valor_Unitario": "R$ 1,93",
+      "Valor_Total_Item": "R$ 965,00"
+    }
+  ],
+  "Valor_Total": "R$ 12.305,00"
+}

@@ -1,2 +1,33 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253554.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "300/2025- SMSA",
+    "Numero_Pregao_Eletronico": "90005/2024",
+    "Numero_Processo": "00000.0.012109/2024 (VOLUME 2)-00000.9.391921/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA - RR (com interveniência da SECRETARIA MUNICIPAL DE SAÚDE)",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011, nesta cidade",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      },
+      {
+        "Cargo": "Secretário Municipal de Saúde",
+        "Nome": "MARCELO ZEITOUNE"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DENTAL ALENCAR IMPORTAÇÃO E EXPORTAÇÃO COMERCIO E REPRESENTAÇÃO LTDA",
+    "CNPJ": "05.377.160/0001- 7",
+    "Endereco": "Rua Rocha Leal, nº 182a, Bairro São Francisco, Boa Vista - RR, CEP n° 69.305-097",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Sra. DARIO ALMEIDA ALENCAR"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 4.830,00"
+}

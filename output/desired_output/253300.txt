@@ -1,2 +1,25 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253300.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N° 90067/2025A - SES/DF",
+    "Numero_Processo": "00060-00415065/2024-18",
+    "Validade": "12 (doze) meses"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE SAÚDE DO DISTRITO FEDERAL",
+    "CNPJ": "00.394.700/0001-08",
+    "Endereco": "SRTVN Quadra 701 Lote D, 1º e 2º andares, Ed. PO700 Bairro Asa Norte CEP 70719-040 DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário de Estado",
+        "Nome": "JURACY CAVALCANTE LACERDA JÚNIOR"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "COMERCIAL CIRÚRGICA RIOCLARENSE LTDA",
+    "CNPJ": "67.729.178/0004-91",
+    "Endereco": "PRAÇA EMILIO MARCONATO Nº 1000, GALPÃO 22 – NUCLEO RESIDENCIAL DOUTOR JOÃO ALDO NASSIF, JAGUARIUNA/SP",
+    "Telefone": "(19) 3522-5800/ (19) 3522-5801",
+    "Representante_Legal": "RAFAEL OLÍMPIO CASTANHEIRA"
+  }
+}

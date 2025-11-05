@@ -1,2 +1,130 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253716.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 260/2025",
+    "Numero_Processo": "",
+    "Numero_Pregao": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LABENZ PRODUTOS PARA LABORATORIOS E HOSPITAIS LTDA",
+    "CNPJ": "14.049.510/0001-68",
+    "Endereco": "rua Doutor Ernesto Mariano, n.º 230, Tatuapé, em São Paulo-SP, CEP: 03068-020",
+    "Telefone": "(11) 2941-5400 e (11) 2227-3300",
+    "Email": "societario@ocm7.com.br",
+    "Representante_Legal": "CARLOS ERNESTO BENZONI, Sócio"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "36",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PROTROMBINA E TROMBOPLASTINA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.51",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "25",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 950,00"
+    },
+    {
+      "Item_TR": "37",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE FIBRINOGÊNIO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.52",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "10",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 350,00"
+    },
+    {
+      "Item_TR": "38",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE VDRL",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.53",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 7.600,00"
+    },
+    {
+      "Item_TR": "39",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE ASLO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.54",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    },
+    {
+      "Item_TR": "40",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE FAN",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.61",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "25",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 950,00"
+    },
+    {
+      "Item_TR": "41",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE FATOR REUMATOIDE (FR)",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.62",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    },
+    {
+      "Item_TR": "42",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE TESTE RÁPIDO DE GLICEMIA",
+      "Marca_Modelo": "GLICOPRO",
+      "Codigo": "1.05.002.04.63",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 3.800,00"
+    },
+    {
+      "Item_TR": "43",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE GLICOSE URINÁRIA",
+      "Marca_Modelo": "CIENTIFICA",
+      "Codigo": "1.05.002.04.64",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    },
+    {
+      "Item_TR": "44",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE TESTE RÁPIDO PARA DENGUE",
+      "Marca_Modelo": "ALERE",
+      "Codigo": "1.05.002.04.65",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "45",
+      "Descricao_Especificacao": "REAGENTE PARA EXAME DE TESTE RÁPIDO PARA ZIKA VÍRUS",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.66",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 22.900,00"
+}

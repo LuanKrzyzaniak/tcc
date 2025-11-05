@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253328.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "143/2025",
+    "Numero_Processo": "23771.006640/2025-64"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Hospital Universitário Júlio Bandeira HUJB da Empresa Brasileira de Serviços Hospitalares EBSERH",
+    "CNPJ": "15.126.437/0033-20",
+    "UG": "155912",
+    "Endereco": "Avenida José Rodrigues Alves, 305 Bairro: Edimilson Cavalcante, Cajazeiras PB, CEP 58.900-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "LUIZ JARDELINO DE LARCERDA NETO"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "PAULO XAVIER PAMPLONA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "LOG DISTRIBUIDORA DE PRODUTOS HOSPITALAR E HIGIENE PESSOAL LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "ERICK GOMES VIEIRA DE MELO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "126",
+      "Descricao_Especificacao": "Conector luer lock, com tampa. Embalagem individual em papel grau cirúrgico, com filme plástico...",
+      "Marca_Modelo": "EBS00088",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "200",
+      "Valor_Unitario": "R$ 0,50",
+      "Valor_Total_Item": "R$ 100,00"
+    }
+  ],
+  "Valor_Total": ""
+}

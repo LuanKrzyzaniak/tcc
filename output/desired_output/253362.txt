@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253362.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "2759550",
+    "Numero_Processo": "23243.006915/2025-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia, Campus Vilhena",
+    "CNPJ": "10.817.343/0003-69",
+    "UG": "",
+    "Endereco": "Rodovia BR 174 km 03, 4334, Zona Urbana, na cidade de Vilhena - RO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Rodrigo Alécio Stiz"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "PABLO LUIS MARTINS",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Pablo Luís Martins"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

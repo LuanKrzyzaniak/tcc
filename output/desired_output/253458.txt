@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253458.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "28/2025",
+    "Numero_Processo": "64616.000537/2025-81"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Odontoclínica Central do Exército",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "CEL Ordenador de Despesas",
+        "Nome": "EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "AT CONSTRUÇÕES LTDA",
+    "CNPJ": "",
+    "Endereco": "SAAN QUADRA 1 LOTE 680 BLOCO A SALA 104 ZONA INDUSTRIAL - BRASILIA/DF CEP 70.632-100",
+    "Telefone": "(61) 9.9169-0543",
+    "Email": "atconstrucoes2014@gmail.com",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 19.826,12"
+}

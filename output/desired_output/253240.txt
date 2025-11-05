@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253240.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "001.2025",
+    "Numero_Processo": "2025-200..."
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SERVIÇO AUTÔNOMO DE CAPTAÇÃO DE ÁGUA E TRATAMENTO DE ESGOTO (SAAE) - MUNICÍPIO DE ANGRA DOS REIS",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": ""
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MF Lan Negócios LTDA",
+    "CNPJ": "34.982.586/0001-59",
+    "Endereco": "Quadra CRS - nº 502 - Bloco C - Asa Sul Brasília DF",
+    "Telefone": "(11) 91481-5357",
+    "Email": "mflansolucoes@gmail.com",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "BOMBA SUBMERSÍVEL DE ESGOTO ROBUSTA 700 T-1.0CV 220V TRIFÁSICO",
+      "Marca_Modelo": "SULZER",
+      "Codigo": "",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "10",
+      "Valor_Unitario": "R$ 4.550,00",
+      "Valor_Total_Item": "45.500,00"
+    }
+  ],
+  "Valor_Total": "45.500,00"
+}

@@ -1,2 +1,29 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253466.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Ν.º 20",
+    "Numero_Processo": "64549.000998/2025-02",
+    "Pregao_Eletronico": "Nº 90002/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "14º GRUPO DE ARTILHARIA DE CAMPANHA - 14 GAC",
+    "CNPJ": "09.602.705/0001-53",
+    "UG": "",
+    "Endereco": "Avenida Marechal Castelo Branco, 635, na cidade de Pouso Alegre-MG, CEP 37.550-225",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "Tenente Coronel Carlos Eduardo Tavares de Lima"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

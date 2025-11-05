@@ -1,2 +1,24 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253313.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 216/2025",
+    "Numero_Processo": "143.00011056/2025-86"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº - Rubião Júnior, CEP 18.618-687, na cidade de Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Departamento de Logística de Atendimento HCFMB",
+        "Nome": "Enf. Karen Aline Batista da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "J & K COMÉRCIO E DISTRIBUIÇÃO DE PRODUTOS HOSPITALARES LTDA",
+    "CNPJ": "08.575.540/0001-08",
+    "Endereco": "AVENIDA PREFEITO WALLOM SENA, N 240, BAIRRO CONJUNTO ESPERANÇA - MARACANAÚ/CE",
+    "Telefone": "(85) 3457-3000",
+    "Representante_Legal": "Alessandra Franco registrado(a) civilmente como PAULO SERGIO DE SOUZA FRANCO"
+  }
+}

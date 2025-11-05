@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253352.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CPI-1-00053/2025",
+    "Numero_Processo": "057.00273391/2025-72"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "POLÍCIA MILITAR, COMANDO DE POLICIAMENTO DO INTERIOR UM",
+    "CNPJ": "04.198.514/0044-94",
+    "UG": "180.155",
+    "Endereco": "Av. DEPUTADO BENEDITO MATARAZZO, N° 9931, JD. OSVALDO CRUZ, SÃO JOSÉ DOS CAMPOS/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "DIRIGENTE CORONEL PM",
+        "Nome": "LUIZ FERNANDO ALVES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "NIPONPARTS IMP DE PECAS AUTOMOTIVAS LTDA",
+    "CNPJ": "09.303.490/0001-49",
+    "Endereco": "RUA BARÃO DE CASALVASCO, N° 201 - BRAS, SÃO PAULO/SP",
+    "Telefone": "(11) 2292-9900",
+    "Email": "NIPONPARTS@UOL.COM.BR",
+    "Representante_Legal": "MARCIO HONORATO KIMURA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "FILTRO DE ÓLEO",
+      "Marca_Modelo": "ORIGINAL",
+      "Codigo": "405786",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "111",
+      "Valor_Unitario": "R$ 41,50",
+      "Valor_Total_Item": "R$ 4.606,50"
+    }
+  ],
+  "Valor_Total": "R$ 4.606,50"
+}

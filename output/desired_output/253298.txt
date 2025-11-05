@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253298.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00241/2025",
+    "Numero_Processo": "67106.000928/2024-62"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CENTRO DE AQUISIÇÕES ESPECÍFICAS",
+    "CNPJ": "00.394.429/0174-29",
+    "UG": "",
+    "Endereco": "ESTRADA DO GALEAO, 3300 RIO DE JANEIRO-RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Cel Int. / Ordenador de Despesas",
+        "Nome": "MARCO HAROLDO AKIO ODAM"
+      },
+      {
+        "Cargo": "Gestor de Licitações",
+        "Nome": "Major JURANDIR DA SILVA GONÇALVES JUNIOR"
+      },
+      {
+        "Cargo": "Agente de Controle Interno",
+        "Nome": "Cel VIVIANE NASCIMENTO FERNANDES BALDERSTON"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

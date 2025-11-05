@@ -1,2 +1,67 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253243.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00268/2025",
+    "Numero_Processo": "67222.022522/2024-12"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "BASE AÉREA DE NATAL",
+    "CNPJ": "00.394.429/0185-81",
+    "UG": "",
+    "Endereco": "RUA DO ESPECIALISTA S/Nº PARNAMIRIM-RN",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Cel Int",
+        "Nome": "SILVIA NATÁLIA SOARES MENEZES DA SILVA"
+      },
+      {
+        "Cargo": "Gestor de Licitações",
+        "Nome": "Cap LÍGIA FERREIRA CAMPOS"
+      },
+      {
+        "Cargo": "Agente de Controle Interno",
+        "Nome": "2º Ten PRISCILA LARISSA DA SILVA BESSA MACÉDO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "JULIO CESAR GASPARINI JUNIOR LTDA",
+    "CNPJ": "08.973.569/0001-45",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "JULIO CESAR GASPARINI JUNIOR"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "0002",
+      "Descricao_Especificacao": "Aparelho / equipamento para condicionamento fisico, tipo banco panturrilha solear, material aço carbono, aluminio, polietileno, poliamida, caracteristicas regulagem de altura apoio coxas, aplicação condicionamento físico",
+      "Marca_Modelo": "Flex Equipment / Classic",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2.00",
+      "Valor_Unitario": "2.066,79",
+      "Valor_Total_Item": "4.133,58"
+    },
+    {
+      "Item_TR": "0058",
+      "Descricao_Especificacao": "Estante halteres, material ferro, capacidade 30 pesos, aplicação guardar halteres",
+      "Marca_Modelo": "Flex Equipment/Classic",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2.00",
+      "Valor_Unitario": "1.942,88",
+      "Valor_Total_Item": "3.885,76"
+    },
+    {
+      "Item_TR": "0008",
+      "Descricao_Especificacao": "Aparelho / equipamento para condicionamento fisico, tipo cadeira abdutora, material aço carbono, aluminio, polietileno, poliamida, caracteristicas adicionais assento inclinado regulável, regulagem de abertura, aplicação condicionamento físico",
+      "Marca_Modelo": "Flex Equipment/ Classic",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "2.00",
+      "Valor_Unitario": "7.499,99",
+      "Valor_Total_Item": "14.999,98"
+    }
+  ],
+  "Valor_Total": "23.019,32"
+}

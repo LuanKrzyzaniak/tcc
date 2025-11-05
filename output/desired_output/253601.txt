@@ -1,2 +1,30 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253601.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "13/2025-SEJUS",
+    "Numero_Processo": "00400-00030013/2025-94",
+    "Modalidade_Licitacao": "Pregão Eletrônico para REGISTRO DE PREÇOS nº 13/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE JUSTIÇA E CIDADANIA DO DISTRITO FEDERAL",
+    "CNPJ": "08.685.528/0001-53",
+    "UG": "",
+    "Endereco": "SAAN, Comércio Local Quadra 01, Lote C, - Brasília DF, CEP 70.632-100",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Executivo",
+        "Nome": "JAIME SANTANA DE SOUSA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "FONTHORA DISTRIBUIDORA LTDA",
+    "CNPJ": "55.095.768/0001-88",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "MATHEUS DE CASTRO FONSECA"
+  },
+  "Objeto": "Registro de preços para aquisição de equipamentos e materiais de uso permanentes para treinamento contínuo de servidores",
+  "Itens_Registrados": [],
+  "Valor_Total": "R$ 92.820,00"
+}

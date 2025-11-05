@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253233.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "37/2025",
+    "Numero_Processo": "64261.000754/2025-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "COMANDO DE ARTILHARIA DIVISIONÁRIA/3/RS",
+    "CNPJ": "09.572.216/0001-04",
+    "UG": "160372",
+    "Endereco": "Avenida General Osório, n.º 1050 - Centro, na cidade de Cruz Alta/RS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas do Cmdo AD/3",
+        "Nome": "LUCIANO FACCIONI SALAMON"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Claudia Moraes Gonçalves Teske - Sócia Proprietária"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

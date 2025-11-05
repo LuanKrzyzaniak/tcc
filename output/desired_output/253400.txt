@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253400.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 005/2025",
+    "Numero_Processo": "Processo Licitatório nº 075/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS DO ESTADO DE MINAS GERAIS - CRECI/4ª REGIÃO",
+    "CNPJ": "17.481.268/0001-95",
+    "UG": "",
+    "Endereco": "Rua dos Carijós, nº 244, 10º andar, Centro, Belo Horizonte/MG, CEP: 30120-060",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "RICARDO MENDES SANTOS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "GRÁFICA PRODATA LTDA.",
+    "CNPJ": "28.141.384/0001-81",
+    "Endereco": "Rua Paulo D'Assunção nº 405, Jardim Industrial, Contagem/MG, CEP: 32215-270",
+    "Telefone": "(31) 3205-5382 e (31) 9-9163-9505",
+    "Email": "graficaprodata@yahoo.com",
+    "Representante_Legal": "João Vitor de Oliveira Marques"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "06",
+      "Descricao_Especificacao": "FOLDER LONGO Formato aberto: 190 x 440 Formato fechado a definir Cor 4 x 4 Papel couchê de Off set ou 115g até 180g Acabamento: 2 ou 3 dobras. Prova digital",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "50.000",
+      "Valor_Unitario": "R$ 0,22",
+      "Valor_Total_Item": "R$ 11.000,00"
+    }
+  ],
+  "Valor_Total": ""
+}

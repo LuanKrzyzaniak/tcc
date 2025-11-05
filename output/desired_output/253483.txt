@@ -1,2 +1,32 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253483.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "291/2025-SMSA",
+    "Numero_Processo": "005234/2025-SMSA"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "MUNICÍPIO DE BOA VISTA – RR",
+    "CNPJ": "05.943.030/0001-55",
+    "UG": "",
+    "Endereco": "Palácio 9 de Julho, situada na rua General Penha Brasil nº 1011",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário Municipal de Saúde - SMSA",
+        "Nome": "MARCELO ZEITOUNE"
+      },
+      {
+        "Cargo": "Prefeito",
+        "Nome": "ARTHUR HENRIQUE BRANDÃO MACHADO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MAKE LINE COMERCIAL - LTDA",
+    "CNPJ": "05.416.754/0001-40",
+    "Endereco": "Av. Nova Independência, nº 755, LT 6, QD N, São Paulo/SP, CEP n° 04.570-001",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "KATIA CARVALHO PADILHA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

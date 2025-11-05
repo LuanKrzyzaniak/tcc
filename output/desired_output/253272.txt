@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253272.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00424/2025",
+    "Numero_Processo": "67613.067983/2024-11"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SEGUNDO CENTRO INT.DEF.AEREA CONTR.TFG.AEREO",
+    "CNPJ": "00.394.429/0055-01",
+    "UG": "",
+    "Endereco": "AV ERASTO GAERTNER, 1000-CX.POSTAL: 4083 CURITIBA-PR",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Cel Av",
+        "Nome": "REGILÂNIO ISAIAS AGUIAR DE MELO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "EAGLE COMERCIO DE ARTIGOS MILITARES LTDA",
+    "CNPJ": "1340428200013",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

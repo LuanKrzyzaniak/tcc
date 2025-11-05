@@ -1,2 +1,41 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253608.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº. 44",
+    "Numero_Processo": "19.25.110001049.0005876/2024-64",
+    "Pregao_Eletronico": "Nº 90028/2024",
+    "Processo_Licitatorio": "N° 33/2024"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Ministério Público do Estado de Rondônia - MPRO",
+    "CNPJ": "04.381.083/0001-67",
+    "UG": "",
+    "Endereco": "Rua Jamari, nº. 1555, Olaria Porto Velho/RO",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário-Geral",
+        "Nome": "Tiago Lopes Nunes"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "TERRA DO ESCRITORIO COM. DE MOVEIS LTDA - EPP",
+    "CNPJ": "49.614.600/0001-39",
+    "Endereco": "Rua João Goulart, nº 1422, Bairro São Cristóvão, Porto Velho/RO, CEP 76.804-000",
+    "Telefone": "(69) 3223-9999",
+    "Email": "administrativo@terradoescritorio.com.br",
+    "Representante_Legal": "Júlio Venceslau Santiago Corrêa"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "LOTE 01 - ROUPAS DE CAMA, MESA E BANHO",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "1",
+      "Valor_Unitario": "R$ 1.636,00",
+      "Valor_Total_Item": "R$ 1.636,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.636,00"
+}

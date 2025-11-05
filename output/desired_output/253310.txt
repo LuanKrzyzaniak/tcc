@@ -1,2 +1,18 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253310.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00266/2025",
+    "Numero_Processo": "23523.038853/2025-87"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO DA UNIVERSIDADE FEDERAL DO MARANHÃO",
+    "CNPJ": "15.126.437/0004-96",
+    "UG": "155010",
+    "Endereco": "Rua Barão de Itapary, nº 227 - Bairro Centro São Luís-MA, СЕР 65020-070",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Joyce Santos Lages"
+      }
+    ]
+  }
+}

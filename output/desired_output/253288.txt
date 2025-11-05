@@ -1,2 +1,32 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253288.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "632/2025/2025",
+    "Numero_Processo": "23539.026856/2025-07"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL UNIVERSITÁRIO LAURO WANDERLEY DA UNIVERSIDADE FEDERAL DA PARAÍBA / EBSERH",
+    "CNPJ": "15.126.437/0017-00",
+    "UG": "155023",
+    "Endereco": "Rua Estanislau Eloy, s/nº - Bairro Castelo Branco, João Pessoa-PB, CEP 58050-585",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "ALEXANDRE MEDEIROS DE FIGUEIREDO"
+      },
+      {
+        "Cargo": "Gerente Administrativo substituto do HULW",
+        "Nome": "RAFAEL MORAES GADELHA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SOLUCOES NORTE ENGENHARIA, CONSTRUCOES E COMERCIO LTDA",
+    "CNPJ": "29.216.954/0001-18",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "FLAVIO ALVES LOPES"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

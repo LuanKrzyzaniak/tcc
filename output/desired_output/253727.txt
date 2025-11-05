@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253727.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 266/2025",
+    "Numero_Processo": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP, CEP: 15.610-024",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "DK DIAGNOSTICA COMERCIO DE PRODUTOS CIENTIFICOS LTDA",
+    "CNPJ": "14.108.524/0001-05",
+    "Endereco": "rua Padre Bento, n.º 346, Vila Padre Bento, em Itu-SP, CEP: 13.313-010",
+    "Telefone": "(11) 4023-3888",
+    "Email": "licitacao@dkdiagnostica.com.br",
+    "Representante_Legal": "AMANDA LAPENNA"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

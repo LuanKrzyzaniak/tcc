@@ -1,2 +1,61 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253518.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "189/2025",
+    "Numero_Processo": "64680.010556/2024-61",
+    "Pregao_Eletronico": "",
+    "Vigencia": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "11º Regimento de Cavalaria Mecanizado",
+    "CNPJ": "09.565.891/0001-06",
+    "UG": "160152",
+    "Endereco": "Praça Duque de Caxias, sn, centro, Ponta Porã-MS",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas",
+        "Nome": "Tenente Coronel Alexandre Lepri de Medeiros"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CS TINTAS LTDA",
+    "CNPJ": "50.467.250/0001-04",
+    "Endereco": "R. MONSENHOR F. S. DE ALENCAR, 157",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "FABIO GARIANI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "LIXA PARA MADEIRA GRANA 100",
+      "Marca_Modelo": "STARLUX",
+      "Codigo": "",
+      "Unidade_Medida": "FOLHA",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 1,9800",
+      "Valor_Total_Item": "R$ 297,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "LIXA PARA PAREDE GRANA 100",
+      "Marca_Modelo": "STARLUX",
+      "Codigo": "",
+      "Unidade_Medida": "FOLHA",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 1,9800",
+      "Valor_Total_Item": "R$ 198,00"
+    },
+    {
+      "Item_TR": "5",
+      "Descricao_Especificacao": "TINTA ACRÍLICA BRANCA",
+      "Marca_Modelo": "CROMUS",
+      "Codigo": "",
+      "Unidade_Medida": "LATA",
+      "Quantidade_Registrada": "6",
+      "Valor_Unitario": "R$ 150,0000",
+      "Valor_Total_Item": "R$ 900,00"
+    }
+  ],
+  "Valor_Total": "R$ 1.395,00"
+}

@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253490.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "31/2025",
+    "Numero_Processo": "159/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Odontoclínica Central do Exército",
+    "CNPJ": "11.316.642/0001-10",
+    "UG": "",
+    "Endereco": "Rua Moncorvo Filho, nº 5, Centro - Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "CEL",
+        "Nome": "EDEGART LUIZ GONCALVES PEREIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MEGA DENTAL IMP EXP E COM DE PROD",
+    "CNPJ": "25.341.162/0001-14",
+    "Endereco": "R. DR. L...",
+    "Telefone": "(43) 3376-6350",
+    "Email": "licitacoes.nfe@gmail.com",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

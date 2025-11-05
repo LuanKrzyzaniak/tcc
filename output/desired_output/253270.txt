@@ -1,2 +1,36 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253270.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "Nº 90086/2025A - SES/DF",
+    "Numero_Processo": "00060-00456966/2024-60",
+    "Modalidade_Licitacao": "PREGÃO ELETRÔNICO N° 90086/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE SAÚDE do GOVERNO DO DISTRITO FEDERAL",
+    "CNPJ": "00.394.700/0001-08",
+    "Endereco": "SRTVN Quadra 701 Lote D, 1º e 2º andares, Ed. PO700 Bairro Asa Norte СЕР 70719-040 DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Secretário de Estado, da Secretaria de Estado de Saúde do Distrito Federal",
+        "Nome": "JURACY CAVALCANTE LACERDA JÚNIOR"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ATONS DO BRASIL",
+    "CNPJ": "08.971.077/0001-44",
+    "Endereco": "Av. Marquês de São Vicente, 222 - Barra Funda/SP - CEP: 01139-000",
+    "Representante_Legal": "RICARDO DIAS FERREIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "AGULHA: AGULHA P/ CANETA DE INSULINA - CAIXA COM 100 UND",
+      "Marca_Modelo": "MARCA: DIVERSOS / MODELO/VERSÃO: NÃO SE APLICA",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "900",
+      "Valor_Unitario": "R$ 2,28",
+      "Valor_Total_Item": "R$ 2.052,00"
+    }
+  ],
+  "Valor_Total": "R$ 2.052,00"
+}

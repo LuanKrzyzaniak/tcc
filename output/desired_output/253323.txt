@@ -1,2 +1,48 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253323.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "604/2025",
+    "Numero_Processo": "23539.018504/2025-70"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares Ebserh, Hospital Universitário Lauro Wanderley/UFPB/EBSERH",
+    "CNPJ": "15.126.437/0017-00",
+    "UG": "155023",
+    "Endereco": "Rua Tabelião Stanislau Eloy, s/n Castelo Branco, CEP nº 58.050-585, na cidade de João Pessoa-PB",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "ALEXANDRE MEDEIROS DE FIGUEIREDO"
+      },
+      {
+        "Cargo": "Gerente Administrativo substituta",
+        "Nome": "LARA BEATRIZ CORREIA FERNANDES DANTAS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CA COMERCIO DE PRODUTOS LTDA",
+    "CNPJ": "50.032.992/0001-07",
+    "Representante_Legal": "ANDRE VIVALDO SILVA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "15",
+      "Descricao_Especificacao": "Colchão hospitalar, tipo PARA CAMA, material espuma 100% poliuretano, revestido em courvin. MEDIDAS APROXIMADAS...",
+      "Marca_Modelo": "LIDER HOSPITALAR/COLCHÃO HOSPITALAR",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "15",
+      "Valor_Unitario": "R$ 380,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "41",
+      "Descricao_Especificacao": "Colchão hospitalar, tipo PARA CAMA, material espuma 100% poliuretano, revestido em courvin. MEDIDAS APROXIMADAS...",
+      "Marca_Modelo": "LIDER HOSPITALAR/COLCHÃO HOSPITALAR",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "15",
+      "Valor_Unitario": "R$ 380,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    }
+  ],
+  "Valor_Total": "R$ 11.400,00"
+}

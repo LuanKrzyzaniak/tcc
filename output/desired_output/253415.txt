@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253415.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "COMPRASGOV 92201-90318/2025",
+    "Numero_Processo": "PROCESSO PREGÃO ELETRÔNICO SEI nº 146.00002874/2025-11"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO DA UNIVERSIDADE DE SÃO PAULO",
+    "CNPJ": "56.023.443/0001-52",
+    "UG": "",
+    "Endereco": "Campus Universitário, s/nº, bairro Monte Alegre, CEP 14048-900, Ribeirão Preto S.P",
+    "Representantes_Legais": [
+      {
+        "Cargo": "SUPERINTENDENTE",
+        "Nome": "PROF. DR. RICARDO DE CARVALHO CAVALLI"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "RAFAEL OLIMPIO CASTANHEIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "BRAINFARMA BAC-SULFITRIN",
+      "Codigo": "",
+      "Unidade_Medida": "Uma",
+      "Quantidade_Registrada": "4.00",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

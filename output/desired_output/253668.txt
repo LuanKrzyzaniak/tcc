@@ -1,2 +1,44 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253668.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "017/2025",
+    "Numero_Processo": "2024-J5P7G",
+    "Pregao": "001/2025",
+    "COMPRASGOV_N": "90001",
+    "UASG": "925794",
+    "ID_CidadES": "2025.500E2300002.01.0018"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "POLÍCIA MILITAR DO ESTADO DO ESPÍRITO SANTO - PMES",
+    "CNPJ": "27.476.373/0001-90",
+    "UG": "925794",
+    "Endereco": "Avenida Maruípe, nº 2.111, Maruípe, Vitória-ES, CEP 29.047-475",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Comandante Geral Cel PM",
+        "Nome": "DOUGLAS CAUS"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SCMINAS COMERCIO E SERVIÇOS LTDA",
+    "CNPJ": "52.546.269/0001-71",
+    "Endereco": "Rua Wenceslau Braz, 171, Bairro JK, Contagem -MG - CEP: 32.310-100",
+    "Telefone": "(31) 98364-9286",
+    "Email": "vendasfiltros2@gmail.com",
+    "Representante_Legal": "Sérgio Carlos Rezende"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "Aquisição de filtro e elemento filtrante para bebedouro e purificador de água.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 54.820,00",
+  "Valor_Total_PMES": "R$ 32.600,00"
+}

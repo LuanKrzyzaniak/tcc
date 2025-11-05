@@ -1,2 +1,18 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253315.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "163/2025",
+    "Numero_Processo": "64482.003945/2025-57"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Prefeitura Militar de Brasília (PMB)",
+    "CNPJ": "09.577.927/0001-63",
+    "UG": "160082",
+    "Endereco": "Complexo Militar do Planalto, Quartel General do CMP/11ª RM, Avenida do Exército S/N°, Setor Militar Urbano, na cidade de Brasília-DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesas da PMB",
+        "Nome": "Coronel SÉRGIO RÓGER ARRAIS TORRES"
+      }
+    ]
+  }
+}

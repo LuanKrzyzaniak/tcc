@@ -1,2 +1,52 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253693.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "722/2025",
+    "Numero_Processo": "GM-PRO-2025/01154",
+    "Pregao_Eletronico": "PE-RP-GM RIO N° 90388/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "GUARDA MUNICIPAL DO RIO DE JANEIRO",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Avenida Pedro II, 111, São Cristóvão",
+    "Representantes_Legais": [
+      {
+        "Cargo": "",
+        "Nome": "TUYRA VARELA DE OLIVEIRA"
+      },
+      {
+        "Cargo": "",
+        "Nome": "RAPHAEL GUIMARAES ALVES"
+      },
+      {
+        "Cargo": "",
+        "Nome": "ALEXANDRE DE SOUZA LEMOS"
+      },
+      {
+        "Cargo": "",
+        "Nome": "ITAHARASSI BOMFIM JUNIOR"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "KETLYN BEATRYZ-ME",
+    "CNPJ": "5817870300019 4",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "Ketlyn Beatryz Gusmão de Abreu"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "VENTILADOR DE PAREDE CUJ ESTA ESPECIFICAÇÕES ESTIPULADAS NO TERMO D REFERÊNCIA",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "500",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

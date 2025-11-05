@@ -14,7 +14,6 @@ def main():
     with open(jsonl_path, "r", encoding="utf-8") as f:
         linhas = f.readlines()
 
-    # Vamos pegar a primeira linha só como teste
     primeira_linha = json.loads(linhas[0])
     entrada = primeira_linha["input"]
 

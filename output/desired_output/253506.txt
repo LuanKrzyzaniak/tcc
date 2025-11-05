@@ -1,2 +1,66 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253506.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "04/2025",
+    "Numero_Processo": "2951-57.2025.4.05.74",
+    "Pregão_Eletronico_No": "90006/2025",
+    "Numero_Nota_Empenho": "298",
+    "Data_Emissao_NE": "15/09/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "JUSTIÇA FEDERAL DE PRIMEIRO GRAU - PB",
+    "CNPJ": "05.433.643/0001-42",
+    "UG": "90008",
+    "Endereco": "RUA JOAO TEIXEIRA DE CARVALHO, 480 BRISAMAR, JOAO PESSOA/PB, CEP 58031-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Ordenador de Despesa",
+        "Nome": "ALBERTINO PIERRE DA COSTA"
+      },
+      {
+        "Cargo": "Gestor Financeiro",
+        "Nome": "ALVARO DO NASCIMENTO SILVA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MENDES COMERCIO E SERVICOS LTDA",
+    "CNPJ": "09.618.981/0001-00",
+    "Endereco": "RUA 5 CHACARA 118 SN LOTE 07/7A SETOR HABITACIONAL, BRASILIA/DF, CEP 72006-040",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "001",
+      "Descricao_Especificacao": "NECESSAIRE RETANGULAR, EM CORINO NA COR AZUL PANTONE 294 C. COM A LOGOMARCA DA JUSTICA FEDERAL NA PARAIBA APLICADA EM CADA ITEM",
+      "Marca_Modelo": "PROPRIA",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "850,00000",
+      "Valor_Unitario": "14,2900",
+      "Valor_Total_Item": "12.146,50"
+    },
+    {
+      "Item_TR": "002",
+      "Descricao_Especificacao": "ESTOJO MULTIUSO EM CORINO NA COR AZUL PANTONE 294 C. COM A LOGOMARCA DA JUSTICA FEDERAL NA PARAIBA APLICADA EM CADA ITEM",
+      "Marca_Modelo": "PROPRIA",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "850,00000",
+      "Valor_Unitario": "6,6000",
+      "Valor_Total_Item": "5.610.00"
+    },
+    {
+      "Item_TR": "003",
+      "Descricao_Especificacao": "EMBALAGEM EM TACTEL, TODOS NA COR AZUL PANTONE 294 C, COM A LOGOMARCA DA JUSTICA FEDERAL NA PARAIBA APLICADA EM CADA ITEM",
+      "Marca_Modelo": "PROPRIA",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "850,00000",
+      "Valor_Unitario": "5,3200",
+      "Valor_Total_Item": "4.522,00"
+    }
+  ],
+  "Valor_Total": "R$ 22.278,50"
+}

@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253327.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "CPI-1-00048/2025",
+    "Numero_Processo": "057.00273391/2025-72"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "COMANDO DE POLICIAMENTO DO INTERIOR UM (POLÍCIA MILITAR)",
+    "CNPJ": "04.198.514/0044-94",
+    "UG": "180155",
+    "Endereco": "Av. DEPUTADO BENEDITO MATARAZZO, N° 9931, JD. OSVALDO CRUZ, SÃO JOSÉ DOS CAMPOS/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "DIRIGENTE CORONEL PM",
+        "Nome": "LUIZ FERNANDO ALVES"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "RESTART COMÉRCIO E REPRESENTAÇÃO DE AUTOPEÇAS LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "NADIA CRISTINA BIANCHI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "6",
+      "Descricao_Especificacao": "Conjunto de Cabo de (RESTRITO)",
+      "Marca_Modelo": "MAGNETI",
+      "Codigo": "",
+      "Unidade_Medida": "JOGO",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

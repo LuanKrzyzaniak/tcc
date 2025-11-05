@@ -1,2 +1,39 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253349.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "146/2025",
+    "Numero_Processo": "63512.002953/2024-38"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Centro de Intendência da Marinha em Niterói",
+    "CNPJ": "00.394.502/0545-89",
+    "UG": "Não encontrado",
+    "Endereco": "Ilha de Mocanguê s/n° - Centro, Niterói",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Capitão de Mar e Guerra, Ordenador de Despesas",
+        "Nome": "Anderson Fernandes Pinto"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "META EMPREENDIMENTOS E SERVIÇOS LTDA",
+    "CNPJ": "10.581.468/0001-70",
+    "Endereco": "RUA CAPITÃO CARVALHO FILHO, 90 - PARQUE JOÃO MARIA, CAMPOS DOS GOITACAZES - RJ, CEP: 28.026-150",
+    "Telefone": "(22) 2723-7133",
+    "Email": "metaempreendimentos10@gmail.com",
+    "Representante_Legal": "DOUGLAS TEIXEIRA NUNES DA SILVA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "ARMÁRIO DE AÇO, TIPO: VESTIÁRIO, DIMENSÕES MÍNIMAS (LXAXP): 0,90 X 1,98 X 0,42 M, N° DE PORTAS: 16",
+      "Marca_Modelo": "PRÓPRIA",
+      "Codigo": "Não encontrado",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "250",
+      "Valor_Unitario": "R$ 649,00",
+      "Valor_Total_Item": "R$ 162.250,00"
+    }
+  ],
+  "Valor_Total": "R$ 162.250,00"
+}

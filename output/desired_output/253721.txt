@@ -1,2 +1,54 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253721.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "",
+    "Numero_Processo": "161.00328324/2024-05",
+    "Codigo_Unico": "n° 20250151521"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Fundação Centro de Atendimento Socioeducativo ao Adolescente - FUNDAÇÃO CASA",
+    "CNPJ": "44.480.283/0001-91",
+    "UG": "",
+    "Endereco": "Rua Florêncio de Abreu, n.º 848 CEP 01030-001, Bairro Luz, na cidade de São Paulo - Capital",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "Ana Claudia Carletto"
+      },
+      {
+        "Cargo": "Diretor Administrativo",
+        "Nome": "Magda de Oliveira Vieira"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ALBERTH DANIEL BONFIM",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "(14) 3227-8448 e (14) 99676-6...",
+    "Email": "",
+    "Representante_Legal": "Alberth Daniel Bonfim"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "72",
+      "Descricao_Especificacao": "Condulete; tipo C, conexão fixa; de liga de alumínio-silício; sem rosca, fixação por parafuso de aperto;...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    },
+    {
+      "Item_TR": "113",
+      "Descricao_Especificacao": "Disjuntor termomagnético; tripolar europeu; tensão máxima de operação de 230 / 440v; corrente nominal de...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

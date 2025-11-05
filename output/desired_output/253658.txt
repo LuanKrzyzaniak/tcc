@@ -1,2 +1,119 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253658.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "544/2025",
+    "Numero_Processo": "23818.009397/2025-52",
+    "Modalidade_Licitacao": "",
+    "Objeto": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares (Ebserh), unidade HOSPITAL UNIVERSITÁRIO ANTÔNIO PEDRO (HUAP-UFF)",
+    "CNPJ": "15.126.437/00036-73",
+    "UG": "155915",
+    "Endereco": "Rua Marquês do Paraná, nº 303, Centro, Niterói, Rio de Janeiro, CEP 24033-900",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "BENI OLEJ"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Paulo Roberto de Araujo"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "TECHSTERI LTDA",
+    "CNPJ": "19.344.026/0001-08",
+    "Endereco": "RUA ARMANDO SALES DE OLIVEIRA, 630, Bairro CENTRO, CEP 18700-470, AVARÉ/SP",
+    "Telefone": "(14) 3732-2849",
+    "Email": "techsteri@gmail.com",
+    "Representante_Legal": "LEANDRO LUAN GONÇALVES DE OLIVEIRA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "AGULHA DESCARTÁVEL, TIPO: HIPODÉRMICA, MATERIAL: AÇO INOXIDÁVEL, CALIBRE: 25 X 7MM, TIPO CÂNULA: BÍSEL",
+      "Marca_Modelo": "DESCARPACK",
+      "Codigo": "362242",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "10.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,16",
+      "Valor_Total_Item": "R$ 1.600,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "AGULHA DESCARTÁVEL, TIPO: HIPODÉRMICA, MATERIAL: AÇO INOXIDÁVEL, CALIBRE: 30 X 7MM, TIPO CÂNULA: BÍSEL",
+      "Marca_Modelo": "DESCARPACK",
+      "Codigo": "362240",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "10.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,16",
+      "Valor_Total_Item": "R$ 1.600,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "CONEXÃO EM FORMA DE Y, PARA CATETER CENTRAL",
+      "Marca_Modelo": "BD / Y-CONNECTOR",
+      "Codigo": "365851",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "250",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 1,30",
+      "Valor_Total_Item": "R$ 325,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "20",
+      "Descricao_Especificacao": "EQUIPO P/ ADMINISTRACAO DE NUTRIÇÃO ENTERAL, PARA BOMBA DE INFUSÃO",
+      "Marca_Modelo": "FRESENIUS KABI",
+      "Codigo": "362483",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "4.200",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 5,00",
+      "Valor_Total_Item": "R$ 21.000,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "21",
+      "Descricao_Especificacao": "EXTENSOR PARA CONEXÃO DE SERINGAS E SOLUÇÕES, EM TUBO DE POLIETILENO, COM DUAS CONEXÕES LUER FÊMEAS E UMA LUER MACHO, COM COMPRIMENTO MÍNIMO DE 30 CM",
+      "Marca_Modelo": "Descarpack/ MD",
+      "Codigo": "362485",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "2.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 1,50",
+      "Valor_Total_Item": "R$ 3.000,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "25",
+      "Descricao_Especificacao": "SERINGA DESCARTÁVEL, CAPACIDADE 20 ML, SEM AGULHA",
+      "Marca_Modelo": "INJEX",
+      "Codigo": "362245",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "2.000",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,33",
+      "Valor_Total_Item": "R$ 660,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "26",
+      "Descricao_Especificacao": "SERINGA DESCARTÁVEL, CAPACIDADE 50 ML, SEM AGULHA",
+      "Marca_Modelo": "INJEX",
+      "Codigo": "362484",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "500",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,59",
+      "Valor_Total_Item": "R$ 295,00",
+      "Valor_Total_Global_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 28.480,00"
+}

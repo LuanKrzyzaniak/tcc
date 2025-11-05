@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253254.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "105/2025",
+    "Numero_Processo": "23214.001343/2025-48"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MINAS GERAIS - Campus São João Evangelista",
+    "CNPJ": "10.626.896/0006-87",
+    "UG": "",
+    "Endereco": "Avenida Primeiro de Junho, nº 1043, Bairro Centro, em São João Evangelista, Estado de Minas Gerais, CEP nº 39705-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral",
+        "Nome": "Flávio Rocha Puff"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "D. P. AGRONEGÓCIOS LTDA",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "IZAUDEMIRO GERALDO GIORGETTE"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

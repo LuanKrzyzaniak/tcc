@@ -1,2 +1,73 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253645.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "0200/2025",
+    "Numero_Processo": "04044-00041958/2025-43"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SECRETARIA DE ESTADO DE ECONOMIA DO DISTRITO FEDERAL",
+    "CNPJ": "00.394.684/0001-53",
+    "UG": "",
+    "Endereco": "Anexo do Palácio do Buriti, 5.º andar, sala 508, Zona Cívico-Administrativa Brasília/DF",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Subsecretária de Compras Governamentais",
+        "Nome": "Monise Carrijo Fernandes da Fonseca"
+      },
+      {
+        "Cargo": "Coordenadora de Gestão de Suprimentos",
+        "Nome": "Andrea Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "TAGUASERVICE DISTRIBUIDORA DE CAMINHÕES TRANSMISSÕES MOTORES PEÇAS E SERVIÇOS LTDA",
+    "CNPJ": "19.111.055/0001-05",
+    "Endereco": "ADE, Conjunto 11, Lote 3, Aguas Claras, Brasilia/DF, CEP: 71.987-360",
+    "Telefone": "",
+    "Email": "isabelly@taguamotors.com.br/licitacoes@taguamotors.com.br/uesley@taguamotors.com.br/taguaservice@taguaservice.com.br",
+    "Representante_Legal": "UESLEY SILVIO MEDEIROS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "VEICULO, Descrição: caminhão tipo 3/4, 0 km, cota principal. Quantidade: 14. Potência minima de 150 CV. Combustível: diesel. Tração 4x2.",
+      "Marca_Modelo": "Foton/AUMARK M3",
+      "Codigo": "269785",
+      "Unidade_Medida": "unidade",
+      "Quantidade_Registrada": "14",
+      "Valor_Unitario": "459.000,00",
+      "Valor_Total_Item": "6.426.000,00"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "VEICULO, Descrição: caminhão tipo 3/4, 0 km, cota reservada. Quantidade assumida pela vencedora da cota principal (Item 1).",
+      "Marca_Modelo": "Foton/AUMARK M3",
+      "Codigo": "269785",
+      "Unidade_Medida": "unidade",
+      "Quantidade_Registrada": "4",
+      "Valor_Unitario": "459.000,00",
+      "Valor_Total_Item": "1.836.000,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "VEICULO, Descrição: caminhão tipo toco, 0 km, cota principal. Quantidade: 9. Potência minima de 230 CV. Combustível: diesel. Tração 4x2.",
+      "Marca_Modelo": "Foton/AUMARK M3",
+      "Codigo": "269786",
+      "Unidade_Medida": "unidade",
+      "Quantidade_Registrada": "9",
+      "Valor_Unitario": "622.000,00",
+      "Valor_Total_Item": "5.598.000,00"
+    },
+    {
+      "Item_TR": "4",
+      "Descricao_Especificacao": "VEICULO, Descrição: caminhão tipo toco, 0 km, cota reservada. Quantidade assumida pela vencedora da cota principal (Item 3).",
+      "Marca_Modelo": "Foton/AUMARK M3",
+      "Codigo": "269786",
+      "Unidade_Medida": "unidade",
+      "Quantidade_Registrada": "2",
+      "Valor_Unitario": "622.000,00",
+      "Valor_Total_Item": "1.244.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 11.862.000,00"
+}

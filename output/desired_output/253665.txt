@@ -1,2 +1,107 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253665.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "768/2025",
+    "Numero_Processo": "",
+    "Modalidade_Licitacao": "",
+    "Objeto": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "Empresa Brasileira de Serviços Hospitalares - Ebserh, filial HOSPITAL UNIVERSITÁRIO ONOFRE LOPES HUOL",
+    "CNPJ": "15.126.437/0007-39",
+    "UG": "155013",
+    "Endereco": "Avenida Nilo Peçanha, nº 620, Petrópolis, Natal/RN, CEP 59012-300",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Superintendente",
+        "Nome": "Eliane Pereira da Silva"
+      },
+      {
+        "Cargo": "Gerente Administrativo",
+        "Nome": "Rodrigo Amancio Briozo"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "EBRAM PRODUTOS LABORATORIAIS LTDA",
+    "CNPJ": "09.529.988/0001-09",
+    "Endereco": "RUA MANOEL COSTA LIMA, S/N, LOT: 326/A/1, CENTRO, CEP 59300-000, CAICÓ/RN",
+    "Telefone": "(84) 3417-6490",
+    "Email": "licitacao@ebramlab.com.br",
+    "Representante_Legal": "Aramis Samyr Novaes"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "68",
+      "Descricao_Especificacao": "CATETER DUPLO LUMEN PARA DIÁLISE, CURTO PRAZO",
+      "Marca_Modelo": "Arrow / 8.5 FR.",
+      "Codigo": "362482",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "155",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 101,00",
+      "Valor_Total_Item": "R$ 15.655,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "75",
+      "Descricao_Especificacao": "KIT PARA CATETERIZAÇÃO VENOSA PROFUNDA DUPLO LÚMEN, TIPO MARCA-PASSO TRANSVENOSO, 6 FR",
+      "Marca_Modelo": "Arrow / 6 FR.",
+      "Codigo": "57971",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "40",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 410,00",
+      "Valor_Total_Item": "R$ 16.400,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "76",
+      "Descricao_Especificacao": "KIT PARA CATETERIZAÇÃO VENOSA PROFUNDA DUPLO LÚMEN, TIPO MARCA-PASSO TRANSVENOSO, 7 FR",
+      "Marca_Modelo": "Arrow / 7 FR.",
+      "Codigo": "359495",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "25",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 410,00",
+      "Valor_Total_Item": "R$ 10.250,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "172",
+      "Descricao_Especificacao": "EQUIPO P/ ADMINISTRACAO DE SOLUCAO PARENTERAL, FOTOSSENSIVEL, TIPO BOMBA DE INFUSAO",
+      "Marca_Modelo": "I.B.P / C/ AGULHA",
+      "Codigo": "358455",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "1.500",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 22,00",
+      "Valor_Total_Item": "R$ 33.000,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "192",
+      "Descricao_Especificacao": "KIT PARA VENOCLISE C/ INJETOR LATERAL, SCALP",
+      "Marca_Modelo": "I.B.P / 21G",
+      "Codigo": "358603",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "1.200",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,90",
+      "Valor_Total_Item": "R$ 1.080,00",
+      "Valor_Total_Global_Item": ""
+    },
+    {
+      "Item_TR": "193",
+      "Descricao_Especificacao": "KIT PARA VENOCLISE C/ INJETOR LATERAL, SCALP",
+      "Marca_Modelo": "I.B.P / 23G",
+      "Codigo": "358602",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "800",
+      "Quantidade_Maxima_PMES": "",
+      "Valor_Unitario": "R$ 0,90",
+      "Valor_Total_Item": "R$ 720,00",
+      "Valor_Total_Global_Item": ""
+    }
+  ],
+  "Valor_Total": "R$ 77.105,00"
+}

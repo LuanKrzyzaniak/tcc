@@ -1,2 +1,61 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253524.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "708/2025",
+    "Numero_Processo": "23080.064412/2024-14",
+    "Pregao_Eletronico": "90068/2025-SRP",
+    "Objeto": "REGISTRO DE PREÇOS (Filme Radiográfico Odontológico)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE FEDERAL DE SANTA CATARINA (UFSC)",
+    "CNPJ": "83.899.526/0001-82",
+    "UG": "",
+    "Endereco": "Campus Universitário Reitor João David Ferreira Lima, Florianópolis (SC)",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor do Departamento de Compras (DCOM)",
+        "Nome": "FILIPE ESCOBAR DE MELLO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ELETROQUIP COMERCIO E LICITACOES LTDA",
+    "CNPJ": "05.854.663/0001-97",
+    "Endereco": "AVENIDA EMILIO RIBAS, 645 GOPOUVA, CEP 07.",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "LETICIA CAROLINE LIMAO"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "8",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 30 X 40 CM. CÓDIGO: 300968-1",
+      "Marca_Modelo": "-",
+      "Codigo": "300968-1",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "800",
+      "Valor_Unitario": "R$ 47,90",
+      "Valor_Total_Item": "R$ 38.320,00"
+    },
+    {
+      "Item_TR": "9",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 35 X 43 CM. CÓDIGO: 300969-0",
+      "Marca_Modelo": "-",
+      "Codigo": "300969-0",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "1.200",
+      "Valor_Unitario": "R$ 59,90",
+      "Valor_Total_Item": "R$ 71.880,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "FILME RADIOGRAFICO ODONTOLOGICO - TAMANHO 30 X 90 CM. CÓDIGO: 300970-3",
+      "Marca_Modelo": "-",
+      "Codigo": "300970-3",
+      "Unidade_Medida": "CX",
+      "Quantidade_Registrada": "500",
+      "Valor_Unitario": "R$ 138,50",
+      "Valor_Total_Item": "R$ 69.250,00"
+    }
+  ],
+  "Valor_Total": "R$ 179.450,00"
+}

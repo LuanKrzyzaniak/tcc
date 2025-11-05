@@ -1,2 +1,26 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253388.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "003.2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "SAAE - Serviço Autônomo de Captação de Água e Tratamento de Esgoto",
+    "Endereco": "Praça Guarda Marinha Greenhalg, n° 59 B. Centro, Angra dos Reis-R/J-CEP 23900.240"
+  },
+  "Fornecedor": {
+    "Razao_Social": "Megatec Eletromecânica LTDA",
+    "CNPJ": "29.032.525/0001-90",
+    "Endereco": "Rua São Miguel Arcanjo - nº 139 Paraíso - Resende RJ",
+    "Telefone": "(24) 98832-4926",
+    "Email": "talita@megatec.net.br"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "BOMBA SUBMERSIVEL DE ESGOTO SCAVENGER EJ30B-3.0CV 220V TRIFÁSICO",
+      "Marca_Modelo": "SCHNEIDER",
+      "Unidade_Medida": "UND",
+      "Quantidade_Registrada": "6",
+      "Valor_Unitario": "R$ 8.570,00"
+    }
+  ]
+}

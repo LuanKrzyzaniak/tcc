@@ -1,2 +1,42 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253650.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "99023/2025",
+    "Numero_Processo": "23188.002857.2025-85",
+    "Pregao_Eletronico_SRP": "90023/2025",
+    "Validade": "12 (DOZE) MESES",
+    "UASG": "158144"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO",
+    "CNPJ": "10.784.782/0001-50",
+    "UG": "",
+    "Endereco": "Av. Senador Filinto Muller, n°. 953, Bairro Quilombo, CEP: 78043-409, na cidade de Cuiabá-MT",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor-Geral Substituto do Campus Cuiabá Cel. Octayde Jorge da Silva",
+        "Nome": "VALTEMIR EMERENCIO DO NASCIMENTO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "",
+    "CNPJ": "",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": ""
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "",
+      "Descricao_Especificacao": "",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

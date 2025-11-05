@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253683.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "19/2025",
+    "Numero_Processo": "25389.000311/2024-78",
+    "Pregao_Eletronico": "Nº 19/2025 (Referência: REGISTRO DE PREÇOS nº 07/2025)"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "FUNDAÇÃO OSWALDO CRUZ (FIOCRUZ)",
+    "CNPJ": "33.781.055/0003-05",
+    "UG": "",
+    "Endereco": "Avenida Brasil, n.º 4.365, Manguinhos, Rio de Janeiro /RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Coordenadora-Geral de Infraestrutura dos Campi COGIC",
+        "Nome": "ANA BEATRIZ ALVES CUZZATTI"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SOMAR REPRESENTAÇÃO E COMÉRCIO LTDA",
+    "CNPJ": "11.281.914/0001-94",
+    "Endereco": "Praça das Américas, Número 294, Quadra 53, Lote 01 - B, Jardim Balneário Meia Ponte, Goiânia, Goiás, CEP: 74.593-040",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "MARIA WANUZIA BATISTA BARROS"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "DESCRIÇÃO (Item para COORDENAÇÃO GERAL DE ADMINISTRAÇÃO/FIOCRUZ e ESCOLA NACIONAL DE SAÚDE PÚBLICA SERGIO AROUCA)",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

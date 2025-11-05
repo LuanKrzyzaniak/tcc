@@ -1,2 +1,28 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253720.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 262/2025",
+    "Numero_Processo": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "ACL ASSISTENCIA E COMERCIO DE PRODUTOS PARA LABORATORIOS LTDA",
+    "CNPJ": "22.627.453/0001-85",
+    "Endereco": "avenida Cerro Azul, n.º 2485, Jardim Novo Horizonte, em Maringá-PR, CEP: 87010-055",
+    "Telefone": "(44) 3029-3222",
+    "Email": "atasecontratos@aclmaringa.com.br",
+    "Representante_Legal": "CARLOS RENATO TEDARDI"
+  },
+  "Itens_Registrados": [],
+  "Valor_Total": ""
+}

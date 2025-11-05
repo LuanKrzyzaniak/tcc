@@ -1,2 +1,70 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253703.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "03/2025",
+    "Numero_Processo": "24.19.000002543-0",
+    "Modalidade_Licitacao": "pregão, na forma eletrônica"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "CONSELHO REGIONAL DE MEDICINA DO ESTADO DO RIO DE JANEIRO",
+    "CNPJ": "31.027.527/0001-33",
+    "UG": "",
+    "Endereco": "Praia de Botafogo, número 228, Rio de Janeiro/RJ",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente em exercício",
+        "Nome": "Alexandre de Menezes Rodrigues"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "SERVITEC MANUTENCAO E SERVICOS LTDA",
+    "CNPJ": "00.563.858/0001-46",
+    "Endereco": "AV. SANTA ROSA, 258, VILA SANTA ROSA, NITERÓI/RJ, CEP: 24.241-000",
+    "Telefone": "21 98256-6548",
+    "Email": "servitecmanutencaoeservicos@gmail.com",
+    "Representante_Legal": "SIMONE DA SILVA DE MOURA"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "06",
+      "Descricao_Especificacao": "Placa de Identificação da Empresa - Impressão digital em PVC 3mm adesivado, 20x15cm.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "80",
+      "Valor_Unitario": "R$ 13,00",
+      "Valor_Total_Item": "R$ 1.040,00"
+    },
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "Placa de Identificação de Sala - Impressão digital em PVC 3mm adesivado, 30x10cm.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "80",
+      "Valor_Unitario": "R$ 10,00",
+      "Valor_Total_Item": "R$ 800,00"
+    },
+    {
+      "Item_TR": "08",
+      "Descricao_Especificacao": "Placa de Identificação de Funcional - Impressão digital em PVC 3mm adesivado, 15x8cm.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 5,00",
+      "Valor_Total_Item": "R$ 1.500,00"
+    },
+    {
+      "Item_TR": "09",
+      "Descricao_Especificacao": "Cartão de Visita - Couchê 300g, laminação fosca, 4/4 cores.",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "UN",
+      "Quantidade_Registrada": "5.000",
+      "Valor_Unitario": "R$ 0,08",
+      "Valor_Total_Item": "R$ 400,00"
+    }
+  ],
+  "Valor_Total": ""
+}

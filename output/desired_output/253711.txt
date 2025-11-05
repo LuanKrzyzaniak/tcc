@@ -1,2 +1,250 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253711.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 257/2025",
+    "Numero_Processo": "",
+    "Numero_Pregao": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA MUNICIPAL DE FERNANDÓPOLIS/SP",
+    "CNPJ": "47.842.836/0001-05",
+    "UG": "",
+    "Endereco": "Rua Porto Alegre, nº 350, Jd. Santa Rita, Fernandópolis/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Prefeito Municipal",
+        "Nome": "João Paulo Sales Cantarella"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CAMARGO SCIENCE SOLUCOES DIAGNOSTICAS LTDA",
+    "CNPJ": "08.580.826/0001-89",
+    "Endereco": "avenida Severino Meirelles, n.º 1656, SRD JPA 120, Centro, em Santa Rita do Passa Quatro-SP, CEP: 13670-000",
+    "Telefone": "(19) 3582-9797 (19) 3582-1772",
+    "Email": "contato@deciocamargo.com.br",
+    "Representante_Legal": "ANA CAROLINA MUSSOLINO CAMARGO SOEIRO, Proprietária"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ÁCIDO ÚRICO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.18",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ALANINA AMINOTRANSFERASE (ALT/TGP)",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.16",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 6.000,00"
+    },
+    {
+      "Item_TR": "04",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE ASPARTATO AMINOTRANSFERASE (AST/TGO)",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.17",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 6.000,00"
+    },
+    {
+      "Item_TR": "05",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE BILIRRUBINA TOTAL E FRACIONADA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.03",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "06",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE CÁLCIO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.04",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 3.800,00"
+    },
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE COLESTEROL HDL",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.05",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "08",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE COLESTEROL LDL",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.06",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    },
+    {
+      "Item_TR": "09",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE COLESTEROL VLDL",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.07",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 1.750,00"
+    },
+    {
+      "Item_TR": "10",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE CREATININA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.08",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 35,00",
+      "Valor_Total_Item": "R$ 5.250,00"
+    },
+    {
+      "Item_TR": "11",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE FERRO SÉRICO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.20",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 45,00",
+      "Valor_Total_Item": "R$ 2.250,00"
+    },
+    {
+      "Item_TR": "12",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE FOSFATASE ALCALINA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.10",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "13",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE FÓSFORO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.11",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 3.800,00"
+    },
+    {
+      "Item_TR": "14",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE GLICOSE",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.12",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "300",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 11.400,00"
+    },
+    {
+      "Item_TR": "15",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE GAMA GLUTAMIL TRANSFERASE (GGT)",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.09",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "100",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 4.000,00"
+    },
+    {
+      "Item_TR": "16",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE MAGNÉSIO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.21",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "17",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE PROTEÍNA TOTAL E FRAÇÕES",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.13",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "18",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE TRIGLICÉRIDES",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.15",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "19",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE UREIA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.19",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "150",
+      "Valor_Unitario": "R$ 38,00",
+      "Valor_Total_Item": "R$ 5.700,00"
+    },
+    {
+      "Item_TR": "20",
+      "Descricao_Especificacao": "SOLUÇÃO CALIBRADORA PARA BIOQUÍMICA",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.25",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "25",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 1.000,00"
+    },
+    {
+      "Item_TR": "21",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE CLORETO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.01",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "22",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE POTÁSSIO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.02",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    },
+    {
+      "Item_TR": "23",
+      "Descricao_Especificacao": "REAGENTE PARA DOSAGEM DE SÓDIO",
+      "Marca_Modelo": "BIOCLIN",
+      "Codigo": "1.05.002.04.03",
+      "Unidade_Medida": "Kit",
+      "Quantidade_Registrada": "50",
+      "Valor_Unitario": "R$ 40,00",
+      "Valor_Total_Item": "R$ 2.000,00"
+    }
+  ],
+  "Valor_Total": "R$ 68.650,00"
+}

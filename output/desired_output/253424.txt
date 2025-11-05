@@ -1,2 +1,57 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253424.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "006/2025 - CENA/USP",
+    "Numero_Processo": "154.00007134/2025-82"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE DE SÃO PAULO, POR INTERMÉDIO DO CENTRO DE ENERGIA NUCLEAR NA AGRICULTURA CENA/USP",
+    "CNPJ": "63.025.530/0083-50",
+    "UG": "",
+    "Endereco": "Av. CENTENÁRIO, 303 - SÃO DIMAS - PIRACICABA SP CEP 13.416-000",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor",
+        "Nome": "PROF. DR. ERNANI PINTO JUNIOR"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MA3 TECH INFORMÁTICA LTDA.",
+    "CNPJ": "26.498.396/0001-32",
+    "Endereco": "RUA CIDADE DE VARGEÃO Nº 80 - CIDADE INDUSTRIAL - CURITIBA-PR - CEP 81.240-190",
+    "Telefone": "(41) 991-135-596",
+    "Email": "MA3TECH@MA3TECH.COM.BR",
+    "Representante_Legal": "FABRIZIO GUSTAVO BERGAMO CECILIO"
+  },
+  "Fornecedor_Item_02": {
+    "Razao_Social": "LEC COMÉRCIO DE PRODUTOS DE INFORMÁTICA LTDA.",
+    "CNPJ": "08.625.688/0001-92",
+    "Endereco": "",
+    "Telefone": "",
+    "Email": "",
+    "Representante_Legal": "LEANDRO LUIS MONTEIRO CHERUBINI"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "01",
+      "Descricao_Especificacao": "MICROCOMPUTADORES",
+      "Marca_Modelo": "GMPC OFFICE / GM INFO",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "25 (VINTE E CINCO)",
+      "Valor_Unitario": "R$ 3.010,00 (TRÊS MIL E DEZ REAIS)",
+      "Valor_Total_Item": "R$ 75.250,00"
+    },
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "MONITORES DE VIDEO",
+      "Marca_Modelo": "DELL / S2425H",
+      "Codigo": "",
+      "Unidade_Medida": "UNIDADE",
+      "Quantidade_Registrada": "25 (VINTE E CINCO)",
+      "Valor_Unitario": "R$ 949,00 (NOVECENTOS E QUARENTA E NOVE REAIS)",
+      "Valor_Total_Item": "R$ 23.725,00"
+    }
+  ],
+  "Valor_Total": "R$ 98.975,00"
+}

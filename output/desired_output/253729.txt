@@ -1,2 +1,62 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253729.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "n.°: 044/2025",
+    "Numero_Processo": "00063-00004864/2024-88 e 00063-00004259/2025-98",
+    "Codigo_Unico": ""
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "FUNDAÇÃO HEMOCENTRO DE BRASÍLIA",
+    "CNPJ": "86.743.457/0001-01",
+    "UG": "",
+    "Endereco": "Setor Médico Hospitalar Norte - Quadra 03, Conj. \"A\", Bloco 03, Brasília/DF",
+    "Telefone": "",
+    "Email": "",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Presidente",
+        "Nome": "OSNEI OKUMOTO"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "BIOMETRIX DIAGNÓSTICA LTDA.",
+    "CNPJ": "06.145.976/0001-39",
+    "Endereco": "Rua Estrada da Graciosa, n.º: 1.081, Atuba, Curitiba/PR, CEP 82.840-360",
+    "Telefone": "(41) 2108-5250",
+    "Email": "isabela.rossetto@biometrix.com.br / camilla.pini@biometrix.com.br / karina.souza@biomtrix.com.br",
+    "Representante_Legal": "Isabela Noce Rossetto"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "1",
+      "Descricao_Especificacao": "Anti-soros para exame Prova de Cruzada de Transplante Tipo IgG de cabra anticadeia Kappa humana. Frasco com 1 (um) ml. Para uso no Laboratório de Imunologia dos Transplantes.",
+      "Marca_Modelo": "",
+      "Codigo": "367659",
+      "Unidade_Medida": "Frasco",
+      "Quantidade_Registrada": "03",
+      "Valor_Unitario": "R$5.428,93",
+      "Valor_Total_Item": "R$16.286,79"
+    },
+    {
+      "Item_TR": "2",
+      "Descricao_Especificacao": "Complemento de coelho Classe I (LOCI A, Be C) utilizado em testes de Histocompatibilidade. Frasco com 5 (cinco) ml. Para uso no Laboratório de Imunologia dos Transplantes.",
+      "Marca_Modelo": "",
+      "Codigo": "368037",
+      "Unidade_Medida": "Frasco",
+      "Quantidade_Registrada": "82",
+      "Valor_Unitario": "R$512,00",
+      "Valor_Total_Item": "R$41.984,00"
+    },
+    {
+      "Item_TR": "3",
+      "Descricao_Especificacao": "Complemento de coelho Classe II (LOCUS DR) utilizado em testes de Histocompatibilidade. Frasco com 5 ml. Para uso no Laboratório de Imunologia dos Transplantes.",
+      "Marca_Modelo": "",
+      "Codigo": "368036",
+      "Unidade_Medida": "Frasco",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}

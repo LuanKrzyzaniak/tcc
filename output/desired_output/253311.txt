@@ -1,2 +1,23 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253311.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "N.º 216/2025",
+    "Numero_Processo": "143.00011056/2025-86"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE BOTUCATU - HCFMB",
+    "CNPJ": "12.474.705/0001-20",
+    "Endereco": "Av. Prof. Mário Rubens Guimarães Montenegro, s/nº - Rubião Júnior, CEP 18.618-687, na cidade de Botucatu/SP",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretora do Departamento de Logística de Atendimento HCFMB",
+        "Nome": "Enf. Karen Aline Batista da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MEDICOR COMÉRCIO E REPRESENTAÇÕES DE PRODUTOS HOSPITALARES LTDA",
+    "CNPJ": "72.568.587/0001-40",
+    "Endereco": "RUA ALTO DO RODRIGUES, N 700, APT. 201, BAIRRO COELHOS - RECIFE/PE",
+    "Representante_Legal": "Simone Gazzana Lima"
+  }
+}

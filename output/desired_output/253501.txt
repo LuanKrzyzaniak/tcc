@@ -1,2 +1,43 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253501.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "808/2025-SMS.G",
+    "Numero_Processo": "6018.2025/0069299-1"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "PREFEITURA DE SÃO PAULO, através da SECRETARIA MUNICIPAL DA SAÚDE",
+    "CNPJ": "",
+    "UG": "",
+    "Endereco": "Rua Dr. Siqueira de Campos, 176 5º andar Liberdade - São Paulo, Capital, CEP: 01509-020",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Diretor da Divisão de Suprimentos",
+        "Nome": "APARECIDO DUARTE DE OLIVEIRA"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "MEDICINALI PRODUTOS PARA SAÚDE LTDA",
+    "CNPJ": "20.918.668/0001-20",
+    "Endereco": "Rua Jacinto Godoy nº 676, Centro, Erechim/RS, cep 99700-384",
+    "Telefone": "54-3712-1358",
+    "Email": "medicinali@hotmail.com",
+    "Representante_Legal": "Maritania Filipetto Folador"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "02",
+      "Descricao_Especificacao": "AÇÃO JUDICIAL - DIPIRONA SÓDICA 1 GRAMA COMPRIMIDO",
+      "Marca_Modelo": "DORALEX",
+      "Codigo": "",
+      "Unidade_Medida": "CP",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "R$0,75/CP",
+      "Valor_Total_Item": "",
+      "Fabricante": "VITAMEDIC INDUSTRIA FARMACEUTICA LTDA",
+      "Embalagem_Apresentacao": "CX C/ 10 CP",
+      "Registro_MS": "1.0392.0101.013-6",
+      "Procedencia": "NACIONAL"
+    }
+  ],
+  "Valor_Total": ""
+}

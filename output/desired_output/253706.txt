@@ -1,2 +1,40 @@
-Original PDF Path: C:\Users\Brian W. Krzyzaniak\OneDrive\Documentos\Coding\tcc\output\webscrapping\253706.pdf
-
+{
+  "Documento": {
+    "Numero_ARP": "00681/2025",
+    "Numero_Processo": "01-P-11986/2024 (Ascendente) / 01-P-31958/2025 (Descendente)",
+    "Pregao_Eletronico": "DGA Nº 90251/2025"
+  },
+  "Orgao_Gerenciador": {
+    "Razao_Social": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+    "CNPJ": "46.068.425/0001-33",
+    "UG": "450161",
+    "Endereco": "Praça das Bandeiras, n° 45- Quadra 2 - Prédio 1, Cidade Universitária \"Zeferino Vaz\" - Barão Geraldo, Campinas - SP - Brasil - CEP: 13083-869",
+    "Representantes_Legais": [
+      {
+        "Cargo": "Representante (matrícula funcional nº 308817)",
+        "Nome": "Danielle Caldani da Silva"
+      }
+    ]
+  },
+  "Fornecedor": {
+    "Razao_Social": "CIAMED - DISTRIBUIDORA DE MEDICAMENTOS LTDA.",
+    "CNPJ": "05.782.733/0002-20",
+    "Endereco": "Rua Antonio Dellai, nº 670, Vila Santucci - CEP: 13.614-165, Leme - SP",
+    "Telefone": "(51) 3751-9300",
+    "Email": "ciamed@ciamedrs.com.br",
+    "Representante_Legal": "Renata Casagrande Galiotto"
+  },
+  "Itens_Registrados": [
+    {
+      "Item_TR": "07",
+      "Descricao_Especificacao": "Medicamentos gerais de uso humano; monoetanolamina, oleato 50mg/ml; forma farmaceutica solucao injetavel; forma de apresentacao frasco-ampola/seringa preenchida/ampola 2ml;...",
+      "Marca_Modelo": "",
+      "Codigo": "",
+      "Unidade_Medida": "",
+      "Quantidade_Registrada": "",
+      "Valor_Unitario": "",
+      "Valor_Total_Item": ""
+    }
+  ],
+  "Valor_Total": ""
+}
